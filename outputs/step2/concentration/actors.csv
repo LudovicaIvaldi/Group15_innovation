@@ -1,0 +1,2227 @@
+﻿actor,type,country,country rule,families
+ORIGIN QUANTUM,company,CN,1 applicant country,1010
+IBM,company,US,1 applicant country,860
+BAIDU,company,CN,1 applicant country,354
+GOOGLE (ALPHABET),company,US,1 applicant country,243
+MICROSOFT,company,US,1 applicant country,243
+FUJITSU,company,JP,1 applicant country,211
+IONQ,company,US,1 applicant country,173
+INTEL,company,US,1 applicant country,165
+RUBAN QUANTUM,company,CN,3 first filing office,153
+QUANTINUUM,company,US,1 applicant country,150
+D-WAVE,company,CA,1 applicant country,136
+NTT,company,JP,1 applicant country,107
+NEC,company,JP,1 applicant country,101
+TSINGHUA UNIV,university,CN,1 applicant country,100
+MIT,university,US,1 applicant country,91
+BANK OF AMERICA,company,US,1 applicant country,91
+USTC,university,CN,1 applicant country,88
+RIGETTI,company,US,1 applicant country,86
+CHINESE ACADEMY OF SCIENCES,university,CN,1 applicant country,86
+IQM,company,FI,1 applicant country,84
+TENCENT,company,CN,1 applicant country,83
+NORTHROP GRUMMAN,company,US,1 applicant country,82
+TOSHIBA,company,JP,1 applicant country,78
+HITACHI,company,JP,1 applicant country,76
+INSPUR,company,CN,1 applicant country,76
+HUAWEI,company,CN,1 applicant country,73
+PSIQUANTUM,company,US,1 applicant country,70
+ETRI,gov / non-profit,KR,1 applicant country,69
+CEA,gov / non-profit,FR,1 applicant country,67
+TURING QUANTUM (TULING ZHISUAN),company,CN,3 first filing office,63
+ALIBABA,company,CN,1 applicant country,63
+AMAZON,company,US,1 applicant country,63
+QUDOOR (QIKE QUANTUM),company,CN,3 first filing office,61
+SAMSUNG,company,KR,1 applicant country,58
+YANGTZE RIVER DELTA QUANTUM INNOVATION CENTER,gov / non-profit,CN,1 applicant country,57
+DELL,company,US,1 applicant country,52
+PASQAL,company,FR,1 applicant country,52
+CNRS,gov / non-profit,FR,1 applicant country,51
+HARVARD UNIV,university,US,1 applicant country,49
+UNIV MARYLAND,university,US,1 applicant country,47
+1QBIT,company,CA,1 applicant country,46
+ZAPATA COMPUTING,company,US,1 applicant country,45
+PLA INFORMATION ENGINEERING UNIV,university,CN,3 first filing office,45
+MULTIVERSE COMPUTING,company,ES,1 applicant country,44
+KOREA UNIV,university,KR,1 applicant country,44
+WELLS FARGO,company,US,1 applicant country,43
+UNIV CHICAGO,university,US,1 applicant country,40
+INFLEQTION (COLDQUANTA),company,US,1 applicant country,40
+CHONGQING UNIV POSTS TELECOMMUNICATIONS,university,CN,1 applicant country,40
+CLASSIQ,company,IL,1 applicant country,39
+KAIST,university,KR,1 applicant country,38
+TU DELFT,university,NL,1 applicant country,38
+INFINEON,company,AT,1 applicant country,38
+ATOS (BULL),company,FR,1 applicant country,37
+HARBIN ENGINEERING UNIV,university,CN,3 first filing office,35
+YALE UNIV,university,US,1 applicant country,35
+LG ELECTRONICS,company,KR,1 applicant country,35
+DUKE UNIV,university,US,1 applicant country,33
+SHENZHEN LIANGXUAN TECH,company,CN,3 first filing office,33
+ACCENTURE,company,IE,1 applicant country,32
+ZHEJIANG GONGSHANG UNIV,university,CN,1 applicant country,32
+KYUNG HEE UNIV,university,KR,1 applicant country,32
+UNIV ARIZONA,university,US,1 applicant country,31
+XIDIAN UNIV,university,CN,3 first filing office,30
+STATE GRID,company,CN,3 first filing office,30
+ERICSSON,company,SE,1 applicant country,30
+RIKEN,gov / non-profit,JP,1 applicant country,30
+KIPU QUANTUM,company,DE,1 applicant country,29
+PEKING UNIV,university,CN,1 applicant country,28
+NANTONG UNIV,university,CN,3 first filing office,28
+SILICON QUANTUM COMPUTING,company,AU,1 applicant country,28
+NANJING UNIV,university,CN,1 applicant country,28
+QUANTUM MACHINES,company,IL,1 applicant country,27
+UNIV TOKYO,university,JP,1 applicant country,27
+CHENGDU UNIV INFORMATION TECH,university,CN,1 applicant country,26
+HUAYI BOAO QUANTUM,company,CN,3 first filing office,26
+NANJING UNIV POSTS TELECOMMUNICATIONS,university,CN,1 applicant country,26
+FORSCHUNGSZENTRUM JUELICH,gov / non-profit,DE,1 applicant country,26
+ELEQTRON,company,DE,1 applicant country,26
+UNIV CALIFORNIA,university,US,1 applicant country,25
+QC WARE,company,US,1 applicant country,25
+SHANDONG YUNHAI GUOCHUANG,company,CN,3 first filing office,24
+BEIJING UNIV POSTS TELECOMMUNICATIONS,university,CN,1 applicant country,23
+SANDIA,company,US,1 applicant country,23
+CALTECH,university,US,1 applicant country,23
+UNITED STATES AMERICA AS REPRESENTED BY SECRETARY NAVY,gov / non-profit,US,1 applicant country,23
+RIVERLANE,company,GB,1 applicant country,22
+XANADU,company,CA,1 applicant country,22
+FRAUNHOFER,gov / non-profit,DE,1 applicant country,22
+TERRA QUANTUM,company,CH,1 applicant country,22
+HONEYWELL INTERNATIONAL,company,US,1 applicant country,22
+NANJING UNIV AERONAUTICS ASTRONAUTICS,university,CN,3 first filing office,22
+PHOTONIC,company,CA,1 applicant country,21
+SOUTHEAST UNIV,university,CN,3 first filing office,21
+ALICE & BOB,company,FR,1 applicant country,21
+WISCONSIN ALUMNI RESEARCH FOUNDATION,university,US,1 applicant country,21
+ZHEJIANG UNIV,university,CN,1 applicant country,20
+ATOM COMPUTING,company,US,1 applicant country,20
+SOUTH CHINA NORMAL UNIV,university,CN,1 applicant country,20
+CHINAINSTRU QUANTUM,company,CN,3 first filing office,20
+WASEDA UNIV,university,JP,1 applicant country,20
+NORTHWESTERN UNIV,university,US,1 applicant country,19
+SOUTHERN UNIV SCIENCE TECH,university,CN,1 applicant country,19
+NANJING QUANTUM SCIENCE TECH,company,CN,3 first filing office,19
+BEIHANG UNIV,university,CN,1 applicant country,19
+BOEING,company,US,1 applicant country,19
+GUANGXI UNIV,university,CN,3 first filing office,19
+SIMILAR QUANTUM SCIENCE TECH,company,CN,3 first filing office,19
+GOVERNMENT UNITED STATES AMERICA AS REPRESENTED BY SECRETARY COMMERCE,gov / non-profit,US,1 applicant country,19
+ROBERT BOSCH,company,DE,1 applicant country,19
+AT T INTELLECTUAL PROPERTY I AMERICAN TELEPHONE TELEGRAPH COMPANY INTELLECTUAL PROPERTY I,company,US,1 applicant country,18
+IONIX,company,US,3 first filing office,18
+NEWSOUTH INNOVATIONS (UNSW),company,AU,1 applicant country,18
+WUHAN UNIV,university,CN,1 applicant country,17
+SHANGHAI JIAO TONG UNIV,university,CN,1 applicant country,17
+CCBFINTECH,company,CN,3 first filing office,17
+JPMORGAN CHASE,company,US,1 applicant country,17
+JST JAPAN SCIENCE TECH AGENCY,gov / non-profit,JP,1 applicant country,17
+SIEMENS,company,DE,1 applicant country,17
+QUANTUM TECH,company,DE,1 applicant country,17
+UNIV ELECTRONIC SCIENCE TECH CHINA,university,CN,3 first filing office,17
+AIST,gov / non-profit,JP,1 applicant country,17
+AACHEN UNIV RWTH AACHEN,university,DE,1 applicant country,16
+QUANTUM COMPUTING,company,US,1 applicant country,16
+NANJING UNIV INFORMATION SCIENCE TECH,university,CN,3 first filing office,16
+SHANDONG LANGTIDE INST SCIENTIFIC RESEARCH,company,CN,3 first filing office,16
+NO 30 INST CHINA ELECTRONIC TECH GROUP,company,CN,3 first filing office,16
+SEEQC,company,US,1 applicant country,16
+CENTRAL SOUTH UNIV,university,CN,1 applicant country,16
+OXFORD UNIV INNOVATION,university,GB,1 applicant country,16
+TOHOKU UNIV,university,JP,1 applicant country,16
+BEIJING QUANTUM INFORMATION SCIENCE RESEARCH INST,gov / non-profit,CN,3 first filing office,16
+ZHONGCHENG HUALONG COMPUTER TECH,company,CN,3 first filing office,16
+ORCA COMPUTING,company,GB,1 applicant country,16
+WEIZMANN INST SCIENCE,university,IL,1 applicant country,16
+DENSO,company,JP,1 applicant country,16
+UNIVERSAL QUANTUM,company,GB,1 applicant country,15
+MITSUBISHI ELECTRIC,company,JP,1 applicant country,15
+SEOUL NATIONAL UNIV,university,KR,1 applicant country,15
+HEFEI NATIONAL LAB,gov / non-profit,CN,1 applicant country,15
+HANYANG UNIV,university,KR,1 applicant country,15
+INSPUR GROUP,company,CN,3 first filing office,15
+SHENZHEN POLYTECHNIC,university,CN,1 applicant country,15
+UESTC,university,CN,3 first filing office,15
+EAGLE TECH,company,US,1 applicant country,15
+CHENGDU ZHONGWEI DAXIN TECH,company,CN,3 first filing office,15
+TATA CONSULTANCY SERVICES,company,IN,1 applicant country,15
+STANFORD UNIV,university,US,1 applicant country,15
+QUNASYS,company,JP,1 applicant country,15
+OSAKA UNIV,university,JP,1 applicant country,15
+NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO,gov / non-profit,NL,1 applicant country,14
+SORBONNE UNIV,university,FR,1 applicant country,14
+THALES,company,FR,1 applicant country,14
+GUANGXI NORMAL UNIV,university,CN,3 first filing office,14
+XIAN UNIV POSTS TELECOMMUNICATIONS,university,CN,3 first filing office,14
+SHANDONG INSPUR SCIENTIFIC RESEARCH INST,company,CN,3 first filing office,14
+QUANTUM MOTION TECH,company,GB,1 applicant country,14
+JEOL,company,JP,1 applicant country,13
+CISCO TECH,company,US,1 applicant country,13
+ANYON SYSTEMS,company,CA,1 applicant country,13
+MATRIX TIME DIGITAL TECH,company,CN,3 first filing office,13
+NOKIA TECH,company,FI,1 applicant country,13
+RIVER LANE RESEARCH,company,GB,1 applicant country,13
+VOLKSWAGEN,company,DE,1 applicant country,13
+BANK CHINA,company,CN,3 first filing office,13
+UNIV SIEGEN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,13
+RED HAT,company,US,1 applicant country,13
+RAYTHEON BBN TECH,company,US,1 applicant country,13
+RHEINISCH WESTFAELISCH TECHNISCHE HOCHSCHULE AACHEN,university,DE,1 applicant country,12
+SONY,company,JP,1 applicant country,12
+PHASECRAFT,company,GB,1 applicant country,12
+TOKYO INST TECH,university,JP,1 applicant country,12
+GOLDMAN SACHS,company,US,1 applicant country,12
+BEIJING ZHONGKE HUGUANG QUANTUM SOFTWARE TECH,company,CN,3 first filing office,12
+PURE STORAGE,company,US,1 applicant country,12
+NANJING NORMAL UNIV,university,CN,1 applicant country,12
+PORSCHE,company,DE,1 applicant country,12
+PRINCETON UNIV,university,US,1 applicant country,12
+CAMBRIDGE QUANTUM COMPUTING,company,GB,1 applicant country,12
+KUMOH NATIONAL INST TECH INDUSTRY ACADEMIC COOPERATION FOUNDATION,university,KR,1 applicant country,12
+MELLANOX TECH,company,IL,1 applicant country,12
+KDDI,company,JP,1 applicant country,12
+LOCKHEED MARTIN,company,US,1 applicant country,12
+MASTERCARD WORLDWIDE,company,US,1 applicant country,11
+IRIS BOB,company,FR,3 first filing office,11
+ZHEJIANG UNIV TECH,university,CN,1 applicant country,11
+ZHEJIANG LAB,company,CN,1 applicant country,11
+QINGDAO TECH UNIV,university,CN,3 first filing office,11
+SHANGHAI MARITIME UNIV,university,CN,1 applicant country,11
+DIRAQ,company,AU,1 applicant country,11
+CORNING,company,US,1 applicant country,11
+SICHUAN UNIV,university,CN,3 first filing office,11
+VALTION TEKNILLINEN TUTKIMUSKESKUS,gov / non-profit,FI,1 applicant country,11
+IMEC INTERUNIVERSITY MICROELECTRONICS CENTER,university,BE,1 applicant country,11
+UNIV JINAN,university,CN,3 first filing office,11
+SOCPRA SCIENCE GENIE SEC,university,CA,1 applicant country,11
+EQUAL1LABS,company,US,1 applicant country,11
+ABU DHABI UNIV,university,AE,1 applicant country,11
+BASF BADISCHE ANILIN SODA FABRIK,company,DE,1 applicant country,11
+BEIJING ACADEMY QUANTUM INFORMATION SCIENCE,gov / non-profit,CN,1 applicant country,11
+SYNOPSYS,company,US,1 applicant country,11
+PARITY QUANTUM COMPUTING,company,AT,1 applicant country,11
+HQS QUANTUM SIMULATIONS,company,DE,1 applicant country,11
+MAX PLANCK GESELLSCHAFT,gov / non-profit,DE,1 applicant country,10
+ANHUI UNIV,university,CN,3 first filing office,10
+NANJING NARI INFORMATION COMMUNICATION TECH,company,CN,3 first filing office,10
+UNIV LONDON,university,GB,1 applicant country,10
+INDUSTRIAL COMMERCIAL BANK CHINA,company,CN,3 first filing office,10
+QUERA COMPUTING,company,US,1 applicant country,10
+GUANGDONG UNIV TECH,university,CN,3 first filing office,10
+GUANGDONG NATIONAL QUANTUM TECH,company,CN,3 first filing office,10
+FUMASTONG JOINT STOCK AGENCY,company,JP,3 first filing office,10
+TDK,company,JP,1 applicant country,10
+TIANJIN UNIV,university,CN,1 applicant country,10
+QUNNECT,company,US,1 applicant country,10
+QUANTUM SPORTS TECH,company,JP,3 first filing office,10
+AT T MOBILITY II,company,US,1 applicant country,10
+ROHDE SCHWARZ,company,DE,1 applicant country,10
+NATIONAL UNIV DEFENSE TECH PLA,university,CN,3 first filing office,10
+KOBENHAVNS UNIVERSITET,university,DK,1 applicant country,10
+XIAN UNIV TECH,university,CN,3 first filing office,9
+UNIV INNSBRUCK,university,AT,1 applicant country,9
+HEFEI UNIV TECH,university,CN,3 first filing office,9
+YNU YOKOHAMA NATIONAL UNIV,university,JP,1 applicant country,9
+CHINESE SCIENCE TECH UNIV,university,CN,3 first filing office,9
+HUAZHONG UNIV SCIENCE TECH,university,CN,3 first filing office,9
+SICHUAN YUANJIANG TECH,company,CN,3 first filing office,9
+CHONGQING NORMAL UNIV,university,CN,3 first filing office,9
+QUANTUMCTEK,company,CN,1 applicant country,9
+HEFEI GUIZHEN CHIP TECH,company,CN,3 first filing office,9
+CHINA TELECOM,company,CN,3 first filing office,9
+QUBIT MOVING STORAGE,company,US,1 applicant country,9
+UNISYS,company,US,1 applicant country,9
+MATRIX LAB,company,CN,3 first filing office,9
+CABLE TELEVISION LAB,company,US,1 applicant country,9
+ID QUANTIQUE,company,CH,1 applicant country,9
+POSTECH RESEARCH BUSINESS DEVELOPMENT FOUNDATION,gov / non-profit,KR,1 applicant country,8
+BUNDESDRUCKEREI,company,DE,1 applicant country,8
+UNIV COLORADO,university,US,1 applicant country,8
+ALPINE QUANTUM TECH,company,AT,1 applicant country,8
+HEFEI YIWEI QUANTUM TECH,company,CN,3 first filing office,8
+SUZHOU UNIV,university,CN,3 first filing office,8
+FERMI RESEARCH ALLIANCE,company,US,1 applicant country,8
+UNIV ROCHESTER,university,US,1 applicant country,8
+PURDUE RESEARCH FOUNDATION,university,US,1 applicant country,8
+HYUNDAI MOTOR,company,KR,1 applicant country,8
+PUSAN NATIONAL UNIV,university,KR,1 applicant country,8
+BEIJING INST TECH,university,CN,1 applicant country,8
+SHENZHEN Y D ELECTRONICS INFORMATION,company,CN,3 first filing office,8
+ZHENGZE QUANTUM BEIJING TECH,company,CN,3 first filing office,8
+KIST KOREA INST SCIENCE TECH,gov / non-profit,KR,1 applicant country,8
+BEI T,company,US,1 applicant country,8
+UNIV TEXAS SYSTEM,university,US,1 applicant country,8
+STATE UNIV NEW YORK,university,US,1 applicant country,8
+SHENZHEN UNIV,university,CN,1 applicant country,8
+KIA MOTORS,company,KR,1 applicant country,8
+TAIWAN SEMICONDUCTOR MANUFACTURING,company,TW,1 applicant country,8
+CMC CHINA MOBILE COMMUNICATIONS,company,CN,1 applicant country,8
+NVIDIA,company,US,1 applicant country,8
+HARBIN INST TECH,university,CN,1 applicant country,8
+LAWRENCE LIVERMORE NATIONAL SECURITY,gov / non-profit,US,1 applicant country,8
+ZAHNRADFABRIK FRIEDRICHSHAFEN,company,DE,1 applicant country,8
+HANSUNG UNIV INDUSTRY UNIV COOPERATION FOUNDATION,university,KR,1 applicant country,8
+SOUTHWEST UNIV,university,CN,1 applicant country,8
+SUZHOU RUN INTELLIGENT SCIENCE TECH,company,CN,3 first filing office,8
+QU CO R D,company,NL,1 applicant country,8
+STRONG FORCE VCN PORTFOLIO 2019,company,US,1 applicant country,8
+KOREA ELECTRONICS TECH INST,gov / non-profit,KR,1 applicant country,8
+GWANGJU INST SCIENCE TECH,university,KR,1 applicant country,7
+SHANGHAI UNIV ELECTRIC POWER,university,CN,3 first filing office,7
+ZHONGKE KUYUAN TECH WUHAN,company,CN,3 first filing office,7
+AHP TECH,company,TW,1 applicant country,7
+UNIV OXFORD,university,GB,1 applicant country,7
+ELMOS SEMICONDUCTOR,company,DE,1 applicant country,7
+NATIONAL TAIWAN UNIV,university,TW,1 applicant country,7
+INSPUR SUZHOU INTELLIGENT TECH,company,CN,1 applicant country,7
+NATIONAL RESEARCH COUNCIL CANADA,gov / non-profit,CA,1 applicant country,7
+INRIA INST NATIONAL RECHERCHE EN INFORMATIQUE EN AUTOMATIQUE,gov / non-profit,FR,1 applicant country,7
+SOOCHOW UNIV,university,CN,3 first filing office,7
+SHANDONG INSPUR SCIENCE RESEARCH INST,company,CN,1 applicant country,7
+NPL MANAGEMENT,company,GB,1 applicant country,7
+HUNAN UNIV,university,CN,3 first filing office,7
+SERVICEPOWER BUSINESS SOLUTIONS,company,GB,1 applicant country,7
+CONSIGLIO NAZIONALE DELLE RICERCHE,gov / non-profit,IT,1 applicant country,7
+CORNELL UNIV,university,US,1 applicant country,7
+QINGDAO UNIV TECH,university,CN,1 applicant country,7
+HANGZHOU DIANZI UNIV,university,CN,3 first filing office,7
+NXGEN PARTNERS IP,company,US,1 applicant country,7
+BEIJING UNIV TECH,university,CN,3 first filing office,7
+JINAN INST QUANTUM TECH,gov / non-profit,CN,1 applicant country,7
+OXFORD ION,company,GB,3 first filing office,7
+QUEMIX,company,JP,1 applicant country,7
+QUANTUM INTECH,company,DE,3 first filing office,7
+CHANGCHUN UNIV SCIENCE TECH,university,CN,3 first filing office,7
+RHEINISCH WESTFALISCHE TECHNISCHE HOCHSCHULE RWTH AACHEN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,7
+YEDA RESEARCH DEVELOPMENT,company,IL,1 applicant country,7
+OXFORD IONICS,company,GB,1 applicant country,7
+RTX BBN TECH,company,US,1 applicant country,7
+NATIONAL INST METROLOGY CHINA,university,CN,3 first filing office,7
+CHINA TELECOM QUANTUM TECH,company,CN,1 applicant country,7
+UNIV SOUTHERN CALIFORNIA,university,US,1 applicant country,7
+HEFEI ORIGIN QUANTUM CALCULATING TECH,company,CN,3 first filing office,6
+SAXONQ,company,DE,1 applicant country,6
+01 COMMUNIQUE LAB,company,CA,1 applicant country,6
+AMD ADVANCED MICRO DEVICES,company,US,1 applicant country,6
+VERIZON PATENT LICENSING,company,US,1 applicant country,6
+NATIONAL UNIV SINGAPORE,university,SG,1 applicant country,6
+NORTHWESTERN POLYTECHNICAL UNIV,university,CN,3 first filing office,6
+NANCHANG UNIV,university,CN,3 first filing office,6
+ITRI INDUSTRIAL TECH RESEARCH INST,gov / non-profit,TW,1 applicant country,6
+SHENZHEN SPINQ TECH,company,CN,1 applicant country,6
+ANHUI HUADIAN BIG DATA TECH,company,CN,3 first filing office,6
+VERIQLOUD,company,FR,1 applicant country,6
+NATIONAL APPLIED RESEARCH LAB,gov / non-profit,TW,1 applicant country,6
+BAR ILAN UNIV,university,IL,1 applicant country,6
+UNIV TORONTO,university,CA,1 applicant country,6
+QUBIT PHARMACEUTICALS,company,FR,1 applicant country,6
+UNIV SEOUL,university,KR,1 applicant country,6
+QUANDELA,company,FR,1 applicant country,6
+TOKYO UNIV SCIENCE,university,JP,1 applicant country,6
+TIANYI CLOUD TECH,company,CN,3 first filing office,6
+SUNGKYUNKWAN UNIV,university,KR,1 applicant country,6
+CHINA THREE GORGES UNIV,university,CN,3 first filing office,6
+T MOBILE INNOVATIONS,company,US,1 applicant country,6
+UNIV PARIS CITE,university,FR,1 applicant country,6
+QUALCOMM,company,US,1 applicant country,6
+GUANGDONG POWER GRID,company,CN,3 first filing office,6
+EAST CHINA INST CALCULATION TECH INST FOURTY 212 CHINA ELECTRONIC SCIENCE TECH GROUP,company,CN,3 first filing office,6
+SHENZHEN ZHENGJI TECH,company,CN,3 first filing office,6
+COLUMBIA UNIV,university,US,1 applicant country,6
+EAST CHINA NORMAL UNIV,university,CN,3 first filing office,6
+SIEMENS HEALTHCARE,company,DE,1 applicant country,6
+BT BRITISH TELECOMMUNICATIONS,company,GB,1 applicant country,6
+SHANDONG MASS INST INFORMATION TECH,gov / non-profit,CN,3 first filing office,6
+JIANGSU HENGTONG WENTIAN QUANTUM INFORMATION RESEARCH INST,company,CN,3 first filing office,5
+MERCARI,company,JP,1 applicant country,5
+DARTMOUTH COLLEGE,university,US,1 applicant country,5
+BEIJING INST QUANTUM INFORMATION SCIENCE,gov / non-profit,CN,3 first filing office,5
+UNIV MELBOURNE,university,AU,1 applicant country,5
+NU QUANTUM,company,GB,1 applicant country,5
+UIF UNIV INDUSTRY FOUNDATION YONSEI UNIV,university,KR,1 applicant country,5
+GUOTENG GUANGZHOU QUANTUM COMPUTING TECH,company,CN,3 first filing office,5
+BOSON QUANTUM TECH,company,CN,3 first filing office,5
+IDEA TECH,company,CN,3 first filing office,5
+INFLEQTION QUANTUM,company,US,1 applicant country,5
+BRITISH TELECOMMUNICATIONS PUBLIC,company,GB,1 applicant country,5
+COMPANY,company,CN,3 first filing office,5
+EAST CHINA JIAOTONG UNIV,university,CN,3 first filing office,5
+DIRAC,company,KR,3 first filing office,5
+SHANXI UNIV,university,CN,1 applicant country,5
+SHANDONG INST QUANTUM SCIENCE TECH,gov / non-profit,CN,1 applicant country,5
+ECOLE NORMALE SUPERIEURE,university,FR,1 applicant country,5
+TRUSTEES PRINCETON UNIV,university,US,1 applicant country,5
+CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS,gov / non-profit,ES,1 applicant country,5
+INTER UNIV RESEARCH INST CORPORATION RESEARCH ORGANIZATION INFORMATION SYSTEMS,university,JP,1 applicant country,5
+XIAN ELECTRONIC SCIENCE TECH UNIV,university,CN,3 first filing office,5
+X DEVELOPMENT,company,US,1 applicant country,5
+MATRIX TIME DIGITAL SCIENCE TECH,company,CN,3 first filing office,5
+DEUTSCHE TELEKOM,company,DE,1 applicant country,5
+Q CTRL,company,AU,1 applicant country,5
+CHENGDU UNIV TECH,university,CN,1 applicant country,5
+QBLOX,company,NL,1 applicant country,5
+QUANTUM BRILLIANCE,company,AU,1 applicant country,5
+CHINA ACADEMY INFORMATION COMMUNICATIONS TECH,gov / non-profit,CN,3 first filing office,5
+SYRACUSE UNIV,university,US,1 applicant country,5
+TAIYUAN UNIV TECH,university,CN,3 first filing office,5
+FUZHOU UNIV,university,CN,3 first filing office,5
+GE GENERAL ELECTRIC,company,US,1 applicant country,5
+GLOBALFOUNDRIES,company,KY,1 applicant country,5
+BEIJING BOSE QUANTUM TECH,company,CN,3 first filing office,5
+BEIJING AIRCRAFT SPACE UNIV,university,CN,3 first filing office,5
+RAYTHEON,company,US,1 applicant country,5
+RESEARCH ORGANIZATION INFORMATION SYSTEMS,university,JP,3 first filing office,5
+QULABZ,company,US,1 applicant country,5
+FUDAN UNIV,university,CN,1 applicant country,5
+STATE GRID JIANGSU ELECTRIC POWER,company,CN,3 first filing office,5
+CAS QUANTUMNET,company,CN,3 first filing office,5
+CHINA MOBILE SUZHOU SOFTWARE TECH,company,CN,1 applicant country,5
+SUZHOU HONGCHAIN INFORMATION TECH,company,CN,3 first filing office,5
+NANOFIBER QUANTUM TECH,company,JP,1 applicant country,5
+NATIONAL DEFENSE UNIV CHINESE PEOPLES LIBERATION ARMY,university,CN,3 first filing office,5
+ALGORITHMIQ,company,FI,1 applicant country,5
+KYOTO UNIV,university,JP,1 applicant country,5
+NATIONAL INST MATERIALS SCIENCE,gov / non-profit,JP,1 applicant country,5
+INST NATIONAL RECHERCHE EN INFORMATIQUE ETEN AUTOMATIQUE,gov / non-profit,FR,1 applicant country,5
+HUADONG INST COMPUTING TECH CETC NO32 RESEARCH INST,gov / non-profit,CN,3 first filing office,5
+OXFORD QUANTUM CIRCUITS,company,GB,1 applicant country,5
+OHIO STATE INNOVATION FOUNDATION,gov / non-profit,US,1 applicant country,5
+HP,company,US,1 applicant country,5
+BEIJING YOUZHUJU NETWORK TECH,company,CN,1 applicant country,5
+BEIJING YANQIHU APPLICATION MATHEMATICS RESEARCH INST,gov / non-profit,CN,3 first filing office,5
+OCEAN UNIV CHINA,university,CN,3 first filing office,5
+OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN,gov / non-profit,AT,1 applicant country,5
+EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH,university,CH,1 applicant country,5
+ELECTRONIC SCIENCE TECH UNIV,university,CN,3 first filing office,5
+COLORADO SCHOOL MINES,university,US,1 applicant country,5
+NATIONAL SUPERCOMPUTING CENTER IN WUXI,gov / non-profit,CN,3 first filing office,5
+B G NEGEV TECH APPLICATIONS LTD AT BEN GURION UNIV,university,IL,1 applicant country,5
+MITSUBISHI ELECTRIC RESEARCH LAB,company,US,1 applicant country,5
+MITRE,company,US,1 applicant country,5
+ANAMETRIC,company,US,1 applicant country,5
+ARIZONA STATE UNIV,university,US,1 applicant country,4
+SHANGHAI MICRO ERA DIGITAL TECH,company,CN,3 first filing office,4
+SHANGHAI DIANJI UNIV,university,CN,3 first filing office,4
+ANYON COMPUTING,company,US,1 applicant country,4
+WUXI NANLIGONG TECH DEVELOPMENT,company,CN,3 first filing office,4
+KIKE QUANTUM TECH PEARL HA,company,CN,3 first filing office,4
+KEYSIGHT TECH CANADA,company,US,1 applicant country,4
+XIJING UNIV,university,CN,3 first filing office,4
+SHENZHEN INTERNATIONAL INST QUANTUM RESEARCH,gov / non-profit,CN,3 first filing office,4
+APPLIED MATERIALS,company,US,1 applicant country,4
+BEIT,company,US,1 applicant country,4
+UNIV BRITISH COLUMBIA,university,CA,1 applicant country,4
+TURING,company,US,1 applicant country,4
+ZHENGZHOU XINDAI ADVANCED TECH RESEARCH INST,gov / non-profit,CN,3 first filing office,4
+ZHENGZHOU UNIV,university,CN,3 first filing office,4
+INST NETWORK INFORMATION ACADEMY SYSTEMS ENGINEERING ACADEMY MILITARY SCIENCE,gov / non-profit,CN,3 first filing office,4
+INST PHYSICS CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,4
+MAX PLANCK GESELLSCHAFT ZUR FRDERUNG DER WISSENSCHAFTEN EV,gov / non-profit,DE,1 applicant country,4
+SOUTH CHINA AGRICULTURAL UNIV,university,CN,3 first filing office,4
+SOUTH CHINA UNIV TECH,university,CN,3 first filing office,4
+INTERNATIONAL SUPERCONDUCTIVITY TECH CENTER,gov / non-profit,JP,1 applicant country,4
+SHANDONG HI SPEED CONSTRUCTION MANAGEMENT GROUP,company,CN,3 first filing office,4
+UT BATTELLE,company,US,1 applicant country,4
+TECHNION ISRAEL INST TECH,university,IL,1 applicant country,4
+ECOLE NORMALE SUPERIEURE LYON,university,FR,1 applicant country,4
+EAST CHINA COMPUTER TECH RESEARCH INST 32ND RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,4
+EAST CHINA JIAOTONG UNIVERSTIY,university,CN,3 first filing office,4
+GTN,company,GB,1 applicant country,4
+GUANGDONG GUANGTENG QUANTUM TECH,company,CN,3 first filing office,4
+GOVERNMENT UNITED STATES AS REPRESENTED BY DIRECTOR NATIONAL SECURITY AGENCY,gov / non-profit,US,1 applicant country,4
+TOYOTA MOTOR,company,JP,1 applicant country,4
+BOISE STATE UNIV,university,US,1 applicant country,4
+QUANTUM VALLEY INVESTMENT FUND,company,CA,1 applicant country,4
+UCHICAGO ARGONNE,company,US,1 applicant country,4
+GOOD CHEMISTRY,company,CA,1 applicant country,4
+GENERAL DYNAMICS MISSION SYSTEMS,company,US,1 applicant country,4
+HENAN POLYTECHNIC UNIV,university,CN,3 first filing office,4
+UNIV LOUIS PASTEUR,university,FR,1 applicant country,4
+HOKKAIDO UNIV,university,JP,1 applicant country,4
+QUANTUM SOURCE LAB,company,IL,1 applicant country,4
+GLOBAL QUANTUM,company,GB,3 first filing office,4
+UNIV WASHINGTON,university,US,1 applicant country,4
+BEIJING INST COMPUTER TECH APPLICATION,gov / non-profit,CN,3 first filing office,4
+ROSSIJSKAYA FEDERATSIYA OT IMENI KOTOROJ VYSTUPAET FOND PERSPEKTIVNYKH ISSLEDOVANIJ,gov / non-profit,RU,1 applicant country,4
+ASSOCIATION POUR LA RECHERCHE LE DEVELOPPEMENT METHODES PROCESSUS INDUSTRIELS ARMINES,gov / non-profit,FR,1 applicant country,4
+SECOND FOUNDATION,company,US,1 applicant country,4
+UNIV QUEENSLAND,university,AU,1 applicant country,4
+NANJING POST TELECOM UNIV,university,CN,3 first filing office,4
+TECH INNOVATION CENTER CHINA TELECOM,company,CN,3 first filing office,4
+UNIV MASSACHUSETTS,university,US,1 applicant country,4
+SUQIAN COLLEGE,university,CN,3 first filing office,4
+FUJIAN NORMAL UNIV,university,CN,3 first filing office,4
+INFORMATION COMMUNICATION BRANCH STATE GRID ZHEJIANG ELECTRIC POWER,company,CN,3 first filing office,4
+INFORMATION ENGINEERING UNIV CHINESE PEOPLE LIBERATION ARMY STRATEGIC SUPPORT ARMY,university,CN,3 first filing office,4
+NIPPON STEEL,company,JP,3 first filing office,4
+OCCHIO QUANTUM COMPUTING,company,AU,3 first filing office,4
+HYPRES,company,US,1 applicant country,4
+NORD QUANTIQUE,company,CA,1 applicant country,4
+CHINA UNIONPAY,company,CN,1 applicant country,4
+NINGBO UNIV,university,CN,3 first filing office,4
+ROTONIUM,company,IT,1 applicant country,4
+HUBEI UNIV TECH,university,CN,3 first filing office,4
+UNIVERSITEIT TWENTE,university,NL,1 applicant country,4
+NATIONAL DEFENSE SCIENCE TECH INNOVATION INST ACADEMY MILITARY SCIENCE PLA CHINA,gov / non-profit,CN,3 first filing office,4
+NANYANG TECH UNIV,university,SG,1 applicant country,4
+STATE GRID ANHUI ELECTRIC POWER,company,CN,3 first filing office,4
+QUFU NORMAL UNIV,university,CN,3 first filing office,4
+AALTO UNIV FOUNDATION SR,university,FI,1 applicant country,4
+YAHOO JAPAN,company,JP,2 script of the name,4
+ANHUI CAMBRICON INFORMATION TECH,company,CN,1 applicant country,4
+JIANGNAN INST COMPUTING TECH,gov / non-profit,CN,3 first filing office,4
+SICHUAN NORMAL UNIV,university,CN,3 first filing office,4
+M D R,company,JP,1 applicant country,4
+MACRONIX INTERNATIONAL,company,TW,1 applicant country,4
+JFE STEEL,company,JP,3 first filing office,4
+JHU JOHNS HOPKINS UNIV,university,US,1 applicant country,4
+WENZHOU UNIV,university,CN,3 first filing office,4
+SERVICE POWER TECH,company,GB,1 applicant country,4
+QANT,company,DE,1 applicant country,4
+QDEVIL,company,DK,1 applicant country,4
+HSBC GROUP MANAGEMENT SERVICES,company,GB,1 applicant country,4
+GUILIN UNIV ELECTRONIC TECH,university,CN,3 first filing office,4
+UNITED SERVICES AUTOMOBILE ASSOCIATION USAA,company,US,1 applicant country,4
+UNITED STATES AMERICA AS REPRESENTED BY NATIONAL SECURITY AGENCY,gov / non-profit,US,1 applicant country,4
+QPHOX,company,NL,1 applicant country,4
+QPIAI INDIA PRIVATE,company,IN,1 applicant country,4
+QSIMPLUS,company,KR,1 applicant country,4
+GRID,company,JP,1 applicant country,4
+DALIAN UNIV,university,CN,3 first filing office,4
+SHANGHAI UNIV,university,CN,3 first filing office,4
+GUSU LAB,company,CN,3 first filing office,4
+ZHONGSHAN UNIV,university,CN,1 applicant country,4
+AGENCY DEFENSE DEVELOPMENT,gov / non-profit,KR,1 applicant country,4
+XIAN POLYTECHNIC UNIV,university,CN,3 first filing office,3
+AEMEA,company,US,1 applicant country,3
+ZURICH INSTRUMENTS,company,CH,1 applicant country,3
+QUANTUM ENETECH SWEDEN,company,SE,3 first filing office,3
+QUANTUM ART,company,IL,1 applicant country,3
+QUANTUM BENCHMARK,company,CA,1 applicant country,3
+SHANGHAI TECH UNIV,university,CN,1 applicant country,3
+PURPLE MOUNTAIN LAB NETWORK COMMUNICATION SECURITY,company,CN,3 first filing office,3
+PWC PRODUCT SALES,company,US,1 applicant country,3
+GUIZHOU UNIV,university,CN,3 first filing office,3
+PREVIDEO IMAGING TECH,company,CN,3 first filing office,3
+GOVERNMENT UNITED STATES AS REPRESENTED BY SECRETARY AIR FORCE,gov / non-profit,US,1 applicant country,3
+QEDMA QUANTUM COMPUTING,company,IL,1 applicant country,3
+QET SWEDEN,company,SE,1 applicant country,3
+QILIMANJARO QUANTUM TECH,company,ES,1 applicant country,3
+PALO ALTO RESEARCH CENTER,company,US,1 applicant country,3
+PANASONIC INTELLECTUAL PROPERTY,company,JP,1 applicant country,3
+SHANDONG UNIV,university,CN,3 first filing office,3
+SHANDONG YINGXIN COMPUTER TECH,company,CN,1 applicant country,3
+WASHINGTON UNIV IN ST LOUIS,university,US,1 applicant country,3
+LISEN NOCO,company,US,3 first filing office,3
+COMPAL ELECTRONICS,company,TW,1 applicant country,3
+JILIN UNIV,university,CN,3 first filing office,3
+JINGDEZHEN CERAMIC INST,university,CN,3 first filing office,3
+LUDWIG MAXIMILIANS UNIV MUENCHEN,university,DE,1 applicant country,3
+IONIC QUANTUM CANADA,company,JP,3 first filing office,3
+MIRAEX,company,CH,1 applicant country,3
+SHIN ETSU HANDOTAI,company,JP,3 first filing office,3
+SHRONG ENERGY TECH,company,CN,1 applicant country,3
+COOX,company,GB,3 first filing office,3
+LEIBNIZ UNIV HANNOVER,university,DE,1 applicant country,3
+LEMON,company,KY,1 applicant country,3
+KYNDI,company,US,1 applicant country,3
+UNIV VIRGINIA,university,US,1 applicant country,3
+MIZUHO FINANCIAL GROUP,company,JP,1 applicant country,3
+MIZUHO RESEARCH TECH,company,JP,1 applicant country,3
+MINJIANG UNIV,university,CN,3 first filing office,3
+YANSHAN UNIV,university,CN,3 first filing office,3
+UNM RAINFOREST INNOVATIONS,company,US,1 applicant country,3
+UNIV ULM,university,DE,1 applicant country,3
+CITY UNIV NEW YORK,university,US,1 applicant country,3
+SINOPEC CHINA PETROCHEMICAL,company,CN,3 first filing office,3
+EQUAL 1 LAB IRELAND,company,IE,1 applicant country,3
+ENTROPICA LAB,company,SG,1 applicant country,3
+UNIV PARIS SACLAY,university,FR,1 applicant country,3
+HUBEI NORMAL UNIV,university,CN,3 first filing office,3
+NORTH CHINA UNIV TECH,university,CN,3 first filing office,3
+CHONGQING UNIV,university,CN,3 first filing office,3
+CHINA UNICOM,company,CN,3 first filing office,3
+STATE GRID INFORMATION TELECOMMUNICATION,company,CN,3 first filing office,3
+STATE FARM MUTUAL AUTOMOBILE INSURANCE,company,US,1 applicant country,3
+NEW YORK UNIV,university,US,1 applicant country,3
+NATIONAL INST INFORMATION COMMUNICATIONTECHNOLOGY,gov / non-profit,JP,3 first filing office,3
+NATIONAL INSTRUMENT QUANTUM HEFEN TECH,company,CN,3 first filing office,3
+OPTUM SERVICES IRELAND,company,IE,1 applicant country,3
+NVISION IMAGING TECH,company,DE,1 applicant country,3
+NORMA,company,KR,1 applicant country,3
+NORTH CAROLINA STATE UNIV,university,US,1 applicant country,3
+INFORMATION COMMUNICATION BRANCH STATE GRID ANHUI ELECTRIC POWER,company,CN,3 first filing office,3
+NO2 RESEARCH INST CHINA AEROSPACE SCIENCE INDUSTRY,company,CN,3 first filing office,3
+FORTIOR BLOCKCHAIN LLLP,company,US,1 applicant country,3
+FISKE SOFTWARE,company,US,1 applicant country,3
+STREAMLINE AUTOMATION,company,US,1 applicant country,3
+STRONG FORCE EE PORTFOLIO 2022,company,US,1 applicant country,3
+STRONG FORCE TX PORTFOLIO 2018,company,US,1 applicant country,3
+CHONGQING INST GREEN INTELLIGENT TECH CHINESE ACADEMY SCIENCE,university,CN,3 first filing office,3
+UNIV CENTRAL FLORIDA,university,US,1 applicant country,3
+UNIV CLAUDE BERNARD LYON 1,university,FR,1 applicant country,3
+CHINA IWNCOMM,company,CN,1 applicant country,3
+CHINA ELECTRONIC STANDARDIZATION INST,gov / non-profit,CN,3 first filing office,3
+CHINA ELECTRONICS TECH GROUP CORPORATION NO16 INST,company,CN,3 first filing office,3
+CHINA GREATWALL TECH GROUP,company,CN,3 first filing office,3
+SUMITOMO ELECTRIC INDUSTRIES,company,JP,1 applicant country,3
+FUJIFILM,company,JP,1 applicant country,3
+HOMO MIMICUS,company,KR,1 applicant country,3
+HONDA MOTOR,company,JP,1 applicant country,3
+UNIV FLORIDA,university,US,1 applicant country,3
+UNIV GENEVA,university,CH,1 applicant country,3
+FUNDACIO INST CIENCIES FOTONIQUES,gov / non-profit,ES,1 applicant country,3
+TECHNISCHE UNIV MUNCHEN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,3
+TEIKYO UNIV,university,JP,1 applicant country,3
+BEIJING INST PETROCHEMICAL TECH,university,CN,3 first filing office,3
+UNIV OREGON,university,US,1 applicant country,3
+MCGILL UNIV,university,CA,1 applicant country,3
+MDR,company,CN,2 script of the name,3
+NANJING INFORMATION ENGINEERING UNIV,university,CN,3 first filing office,3
+INTERNATIONAL COMMERCIAL MACHINE,company,US,3 first filing office,3
+ELECTRIC POWER SCIENCE RESEARCH INST STATE GRID ANHUI ELECTRIC POWER,company,CN,3 first filing office,3
+UNIV STUTTGART,university,DE,1 applicant country,3
+UNIV PITTSBURGH,university,US,1 applicant country,3
+UNIV PARIS,university,FR,1 applicant country,3
+NANJING UNIV SCIENCE TECH,university,CN,3 first filing office,3
+UNIV LA SAPIENZA ROME,university,IT,1 applicant country,3
+UNIV LEIPZIG,university,DE,1 applicant country,3
+RESONAC,company,JP,1 applicant country,3
+RECRUIT COMMUNICATIONS,company,JP,1 applicant country,3
+QUIX QUANTUM,company,NL,1 applicant country,3
+SEMICONDUCTOR RESEARCH INST CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,3
+SDT,company,KR,1 applicant country,3
+ELEMENT SIX TECH,company,GB,1 applicant country,3
+EMC IP HOLDING,company,US,1 applicant country,3
+INST INFORMATION ENGINEERING CAS,university,CN,3 first filing office,3
+INST BASIC SCIENCE,gov / non-profit,KR,1 applicant country,3
+INST DOPTIQUE THEORIQUE APPLIQUEE,gov / non-profit,FR,1 applicant country,3
+UNIV WIEN,university,AT,1 applicant country,3
+UNIV TECH SYDNEY,university,AU,1 applicant country,3
+AVALANCHE TECH,company,US,1 applicant country,3
+AUSTRALIAN NATIONAL UNIV,university,AU,1 applicant country,3
+UNIV MINNESOTA,university,US,1 applicant country,3
+HORIZON QUANTUM COMPUTING,company,SG,1 applicant country,3
+HOHAI UNIV,university,CN,3 first filing office,3
+QUANTUM SILICON,company,CA,1 applicant country,3
+HEFEI ZHONGKE WANGAN QUANTUM TECH,company,CN,3 first filing office,3
+PHYSIKALISCH TECHNISCHE BUNDESANSTALT BRAUNSCHWEIG BERLIN,gov / non-profit,DE,1 applicant country,3
+TONGJI UNIV,university,CN,3 first filing office,3
+CAPITAL ONE SERVICES,company,US,1 applicant country,3
+THREE GORGES UNIV,university,CN,3 first filing office,3
+QUANTUM TECH UG,company,DE,1 applicant country,3
+QUANTUM TECH UG HAFTUNGSBESCHRANKT,company,DE,1 applicant country,3
+QUANTUM TRANSISTORS TECH,company,IL,1 applicant country,3
+QUANTUMBASE,company,GB,1 applicant country,3
+PING AN BANK,company,CN,3 first filing office,3
+PLA UNIV SCIENCE TECH,university,CN,3 first filing office,3
+TORONTO DOMINION BANK,company,CA,1 applicant country,3
+BOE TECH GROUP,company,CN,3 first filing office,3
+BEIJING ZHONGKEE ARC LIGHT QUANTUM SOFTWARE TECH,company,CN,3 first filing office,3
+HSBC SOFTWARE DEVELOPMENT GUANGDONG,company,CN,1 applicant country,3
+TEXAS A M UNIV SYSTEM,university,US,1 applicant country,3
+TEXAS TECH UNIV,university,US,1 applicant country,3
+TEL AVIV UNIV,university,IL,1 applicant country,3
+DIVERSIFIED COMPUTING,company,,none,3
+WACQT IP,company,SE,1 applicant country,3
+VIRGINIA POLYTECHNIC INST STATE UNIV,university,US,1 applicant country,3
+SRI INTERNATIONAL,company,US,1 applicant country,3
+SOUTHWEST JIAOTONG UNIV,university,CN,3 first filing office,3
+SOUTHWEST PETROLEUM UNIV,university,CN,1 applicant country,3
+SONY GROUP,company,JP,1 applicant country,3
+SHANDONG QUANTUM SCIENCE TECH RESEARCH INST,company,CN,3 first filing office,3
+ECOLE NATIONALE SUPERIEURE MINES PARIS,university,FR,1 applicant country,3
+INVENTLY,company,US,1 applicant country,3
+INSTITUCIO CATALANA RECERCA I ESTUDIS AVANCATS,gov / non-profit,ES,1 applicant country,3
+INST SCIENCE TOKYO,gov / non-profit,JP,1 applicant country,3
+SCIENCE TECH UNIV IN CHINA,university,CN,3 first filing office,3
+SAP,company,DE,1 applicant country,3
+MEIDENSHA,company,JP,3 first filing office,3
+MCC WUKAN ENGINEERING TECH,company,CN,3 first filing office,3
+UNITED STATES AMERICA AS REPRESENTED BY UNITED STATES DEPARTMENT ENERGY,gov / non-profit,US,1 applicant country,3
+CALIFORNIA INST TECH,university,US,1 applicant country,3
+KMUST KUNMING UNIV SCIENCE TECH,university,CN,3 first filing office,3
+ALCATEL LUCENT USA,company,US,1 applicant country,3
+XIAN JIAOTONG UNIV,university,CN,3 first filing office,3
+XIAN MICROELECTRONICS TECH INST,gov / non-profit,CN,3 first filing office,3
+ARQIT,company,GB,1 applicant country,3
+ANONOS,company,US,1 applicant country,3
+KUANO,company,GB,1 applicant country,3
+KOOKMIN UNIV INDUSTRY ACADEMY COOPERATION FOUNDATION,university,KR,1 applicant country,3
+KOREA ADVANCED NANO FAB CENTER,gov / non-profit,KR,1 applicant country,3
+KETADANATIONAL SHIELD QUANTUM TECH,company,CN,3 first filing office,3
+KARLSRUHE INST TECH,university,DE,1 applicant country,3
+KATHOLIEKE UNIVERSITEIT LEUVEN,university,BE,1 applicant country,3
+KBR WYLE SERVICES,company,US,1 applicant country,3
+ARIBUS GROUP HOLDING,company,CN,3 first filing office,3
+ALCATEL LUCENT,company,FR,1 applicant country,3
+ALIBUS DAMMOMONY HANGZHOU SCIENCE TECH,company,CN,3 first filing office,3
+SHANGHAI TRAFFIC UNIV,university,CN,3 first filing office,3
+JSR CORPORATION JAPAN SYNTHETIC RUBBER,company,JP,1 applicant country,3
+KA Z OGRANICZONA ODPOWIEDZIALNOSCIA,company,PL,1 applicant country,3
+LG UPLUS,company,KR,1 applicant country,3
+SHENZHEN JINGTAI TECH,company,CN,1 applicant country,2
+XT QUANTECH,company,CN,3 first filing office,2
+KOREA RESEARCH INST STANDARDS SCIENCE,gov / non-profit,KR,1 applicant country,2
+KT,company,KR,1 applicant country,2
+ZHENGZHOU UNIV LIGHT INDUSTRY,university,CN,3 first filing office,2
+ZHENGZHOU NORMAL SCHOOL,university,CN,3 first filing office,2
+ANHUI OPTICAL FIBER CABLE TRANSMISSION TECH RESEARCH INST 8TH INST CHINA ELECTRONICS SCIENCE TECH GROUP,company,CN,3 first filing office,2
+ANHUI UNIV SCIENCE TECH,university,CN,3 first filing office,2
+ANHUI UNIV TECH,university,CN,3 first filing office,2
+XEROX,company,US,1 applicant country,2
+WUHAN CHENYA TECH,company,CN,3 first filing office,2
+WISTRON,company,TW,3 first filing office,2
+ASSOCIATION NEW VISION FIELD NANCHANG ARTIFICIAL INTELLIGENCE INDUSTRY RESEARCH INST,company,CN,3 first filing office,2
+APNOVATEK,company,,none,2
+ARCTIC INSTRUMENTS,company,FI,1 applicant country,2
+KING ABDULAZIZ CITY SCIENCE TECH,company,SA,1 applicant country,2
+KIA,company,KR,1 applicant country,2
+KEIO GIJUKU,university,CN,2 script of the name,2
+WESTERN SUPERCONDUCTING TECH,company,CN,3 first filing office,2
+WAKE FOREST UNIV,university,US,1 applicant country,2
+LIQUEY RESEARCH CENTER,company,US,3 first filing office,2
+COMPUTING TECH RESEARCH INST CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,2
+COMPSECUR,company,PL,1 applicant country,2
+SIGMA I,company,JP,3 first filing office,2
+SICHUAN UNIV SCIENCE ENGINEERING,university,CN,3 first filing office,2
+SICHUAN YUENSI SCIENCE TECH,company,CN,3 first filing office,2
+SHOWA DENKO,company,JP,1 applicant country,2
+CRYPTO QUANTIQUE,company,GB,1 applicant country,2
+JIANGSU GAOWANG INFORMATION TECH,company,CN,3 first filing office,2
+JINGDONG TECH INFORMATION TECH,company,CN,3 first filing office,2
+JIAXING MICRO MAGNETIC SUPERCONDUCTING TECH,company,CN,3 first filing office,2
+JIAXING UNIV,university,CN,3 first filing office,2
+JIANGSU WEIZHI QUANTUM TECH,company,CN,3 first filing office,2
+LYFGEN,company,GB,1 applicant country,2
+CYTEL,company,US,1 applicant country,2
+COSYNE THERAPEUTICS,company,GB,1 applicant country,2
+COVESTRO DEUTSCHLAND,company,DE,1 applicant country,2
+MERCEDES BENZ GROUP,company,DE,1 applicant country,2
+META PLATFORMS,company,US,1 applicant country,2
+MACQUARIE UNIV,university,AU,1 applicant country,2
+LUCOMM TECH,company,US,1 applicant country,2
+LUDWIG MAXIMILIANS UNIVERSITT MNCHEN,university,DE,1 applicant country,2
+XIAMEN TANHONG INFORMATION TECH,company,CN,3 first filing office,2
+XIAMEN UNIV,university,CN,3 first filing office,2
+JINGDONG SHUKE HAIYI INFORMATION TECH,company,CN,3 first filing office,2
+MEITIAN JINGZHI BEIJING TECH,company,CN,3 first filing office,2
+MATERIAL SCIENCE NIBEU LAB,gov / non-profit,CN,3 first filing office,2
+JIO PLATFORMS,company,IN,1 applicant country,2
+JOHANNES GUTENBERG UNIV MAINZ,university,DE,1 applicant country,2
+IST AUSTRIA INST SCIENCE TECH AUSTRIA,gov / non-profit,AT,1 applicant country,2
+IX INNOVATION,company,US,1 applicant country,2
+IONIC,company,US,3 first filing office,2
+MENTOR GRAPHICS,company,US,1 applicant country,2
+POSCO HOLDINGS,company,KR,1 applicant country,2
+POLYTECHNICAL UNIV VALENCIA,university,ES,1 applicant country,2
+UMNAI,company,MT,1 applicant country,2
+CANON,company,JP,1 applicant country,2
+C12 QUANTUM ELECTRONICS,company,FR,1 applicant country,2
+BOSONQ PSI,company,US,1 applicant country,2
+BOSTON UNIV,university,US,1 applicant country,2
+BRA KET SCIENCE,company,US,1 applicant country,2
+TIANYUN RONGCHUANG DATA TECH BEIJING,company,CN,3 first filing office,2
+TOBB EKONOMI VE TEKNOLOJI UNIVERISITESI,university,TR,1 applicant country,2
+TIANFU XINGLONGHU LAB,gov / non-profit,CN,3 first filing office,2
+TOKAI NATIONAL HIGHER EDUCATION AND RESEARCH SYSTEM,gov / non-profit,CN,2 script of the name,2
+TOKAI UNIV,university,JP,3 first filing office,2
+TOKYO UNIV SCIENCE FOUNDATION,university,JP,1 applicant country,2
+TULANE EDUCATIONAL FUND,university,US,1 applicant country,2
+PSA AUTOMOBILES,company,FR,1 applicant country,2
+GEOQUEST SYSTEMS,company,NL,1 applicant country,2
+GEORGIA INST TECH,university,US,1 applicant country,2
+GERMAN SUB INDUSTRY UNIV,university,US,3 first filing office,2
+GANGWANZHIXING HEALTH BIOLOGICAL SHENZHEN,company,CN,3 first filing office,2
+QUANTUM TECH LAB,company,US,1 applicant country,2
+QUANTUM TECH UG LIMIT,company,DE,3 first filing office,2
+CENTURYLINK INTELLECTUAL PROPERTY,company,US,1 applicant country,2
+CENTRAL SOUTH UNIV FORESTRY TECH,university,CN,3 first filing office,2
+OXFORD INSTRUMENTS NANOTECHNOLOGY TOOLS,company,GB,1 applicant country,2
+HRL LAB,company,US,1 applicant country,2
+HELMHOLTZ ZENTRUM DRESDEN ROSSENDORF,gov / non-profit,DE,1 applicant country,2
+HEFEI WEIGUAN JIYUAN DIGITAL TECH,company,CN,3 first filing office,2
+HARRIS,company,US,1 applicant country,2
+HEBREW UNIV JERUSALEM,university,IL,1 applicant country,2
+PHILIPS ELECTRONICS,company,NL,1 applicant country,2
+PHOENIX COMPANY CHICAGO,company,US,1 applicant country,2
+ORIGIN QUANTUM INSTRUMENT,company,CN,1 applicant country,2
+OTI LUMIONICS,company,CA,1 applicant country,2
+UNIV ILLINOIS,university,US,1 applicant country,2
+UNIV GDANSK,university,PL,1 applicant country,2
+UNIV GLASGOW,university,GB,1 applicant country,2
+HUADONG CALCULATING TECH INST CETC NO32 RESEARCH INST,gov / non-profit,CN,3 first filing office,2
+HONDA RESEARCH INST EUROPE,company,DE,1 applicant country,2
+HONG KONG UNIV SCIENCE TECH,university,CN,1 applicant country,2
+FRENCH ATOMIC ENERGY ALTERNATIVE ENERGY COMMITTEE,company,FR,3 first filing office,2
+CHENYUE CONSTRUCTION PROJECT MANAGEMENT GROUP,company,CN,3 first filing office,2
+CHINA CONSTRUCTION BANK,company,CN,3 first filing office,2
+QUANTUM GENERATIVE MATERIALS,company,US,1 applicant country,2
+TECHNISCHE UNIV DRESDEN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,2
+TAMPERE UNIV TECH,university,FI,1 applicant country,2
+TAISHAN MEDICAL UNIV,university,CN,3 first filing office,2
+ORANGE QUANTUM SYSTEMS HOLDING,company,NL,1 applicant country,2
+BEIJING ZHONGCHUANGWEI NANJING QUANTUM COMMUNICATION TECH,company,CN,3 first filing office,2
+FRIEDRICH ALEXANDER UNIV ERLANGEN NUERNBERG,university,DE,1 applicant country,2
+STRONG FORCE TP PORTFOLIO 2022,company,US,1 applicant country,2
+CHONGQING INFORMATION TECH DESIGNING,company,CN,3 first filing office,2
+QUNOVA COMPUTING,company,KR,1 applicant country,2
+FRIEDRICH SCHILLER UNIV JENA,university,DE,1 applicant country,2
+FRIEDRICH SCHILLER UNIV JENA KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,2
+FOXCONN,company,TW,1 applicant country,2
+BROOKHAVEN SCIENCE ASSOCIATES,company,US,1 applicant country,2
+BEIJING WODONG TIANJUN INFORMATION TECH,company,CN,3 first filing office,2
+BEIJING ZHENGDAO QUANTUM TECH,company,CN,3 first filing office,2
+UNIV BASQUE COUNTRY,university,ES,1 applicant country,2
+UNIV CAMBRIDGE,university,GB,1 applicant country,2
+UNITED STATES DEPARTMENT ENERGY,gov / non-profit,US,1 applicant country,2
+UNIV CONNECTICUT,university,US,1 applicant country,2
+BG NEGEV TECH APPLICATIONS LTD AT BEN GURION N UNIV,company,IL,1 applicant country,2
+QUANTWARE HOLDING,company,NL,1 applicant country,2
+CHINESE OCEAN UNIV,university,CN,3 first filing office,2
+CHINESE PEOPLE LIBERATION ARMY 61062 TROOP,gov / non-profit,CN,3 first filing office,2
+CHINA UNIV GEOSCIENCES WUHAN,university,CN,3 first filing office,2
+CHINA TELECOM CLOUD TECH,company,CN,1 applicant country,2
+CHINA TELECOM DIGITAL INTELLIGENCE TECH,company,CN,1 applicant country,2
+HUNAN NORMAL UNIV,university,CN,3 first filing office,2
+HUBEI HUALONG XIKE BIO TECH,company,CN,3 first filing office,2
+CHONGQING UNIV TECH,university,CN,3 first filing office,2
+CHONGQING VOCATIONAL INST ENGINEERING,university,CN,3 first filing office,2
+SINGAPORE UNIV TECH DESIGN,university,SG,1 applicant country,2
+S P GLOBAL,company,US,1 applicant country,2
+SABANCI UNIV,university,TR,1 applicant country,2
+STATE GRID FUJIAN ELECTRIC POWER,company,CN,3 first filing office,2
+STATE GRID FUJIAN PROVINCE ELECTRIC POWER,company,CN,3 first filing office,2
+SPINQ BIOPHYSICS,company,US,1 applicant country,2
+BEIJING NORMAL UNIV,university,CN,3 first filing office,2
+BEIJING INST GRAPHIC COMMUNICATION,university,CN,3 first filing office,2
+FEDERAL INST TECH LAUSANNE,university,CH,1 applicant country,2
+EWHA UNIV,university,KR,1 applicant country,2
+ERROR,company,US,1 applicant country,2
+EON DIGITAL TECH,company,DE,1 applicant country,2
+EONUM,company,US,1 applicant country,2
+EPINOVATECH,company,SE,1 applicant country,2
+BEIJING INST SPACE MECHANICS ELECTRICITY,gov / non-profit,CN,3 first filing office,2
+UNIV NEW MEXICO,university,US,1 applicant country,2
+UNIV NOTRE DAME LAC,university,US,1 applicant country,2
+UNIV MICHIGAN,university,US,1 applicant country,2
+NORTHEASTERN UNIV,university,US,1 applicant country,2
+UNIV PARIS DIDEROT PARIS 7,university,FR,1 applicant country,2
+UNIV PARIS SUD 11,university,FR,1 applicant country,2
+BEIJING NAISHU ELECTRONICS,company,CN,3 first filing office,2
+NORTHERN MEASUREMENT,company,CA,3 first filing office,2
+UNIV ROSTOCK,university,DE,1 applicant country,2
+UNIV ROSTOCK KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,2
+INFOSYS,company,IN,1 applicant country,2
+NANKAI UNIV,university,CN,3 first filing office,2
+NANNING MAIYUE SOFT,company,CN,3 first filing office,2
+BEIJING FOREVER STAR BIOLOGICAL TECH,company,CN,3 first filing office,2
+BEIJING ACADEMY SCIENCE TECH,gov / non-profit,CN,3 first filing office,2
+NOBLIS,company,US,1 applicant country,2
+NOKIA USA,company,US,1 applicant country,2
+INFORMATION COMMUNICATION BRANCH COMPANY STATE GRID HEBEI ELECTRIC POWER,company,CN,3 first filing office,2
+UNIV MANITOBA,university,CA,1 applicant country,2
+UNIV KANAGAWA,university,JP,3 first filing office,2
+UNIV GRENOBLE ALPES,university,FR,1 applicant country,2
+UNIV HAMBURG,university,DE,1 applicant country,2
+UNIV HOUSTON,university,US,1 applicant country,2
+NATIONAL SUPERCOMPUTING CENTER IN SHENZHEN SHENZHEN CLOUD COMPUTING CENTER,gov / non-profit,CN,3 first filing office,2
+NATIONAL INNOVATION INST DEFENSE TECH ACADEMY MILITARY SCIENCE PLA CHINA,gov / non-profit,CN,1 applicant country,2
+NATIONAL INST INFORMATION COMMUNICATIONS TECH,gov / non-profit,JP,1 applicant country,2
+NATIONAL CHENG KUNG UNIV,university,TW,1 applicant country,2
+IMEC NON PROFIT ASSOCIATION,gov / non-profit,,none,2
+IMPERIAL INNOVATIONS,university,GB,1 applicant country,2
+IDEADED,company,ES,1 applicant country,2
+IHP INNOVATIONS HIGH PERFORMANCE MICROELECTRONICS LEIBNIZ INST FUER INNOVATIVE MIKROELEKTRONIK,gov / non-profit,DE,1 applicant country,2
+HUAQIAO UNIV,university,CN,3 first filing office,2
+NOTCHWAY SOLUTIONS,company,US,1 applicant country,2
+NORTH CHINA ELECTRIC POWER UNIV,university,CN,3 first filing office,2
+UNIV ALBERTA,university,CA,1 applicant country,2
+OKINAWA INST SCIENCE TECH SCHOOL,university,JP,1 applicant country,2
+NXP SEMICONDUCTORS,company,NL,1 applicant country,2
+HUZHOU ZHONGXIN SEMICONDUCTOR TECH,company,CN,3 first filing office,2
+NAVAL INFORMATION WARFARE CENTER PACIFIC,gov / non-profit,US,1 applicant country,2
+RESPONSIBILITY COMPANY CREDIT BUILDING FINANCIAL SCIENCE TECH,company,CN,3 first filing office,2
+RESPONSIBILITY COMPANY SOUTHERN POWER GRID SCIENCE RESEARCH INST,company,CN,3 first filing office,2
+INST ELECTRONIC ENGINEERING CHINA ACADEMY ENGINEERING PHYSICS,gov / non-profit,CN,3 first filing office,2
+INSPUR CLOUD INFORMATION TECH,company,CN,3 first filing office,2
+UNIV WARWICK,university,GB,1 applicant country,2
+UNIV SYDNEY,university,AU,1 applicant country,2
+NARI GROUP,company,CN,3 first filing office,2
+INST NATIONAL POLYTECHNIQUE GRENOBLE,university,FR,1 applicant country,2
+RAHKO,company,GB,1 applicant country,2
+RAILWAY INFORMATION SYSTEMS,company,JP,3 first filing office,2
+QUOHERENT,company,US,1 applicant country,2
+QUSECURE,company,US,1 applicant country,2
+RADIABEAM TECH,company,US,1 applicant country,2
+RHEINISCH WESTFALISCHE TECHNISCHE HOCHSCHULE RWTH AACHEN,university,DE,1 applicant country,2
+RESEARCH INST HUAZHONG UNIV SCIENCE TECH IN SHENZHEN,university,CN,3 first filing office,2
+RESONAC HOLDINGS,company,US,3 first filing office,2
+SCHLUMBERGER TECH,company,US,1 applicant country,2
+SERVICES PETROLIERS SCHLUMBERGER,company,FR,1 applicant country,2
+SHAANXI UNIV SCIENCE TECH,university,CN,1 applicant country,2
+SHAANXI UNIV TECH,university,CN,3 first filing office,2
+SEMIQON TECH,company,FI,1 applicant country,2
+ELEMENT SIX,company,GB,1 applicant country,2
+RENSSELAER POLYTECHNIC INST,university,US,1 applicant country,2
+RESEARCH FOUNDATION STATE UNIV NEW YORK,gov / non-profit,US,1 applicant country,2
+UNIV SOUTH FLORIDA,university,US,1 applicant country,2
+UNIV STUTTGART KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,2
+UNIV SURREY,university,GB,1 applicant country,2
+UNIV POLITECNICA VALENCIA,university,ES,1 applicant country,2
+ELTA SYSTEMS,company,IL,1 applicant country,2
+EDWARDS,company,GB,1 applicant country,2
+EEROQ,company,US,1 applicant country,2
+SCHLUMBERGER CANADA,company,CA,1 applicant country,2
+SAVANTX,company,US,1 applicant country,2
+INTER UNIV RESEARCH INST CORPORATION NATIONAL INSTITUTES NATURAL SCIENCE,university,JP,1 applicant country,2
+INST TELECOMUNICACOES,gov / non-profit,PT,1 applicant country,2
+NANJING NANRUI GUODUN QUANTUM TECH,company,CN,3 first filing office,2
+NANJING INST TECH,university,CN,3 first filing office,2
+NANJING MINGBO INTERNET SECURITY INST INST,company,CN,3 first filing office,2
+INTERDIGITAL PATENT HOLDINGS,company,US,1 applicant country,2
+INTERNATIONAL IBERIAN NANOTECHNOLOGY LAB,company,PT,1 applicant country,2
+DUOTEC,company,DE,1 applicant country,2
+SOUTH CHINA SCIENCE UNIV,university,CN,3 first filing office,2
+SOUTHERN SCIENCE TECH UNIV,university,CN,3 first filing office,2
+SOFTWARE INST CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,2
+SK TELECOM,company,KR,1 applicant country,2
+COGNIFRAME,company,CA,1 applicant country,2
+CIS FORSCHUNGSINSTITUT FUR MIKROSENSORIK,gov / non-profit,DE,1 applicant country,2
+SAUDI ARABIAN OIL,company,SA,1 applicant country,2
+DOLBY INTELLECTUAL PROPERTY LICENSING,company,US,1 applicant country,2
+DONGFENG AUTOMOBILE GROUP,company,CN,3 first filing office,2
+SHANDONG INSPUR ARTIFICIAL INTELLIGENCE RESEARCH INST,company,CN,3 first filing office,2
+SINOPEC SAFETY ENGINEERING RESEARCH INST,company,CN,3 first filing office,2
+SINOPHARM SHANGHAI BIOPHARMACEUTICAL,company,CN,3 first filing office,2
+SIEMENS HEALTHINEERS,company,DE,1 applicant country,2
+SIEN (QINGDAO) INTEGRATED CIRCUITS,company,CN,1 applicant country,2
+ECONOMIC TECH RESEARCH INST STATE GRID ANHUI ELECTRIC POWER,company,CN,3 first filing office,2
+INST ADVANCED TECH UNIV SCIENCE TECH CHINA,university,CN,3 first filing office,2
+ASSOCIATION POUR LA RECHERCHE LE DEVELOPPEMENT METHODES PROCESSUS INDUSTRIELS,gov / non-profit,FR,1 applicant country,2
+UNIWERSYTET WARSZAWSKI,university,PL,1 applicant country,2
+US GOVERNMENT AS REPRESENTED BY DIRECTOR NATIONAL SECURITY AGENCY,gov / non-profit,US,1 applicant country,2
+UNIVERSITIES SPACE RESEARCH ASSOCIATION,university,US,1 applicant country,2
+NANCHANG HANGKONG UNIV,university,CN,3 first filing office,2
+BAE SYSTEMS,company,GB,1 applicant country,2
+ATOS NEDERLAND,company,NL,1 applicant country,2
+ZETTAFLOPS,company,US,1 applicant country,2
+AIR FORCE ENGINEERING UNIV PLA,university,CN,3 first filing office,2
+AIRBUS DEFENCE SPACE,company,FR,1 applicant country,2
+Z AXIS,company,SG,1 applicant country,2
+ADRENALINEIP,company,US,1 applicant country,2
+ZHONGLIANGKE NANJING TECH,company,CN,3 first filing office,2
+SHENZHEN QIANHAI WEBANK,company,CN,3 first filing office,2
+LOG 9 MATERIALS SCIENTIFIC PRIVATE,company,IN,1 applicant country,2
+SHENZHEN KEDUN QUANTUM INFORMATION TECH,company,CN,3 first filing office,2
+SHENZHEN GUOXIN QUANTUM TECH,company,CN,3 first filing office,2
+ALIRO TECH,company,US,1 applicant country,2
+SHENZHEN INTERNATIONAL QUANTUM ACADEMY,gov / non-profit,CN,1 applicant country,2
+DIGITAL ARMY FUZHOU TECH,company,CN,3 first filing office,2
+DANMARKS TEKNISKE UNIVERSITET,university,DK,1 applicant country,2
+DAVIDSON TECH,company,US,1 applicant country,2
+DALIAN JIAOTONG UNIV,university,CN,3 first filing office,2
+AEROSPACE,company,US,1 applicant country,2
+ZHONGYIN FINANCE TECH,company,CN,3 first filing office,2
+AARHUS UNIVERSITET,university,DK,1 applicant country,2
+ZHUOSHI RONGCHUANG BEIJING TECH,company,CN,3 first filing office,2
+ZHEJIANG QUANTUM TECH,company,CN,3 first filing office,2
+JPMORGAN CHASE BANK NA,company,US,1 applicant country,2
+LIGHTSYNQ TECH,company,US,1 applicant country,2
+LEIBNIZ INST FUER FESTKOERPER WERKSTOFFFORSCHUNG DRESDEN,gov / non-profit,DE,1 applicant country,2
+JIANGSU HENGTONG PHOTOELECTRIC STOCK,company,CN,3 first filing office,2
+JIANGHAN UNIV,university,CN,3 first filing office,2
+JIANGNAN UNIV,university,CN,3 first filing office,2
+IRREVERSIBLE,company,CA,1 applicant country,2
+UNIV VERMONT,university,US,1 applicant country,2
+MOLECULAR QUANTUM SOLUTIONS,company,DK,1 applicant country,2
+MIDDLE SOUTH UNIVERSITIES,university,CN,3 first filing office,2
+LEONARDO,company,IT,1 applicant country,2
+HAMAMATSU PHOTONICS,company,JP,1 applicant country,2
+GUIZHOU POWER GRID,company,CN,1 applicant country,2
+QILU UNIV TECH,university,CN,3 first filing office,2
+QC82,company,US,1 applicant country,2
+THE4TH,company,KR,1 applicant country,2
+QMWARE,company,CH,1 applicant country,2
+QOGNITIVE,company,US,1 applicant country,2
+PAYPAL,company,US,1 applicant country,2
+QUANTUM NUMBERS,company,CA,1 applicant country,2
+QUANTUM CIRCUITS,company,US,1 applicant country,2
+QUANTUM FACTORY,company,DE,1 applicant country,2
+UNIV ARKANSAS,university,US,1 applicant country,2
+UNITED STATES AIR FORCE,gov / non-profit,US,1 applicant country,2
+UNITED STATES AMERICA AS REPRESENTED BY SECRETARY COMMERCE,gov / non-profit,US,1 applicant country,2
+UCL BUSINESS,company,GB,1 applicant country,2
+PUKYONG NATIONAL UNIV INDUSTRY UNIV COOPERATION FOUNDATION,university,KR,1 applicant country,2
+QUANTALA,company,US,1 applicant country,2
+QUANSCIENT,company,FI,1 applicant country,2
+GUANGXI UNIV NATIONALITIES,university,CN,3 first filing office,2
+GUANGDONG POLYTECHNIC WATER RESOURCES ELECTRIC ENGINEERING GUANGDONG WATER RESOURCES ELECTRIC POWER TECHNICAL SCHOOL,university,CN,3 first filing office,2
+SUN MAGNETICS,company,ZA,1 applicant country,2
+SUN YAT SEN UNIV,university,CN,3 first filing office,2
+QUANTUM LOCK,company,US,1 applicant country,2
+QUANTUM LOCK TECH,company,US,1 applicant country,2
+SHANGHAI KOREAN NETWORK TECH,company,CN,3 first filing office,2
+SHANGHAI PROCESSOR TECH INNOVATION CENTER,gov / non-profit,CN,3 first filing office,2
+SHANGHAI CAMBRICON INFORMATION TECH,company,CN,1 applicant country,2
+SHANDONG LIGONG HAOMING NEW ENERGY,company,CN,3 first filing office,2
+SHANGHAI UNIV ENGINEERING SCIENCE,university,CN,3 first filing office,2
+SHANGHAI XINLIANXIN INTELLIGENT TECH,company,CN,3 first filing office,2
+SHANGHAI PUDONG DEVELOPMENT BANK,company,CN,3 first filing office,2
+SHANGHAI SILANG TECH,company,CN,3 first filing office,2
+ZYNGA,company,US,1 applicant country,1
+AALTO KORKEAKOULUSAATIO AALTO UNIV FOUNDATION,university,FI,1 applicant country,1
+ACADEMIA SINICA,university,TW,1 applicant country,1
+ACCELERATED PRINTED CIRCUIT INDUSTRIAL,company,CN,3 first filing office,1
+ADMINISTRATORS TULANE EDUCATIONAL FUND TU,university,US,1 applicant country,1
+ADOBE,company,US,1 applicant country,1
+AEROSPACE DONGFANGHONG SATELLITE,company,CN,3 first filing office,1
+ANHUI ANJIANG INFORMATION TECH,company,CN,3 first filing office,1
+ANHUI BRANCH CHINA PACIFIC PROPERTY INSURANCE,company,CN,3 first filing office,1
+ANHUI HUIKE TECH,company,CN,3 first filing office,1
+ANHUI INST INFORMATION TECH,university,CN,3 first filing office,1
+ANHUI JIGUANG INTELLIGENT TECH,company,CN,3 first filing office,1
+ANHUI JIYUAN SOFTWARE,company,CN,3 first filing office,1
+XUCHANG XJ SOFTWARE TECH,company,CN,3 first filing office,1
+XUJI GROUP,company,CN,3 first filing office,1
+ALIPAY HANGZHOU TECH,company,CN,3 first filing office,1
+ALLIANCE SUSTAINABLE ENERGY,company,US,1 applicant country,1
+ALPHABET,company,US,1 applicant country,1
+AMERICAN EXPRESS TRAVEL RELATED SERVICES,company,US,1 applicant country,1
+AMHERST COLLEGE,university,US,1 applicant country,1
+AN ZHENG COMPUTER FORENSIC INST GUANGDONG,gov / non-profit,CN,3 first filing office,1
+ANALOG COMPUTATION ENTERPRISE,company,US,1 applicant country,1
+ANALOG QUANTUM CIRCUITS,company,AU,1 applicant country,1
+XINYANG NORMAL SCHOOL,university,CN,3 first filing office,1
+XINYUAN ZHICHU ENERGY DEVELOPMENT BEIJING,company,CN,3 first filing office,1
+XIZANG MINZU UNIV,university,CN,3 first filing office,1
+AKUNAH MEDICAL TECH,company,AU,1 applicant country,1
+ALBERT LUDWIG UNIV FREIBURG KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+ALCHEMY MACHINES,company,GB,3 first filing office,1
+ALCHERA,company,KR,1 applicant country,1
+ALGO CONSULTING,company,US,1 applicant country,1
+XIAN UNIV SCIENCE TECH,university,CN,3 first filing office,1
+XIANGSAN TRAFFIC UNIV,university,CN,3 first filing office,1
+XIANGTAN UNIV,university,CN,3 first filing office,1
+XIAOMI,company,CN,3 first filing office,1
+XINCHENG INFORMATION TECH,company,CN,3 first filing office,1
+XINGHE INDUSTRIAL DEVELOPMENT SHANGHAI,company,CN,3 first filing office,1
+XINGKESHANG,company,,none,1
+XINLICHENG EDUCATION TECH,company,CN,3 first filing office,1
+LEVELQUANTUM,company,IT,1 applicant country,1
+LEYARD OPTOELECTRONIC,company,CN,3 first filing office,1
+LG CHEM,company,KR,1 applicant country,1
+LG INNOTEK,company,KR,1 applicant country,1
+LIAN MENG,company,US,3 first filing office,1
+LIANYUNGANG WENDING ENVIRONMENTAL PROTECTION TECH,company,CN,3 first filing office,1
+LIAONING TECHNICAL UNIV,university,CN,3 first filing office,1
+LIAONING UNIV TECH,university,CN,3 first filing office,1
+KYOCERA COMMUNICATION SYSTEMS,company,JP,3 first filing office,1
+KYUNGPOOK NATIONAL UNIV,university,KR,1 applicant country,1
+KYUSHU UNIV,university,JP,1 applicant country,1
+LAIR LIQUIDE SOCIETE ANONYME POUR LETUDE LEXPLOITATION PROCEDES GEORGES CLAUDE,company,FR,1 applicant country,1
+LAM RESEARCH,company,CN,2 script of the name,1
+LANCASTER UNIV,university,GB,1 applicant country,1
+LANDMARK PEGASUS,company,US,1 applicant country,1
+LANGCHAO ELECTRONIC INFORMATION INDUSTRY,company,CN,3 first filing office,1
+KOSHAYOJAN SERVICES,company,MU,1 applicant country,1
+KPMG IGNITION TOKYO,company,JP,1 applicant country,1
+KROKUS TEKNOLODZHI,company,FR,1 applicant country,1
+KUNMING UNIV,university,CN,3 first filing office,1
+KUNNA SYSTEMS,company,JP,3 first filing office,1
+KUORAN BIOLOGICAL MEDICINE TECH SHANGHAI,company,CN,3 first filing office,1
+KUU WATER PURIFY PROJECTS,company,IN,1 applicant country,1
+KYOCERA,company,JP,1 applicant country,1
+KLA,company,US,1 applicant country,1
+KOBE STEEL,company,JP,3 first filing office,1
+KOBE UNIV,university,JP,3 first filing office,1
+KOBELCO KAKEN,company,JP,3 first filing office,1
+KOC UNIV,university,TR,1 applicant country,1
+KOREA ATOMIC ENERGY RESEARCH INST,gov / non-profit,KR,1 applicant country,1
+KOREA ATOMIC ENERGY RESEARCH INSTIT UTE,gov / non-profit,KR,1 applicant country,1
+KOREA INST SCIENCE TECH INFORMATION,gov / non-profit,KR,1 applicant country,1
+LISMIKRO,company,US,1 applicant country,1
+LIU MIGRANT VIGOROUS SOFTWARE SCIENCE TECH SERVICE DEPARTMENT IN GUANGZHOU CITY,company,CN,3 first filing office,1
+LMJ TECH,company,CN,3 first filing office,1
+LONGYAN POWER SUPPLY COMPANY STATE GRID FUJIAN PROVINCE ELECTRIC POWER,company,CN,3 first filing office,1
+LONQ,company,US,1 applicant country,1
+LOURDE WRIGHT HOLDINGS,company,US,1 applicant country,1
+LUMERICAL,company,CA,1 applicant country,1
+LUOWEN TIANDA UNIV,university,,none,1
+KENNESAW STATE UNIV RESEARCH SERVICES FOUNDATION,university,US,1 applicant country,1
+KEYSIGHT TECH,company,US,1 applicant country,1
+KIM NA YOUNG,company,CA,1 applicant country,1
+KING FAHD UNIV PETROLEUM MINERALS,university,SA,1 applicant country,1
+KINGSTON INVESTMENTS,company,US,3 first filing office,1
+KINGSTONE INVESTMENT,company,US,1 applicant country,1
+KINKI UNIV,university,JP,3 first filing office,1
+LISIMAIKE,company,,none,1
+JOS QUANTUM,company,DE,1 applicant country,1
+JOS QUANTUM INTELLECTUAL PROPERTY,company,DE,1 applicant country,1
+JX NIPPON MINING METALS,company,JP,3 first filing office,1
+KANAZAWA INST TECH,university,JP,1 applicant country,1
+KBR WILL SERVICES,company,CA,3 first filing office,1
+KEIO UNIV,university,JP,1 applicant country,1
+KELLOGG BROWN ROOT,company,US,1 applicant country,1
+KENDALL RESEARCH SYSTEMS,company,US,1 applicant country,1
+LIGANDAL,company,US,1 applicant country,1
+LIGHTMATTER,company,US,1 applicant country,1
+LIGHTSOLVER,company,IL,1 applicant country,1
+LIGHTSTANDARD,company,CN,1 applicant country,1
+LINGAN SUZHOU NETWORK TECH,company,CN,3 first filing office,1
+LINGNAN NORMAL UNIV,university,CN,3 first filing office,1
+LINKED IDEAL,company,JP,1 applicant country,1
+LINYI UNIV,university,CN,3 first filing office,1
+JIMEI UNIV,university,CN,3 first filing office,1
+JINCHENG POWER SUPPLY COMPANY STATE GRID SHANXI ELECTRIC POWER,company,CN,3 first filing office,1
+JINING MEDICAL UNIV,university,CN,3 first filing office,1
+JINING UNIV,university,CN,3 first filing office,1
+JINSHANG BOCHUANG BEIJING TECH,company,CN,3 first filing office,1
+JIUZHANG JINAN QUANTUM TECH,company,CN,3 first filing office,1
+JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT,company,AT,1 applicant country,1
+JOHANNES GUTENBERG UNIVERSITU T MAINZ,university,,none,1
+JIANGSU UNIV,university,CN,3 first filing office,1
+JIANGSU XCMG ENGINEERING MACHINERY RESEARCH INST,company,CN,3 first filing office,1
+JIANGSU XINCHAO TIANCHENG INTELLIGENT TECH,company,CN,3 first filing office,1
+JIANGSU YINBAO HOLDING GROUP,company,CN,3 first filing office,1
+JIANGXI ISUZU MOTORS,company,CN,3 first filing office,1
+JIAXING XINTONG PHOTOELECTRIC TECH,company,CN,3 first filing office,1
+JIJ,company,JP,1 applicant country,1
+JILIN AGRICULTURAL UNIV,university,CN,3 first filing office,1
+MARQUETTE UNIV,university,US,1 applicant country,1
+MARVELL ASIA,company,SG,1 applicant country,1
+MARX PLANCK SCIENTIFIC PROMOTION MEETING,gov / non-profit,,none,1
+MASTERCARD INTERNATIONAL INCORPORATION,company,US,1 applicant country,1
+JIANGSU JIYUAN MEDICAL TECH,company,CN,3 first filing office,1
+JIANGSU MARITIME INST,university,CN,3 first filing office,1
+JIANGSU MODI BIOTECHNOLOGY,company,CN,3 first filing office,1
+JIANGSU SUPERFLUIDITY INFORMATION TECH,company,CN,1 applicant country,1
+LUOYANG NORMAL UNIV,university,CN,3 first filing office,1
+LVSHENGSHENG ELECTRONIC TECH GUANGZHOU,company,CN,3 first filing office,1
+M SQUARED LASERS,company,GB,1 applicant country,1
+MAGNETIC SPECTRUM INST,company,US,1 applicant country,1
+MAINTENANCE COMPANY STATE GRID SHANDONG ELECTRIC POWER,company,CN,3 first filing office,1
+MARKETING SERVICE CENTER STATE GRID SHAANXI ELECTRIC POWER CO LTD METRIC CENTER,company,CN,3 first filing office,1
+MARKETING SERVICES CENTER STATE GRID JIANGSU ELECTRIC POWER,company,CN,3 first filing office,1
+MARKETSPRINGPAD IP USA,company,US,1 applicant country,1
+JIANGSU CHAOLIU INFORMATION TECH,company,CN,3 first filing office,1
+JIANGSU ELECTRIC POWER,company,CN,3 first filing office,1
+JIANGSU ELECTRIC POWER COMPANY ECONOMIC RESEARCH INST,company,CN,3 first filing office,1
+JIANGSU FANGTIAN POWER TECH,company,CN,3 first filing office,1
+JIANGSU GUOXIA TECH,company,CN,3 first filing office,1
+MILKSHAKE TECH,company,US,1 applicant country,1
+MILLIMETER WAVE SYSTEMS,company,US,1 applicant country,1
+MIND OVER MATTER AI,company,US,1 applicant country,1
+IPB INST POLYTECHNIQUE BORDEAUX,university,FR,1 applicant country,1
+J4 CAPITAL,company,US,1 applicant country,1
+JABIL,company,,none,1
+JAGIELLONIAN UNIV IN CRACOW,university,PL,1 applicant country,1
+JAPAN SUPERCONDUCTOR TECH,company,JP,3 first filing office,1
+JDA SOFTWARE GROUP,company,US,1 applicant country,1
+JEFFERSON SCIENCE ASSOCIATES,company,US,3 first filing office,1
+JIANGSU AEROSPACE 706 INFORMATION TECH,company,CN,3 first filing office,1
+MEDISO MEDICAL IMAGING SYSTEMS,company,HU,1 applicant country,1
+MEDISO MEDICAL IMAGING SYSTEMS KFT,company,HU,1 applicant country,1
+MEDIUM MOUNTAIN UNIV,university,CN,3 first filing office,1
+MEGA HEALTH TECH BEIJING,company,CN,3 first filing office,1
+MELANOX TECH,company,IL,1 applicant country,1
+MICHIGAN STATE UNIV,university,US,1 applicant country,1
+MICRON TECHNOLOGY,company,US,1 applicant country,1
+IOT M2M TECH,company,US,1 applicant country,1
+JOINT STOCK AGENCY SKULIN GROUP,company,JP,3 first filing office,1
+MATERIALS SCIENCE GUSU LAB,company,CN,3 first filing office,1
+MATRICTIME DIGITAL TECH,company,CN,1 applicant country,1
+MAX PLANCK GESELLSCHAFT ZUR FU RDERUNG DER,gov / non-profit,,none,1
+MB MICROTEC,company,CH,1 applicant country,1
+MCIT DBA SAIYAN INNOVATIONS,company,US,1 applicant country,1
+MCKINSEY,company,US,1 applicant country,1
+MEDIATEK,company,TW,1 applicant country,1
+INSTITUTUL CHIMIE MINISTERUL EDUCATIEI CULTURII SI CERCETARII,gov / non-profit,MD,1 applicant country,1
+INSTUTUCIO CATALANA RECERCA I ESTUDIS AVANCATS,gov / non-profit,ES,1 applicant country,1
+INSTYTUT FIZYKI POLSKIEJ AKADEMII NAUK,university,PL,1 applicant country,1
+INSTYTUT INFORMATYKI TEORETYCZNEJ I STOSOWANEJ PAN,gov / non-profit,PL,1 applicant country,1
+INSTYTUT INFORMATYKI TEORETYCZNEJ I STOSOWANEJ POLSKIEJ AKADEMII NAUK,gov / non-profit,PL,1 applicant country,1
+INTELLECTUAL CAPITAL ASSET MANAGEMENT,company,AT,1 applicant country,1
+INTELLIGENT INTERCONNECTION TECH,company,CN,3 first filing office,1
+INTELLIGENT NATIONAL STEAM CONTROL BEIJING SCIENCE TECH,company,CN,3 first filing office,1
+INST OCEANOGRAPHIC INSTRUMENTATION SHANDONG ACADEMY SCIENCE,gov / non-profit,CN,1 applicant country,1
+INST PATHOGEN BIOLOGY CHINESE ACADEMY OFMEDICAL SCIENCE,university,CN,3 first filing office,1
+INST REMOTE SENSING DIGITAL EARTH CHINESE ACADEMY SCIENCE,university,CN,3 first filing office,1
+INST SCIENCE TECH AUSTRIA,gov / non-profit,AT,1 applicant country,1
+INST SCIENCE TECH AUSTRIA IST AUSTRIA,gov / non-profit,AT,1 applicant country,1
+INST SUPERIOR TECNICO,university,PT,1 applicant country,1
+INST THEORETICAL PHYSICS CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,1
+INSTITUCIO CATALANA RECERCA I ESTUDIS AVANCATS ICREA,gov / non-profit,ES,1 applicant country,1
+MORGAN STANLEY SERVICES GROUP,company,US,1 applicant country,1
+MOTOROLA MOBILITY,company,US,3 first filing office,1
+MPHASIS,company,IN,1 applicant country,1
+MULTI SPACE COMPUTING,company,,none,1
+NA YILIN,company,CN,3 first filing office,1
+NAGOYA ELECTRICAL EDUCATIONAL FOUNDATION,gov / non-profit,JP,3 first filing office,1
+NANCHANG UNIV XINYIDAI INFORMATION TECH INDUSTRY RESEARCH INST,university,CN,3 first filing office,1
+NANJING BEIDI NEW MATERIAL TECH,company,CN,3 first filing office,1
+MINES PARISTECH,university,US,3 first filing office,1
+MINNAN NORMAL UNIV,university,CN,3 first filing office,1
+MIRISE TECH,company,JP,3 first filing office,1
+MISSISSIPPI STATE UNIV,university,US,1 applicant country,1
+MITSUBISHI CHEMICAL,company,JP,1 applicant country,1
+MITSUBISHI ELECTRIC RESEARCH LABORATORIESM,company,US,1 applicant country,1
+MOLECULE ONE,company,PL,1 applicant country,1
+MORES,company,US,1 applicant country,1
+INNOGY INNOVATION,company,DE,1 applicant country,1
+INNOVATION ACADEMY MICROSATELLITES CAS,gov / non-profit,CN,3 first filing office,1
+INNOVATION ACADEMY PRECISION MEASUREMENT SCIENCE TECH CAS,university,CN,3 first filing office,1
+INORGANIC INTELLIGENCE,company,US,1 applicant country,1
+INQUBIT,company,US,1 applicant country,1
+INSPUR BEIJING ELECTRONIC INFORMATION INDUSTRY,company,CN,3 first filing office,1
+INSPUR ELECTRONIC INFORMATION INDUSTRY,company,CN,1 applicant country,1
+INST 7TH 2TH 4TH CHINESE SHIP HEAVY INDUSTRY GROUP,company,CN,3 first filing office,1
+NANJING YUNLANG SOFTWARE,company,CN,3 first filing office,1
+NANNING CRRC RAIL TRANSIT EQUIPMENT,company,CN,3 first filing office,1
+NANO META TECH,company,US,3 first filing office,1
+NANOACADEMIC TECH,company,CA,1 applicant country,1
+INFORMATION TELECOMMUNICATION BRANCH STATE GRID BEIJING ELECTRIC POWER,company,CN,3 first filing office,1
+INFORMATION TELECOMMUNICATION BRANCH STATE GRID FUJIAN ELECTRIC POWER,company,CN,3 first filing office,1
+INHA INDUSTRY PARTNERSHIP INST,university,KR,1 applicant country,1
+INHA UNIV RESEARCH BUSINESS FOUNDATION,university,KR,1 applicant country,1
+NANJING QIANHAI COMMUNICATION TECH,company,CN,3 first filing office,1
+NANJING QUMENGLIAN INFORMATION TECH,company,CN,3 first filing office,1
+NANJING SCIENCE TECH UNIV,university,CN,3 first filing office,1
+NANJING SHOUCHUAN XINAN TECH,company,CN,3 first filing office,1
+NANJING TIANSU AUTOMATION CONTROL SYSTEM,company,CN,3 first filing office,1
+NANJING VOCATIONAL UNIV INDUSTRY TECH,university,CN,3 first filing office,1
+NANJING XILINGLU INFORMATION TECH,company,CN,3 first filing office,1
+NANJING YIKETENG INFORMATION TECH,company,CN,3 first filing office,1
+INTERTRADE,company,JP,1 applicant country,1
+INTERWISE,company,IL,1 applicant country,1
+INVENTEC,company,TW,1 applicant country,1
+NANJING BROADCAST TELEVISION GROUP NANJING BROADCAST TELEVISION STATION,company,CN,3 first filing office,1
+NANJING JIXINCUI INFORMATION TECH,company,CN,3 first filing office,1
+NANJING LEIBANG SEMICONDUCTOR TECH,company,CN,3 first filing office,1
+NANJING LEPENG ELECTRONIC TECH,company,CN,3 first filing office,1
+NANJING NANRUI GUO SHIELD QUANTUM TECH,company,CN,3 first filing office,1
+NAVAL SERVICE ACADEMY PLA,gov / non-profit,CN,3 first filing office,1
+NAVAL UNIV ENGINEERING PLA,university,CN,3 first filing office,1
+NEQXT,company,DE,1 applicant country,1
+NETWORK INFORMATION RESEARCH INST SYSTEM ENGINEERING RESEARCH INST MILITARY ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,1
+NEVADA BOARD HIGHER EDUCATION ON BEHALF UNIV NEVADA,university,CN,3 first filing office,1
+NHN CLOUD,company,KR,1 applicant country,1
+NICHIA,company,JP,1 applicant country,1
+NICOLAUS COPERNICUS UNIV IN TORUN,university,PL,1 applicant country,1
+NATIONAL INSTITUTES QUANTUM RADIOLOGICAL SCIENCE TECH,gov / non-profit,JP,3 first filing office,1
+NATIONAL TSING HUA UNIV,university,TW,1 applicant country,1
+NATIONAL UNIV CORPORATION YOKOHAMA NATIONAL UNIV,university,JP,1 applicant country,1
+NATIONAL UNIV DEFENSE TECH,university,CN,1 applicant country,1
+NATIONAL YANG MING CHIAO TUNG UNIV,university,TW,1 applicant country,1
+NATIONZ TECH,company,CN,3 first filing office,1
+NAUCHNO INNOVATSIONNOE KOMMERCHESKOE AGENTSTVO TOTARM,company,RU,1 applicant country,1
+NAUCHNO TEKHNICHESKOE OBEDINENIE IREH POLJUS OOONTO IREH POLJUS,company,RU,1 applicant country,1
+NANTONG POLYTECHNIC COLLEGE,university,CN,3 first filing office,1
+NARI TECH,company,CN,3 first filing office,1
+NATIONAL CENTER NANOSCIENCE TECH,gov / non-profit,CN,3 first filing office,1
+NATIONAL CHENGCHI UNIV,university,TW,1 applicant country,1
+NATIONAL CHIAO TUNG UNIV,university,TW,1 applicant country,1
+NATIONAL HELLENIC RESEARCH FOUNDATION,gov / non-profit,GR,1 applicant country,1
+NATIONAL HELLENIC RESEARCH FOUNDATION NHRF,gov / non-profit,GR,1 applicant country,1
+NATIONAL INST STANDARDS TECH,gov / non-profit,US,1 applicant country,1
+INST D OPTIQUE APPLICATIONS OPTIQUE,gov / non-profit,FR,3 first filing office,1
+INST DOPTIQUE GRADUATE SCHOOL,university,FR,1 applicant country,1
+INST FISICA D ALTES ENERGIES,gov / non-profit,ES,1 applicant country,1
+INST FISICA DALTES ENERGIES IFAE,gov / non-profit,ES,1 applicant country,1
+INST HIGH ENERGY PHYSICS CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,1
+INST NETWORK ENGINEERING ACADEMY MILITARY SCIENCE,gov / non-profit,CN,3 first filing office,1
+INST NETWORK INFORMATION ACADEMY MILITARY SCIENCE PLA,gov / non-profit,CN,3 first filing office,1
+NANOSC,company,SE,1 applicant country,1
+INFORMATION COMMUNICATION CORPORATION STATE GRID GANSU ELECTRIC POWER,company,CN,3 first filing office,1
+INFORMATION SCIENCE ACADEMY CHINA ELECTRONICS TECH GROUP,university,CN,3 first filing office,1
+NOKIA NETWORKS,company,FI,1 applicant country,1
+NOMURA RESEARCH INST,company,JP,3 first filing office,1
+NORTH CHINA ELECTRIC POWER UNIV RESTRAINT,university,CN,3 first filing office,1
+NORTH CHINA UNIV WATER RESOURCES ELECTRIC POWER,university,CN,3 first filing office,1
+NORTHEAST AGRICULTURAL UNIV,university,CN,3 first filing office,1
+NORTHEAST NORMAL UNIV,university,CN,3 first filing office,1
+INDIAN INST SCIENCE EDUCATION RESEARCH,gov / non-profit,IN,1 applicant country,1
+INDIAN INST TECH,university,IN,1 applicant country,1
+INDUSTRY ACADEMIC COOPERATION GWANGJU UNIV,university,KR,1 applicant country,1
+INFILTRON HOLDINGS,company,US,1 applicant country,1
+INFINITE POTENTIAL LAB,company,CA,1 applicant country,1
+INFORMATION CENTER GUIZHOU POWER GRID,company,CN,3 first filing office,1
+INFORMATION COMMUNICATION COMPANY STATE GRID HENAN ELECTRIC POWER,company,CN,3 first filing office,1
+INFORMATION COMMUNICATION COMPANY STATE GRID XINJIANG ELECTRIC POWER,company,CN,3 first filing office,1
+NO15 INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+NO52 RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+IALLCHAIN,company,CN,3 first filing office,1
+IDAC HOLDINGS,company,US,1 applicant country,1
+IHSAN DOGRAMACI BILKENT UNIVERSITESI,university,TR,1 applicant country,1
+IMCLOUD,company,KR,1 applicant country,1
+IMPERIAL COLLEGE LONDON,university,GB,1 applicant country,1
+INCHEON NATIONAL UNIV RESEARCH BUSINESS FOUNDATION,university,KR,1 applicant country,1
+NIHON UNIV,university,JP,1 applicant country,1
+NIKE ROOT PARTNERSHIP IP LIMITED RESPONSIBILITY,company,KR,3 first filing office,1
+NIKON,company,JP,1 applicant country,1
+NINGBO CULTURAL TOURISM RESEARCH INST NINGBO WENLV PROPAGANDA PROMOTION CENTER NINGBO CULTURAL RADIO TELEVISION TOURISM INFORMATION CENTER,gov / non-profit,CN,3 first filing office,1
+NINGBO NINGJU MEDIA TECH,company,CN,3 first filing office,1
+NINGXIA LONGJI NINGGUANG INSTRUMENT,company,CN,3 first filing office,1
+NIPPON HOSO KYOKAI NHK,company,JP,3 first filing office,1
+NKT PHOTONICS,company,DK,1 applicant country,1
+HUNAN VENTMED MEDICAL TECH,company,CN,3 first filing office,1
+HUNAN ZHENGWEI NEW ENERGY TECH,company,CN,3 first filing office,1
+HYPAHUB,company,US,1 applicant country,1
+HYUNDAI MOTOR COMPANY KIA,company,KR,1 applicant country,1
+I LINK SYSTEM,company,KR,1 applicant country,1
+NVIDA,company,US,1 applicant country,1
+NXM LAB,company,US,1 applicant country,1
+NXM LAB CANADA,company,CA,1 applicant country,1
+HUNAN BANK SANXIANG,company,CN,3 first filing office,1
+HUNAN CHANGLI SHANGYANG TECH,company,CN,3 first filing office,1
+HUNAN CHENHAN INFORMATION TECH,company,CN,3 first filing office,1
+HUNAN FIRST NORMAL UNIV,university,CN,3 first filing office,1
+HUNAN GIGA DOG TECH,company,CN,3 first filing office,1
+HUNAN GREATWALL GALAXY TECH,company,CN,3 first filing office,1
+HUNAN INST ENGINEERING,university,CN,3 first filing office,1
+HUNAN INST TECH,university,CN,3 first filing office,1
+NUODINGHAN NINGBO FREE TRADE ZONE BLOCKCHAIN,company,CN,3 first filing office,1
+HUANENG LANCANG RIVER HYDROPOWER,company,CN,3 first filing office,1
+HUANENG POWER INTERNATIONAL INC DEZHOU POWER PLANT,company,CN,1 applicant country,1
+HUANG FAMILY,company,US,1 applicant country,1
+HUANGSHAN POWER SUPPLY COMPANY STATE GRID ANHUI ELECTRIC POWER,company,CN,3 first filing office,1
+HUANYU GROUP NANJING,company,CN,3 first filing office,1
+HUAZHONG AGRICULTURAL UNIV,university,CN,3 first filing office,1
+HUBEI UNIV,university,CN,3 first filing office,1
+NORTHWEST A F UNIV,university,CN,3 first filing office,1
+NORTHWEST INDUSTRY UNIV,university,CN,3 first filing office,1
+NOSANOW NUTT,company,US,1 applicant country,1
+NOURIT GROUP,company,CN,3 first filing office,1
+NOVARION SYSTEMS,company,US,1 applicant country,1
+NOVOMATIC,company,,none,1
+NOVOSPEECH,company,IL,1 applicant country,1
+NS SOLUTIONS,company,JP,3 first filing office,1
+HONG KONG APPLIED SCIENCE TECH RESEARCH INST,gov / non-profit,US,3 first filing office,1
+HONG KONG SCIENCE TECH UNIV,university,CN,3 first filing office,1
+HSBC TECH SERVICES USA,company,,none,1
+HUADI COMPUTER GROUP,company,CN,3 first filing office,1
+HUADONG COMPUTING TECH RESEARCH INST CHINA ELECTRONIC TECH GROUP COMPANY NO32 RESEARCH INST,company,CN,3 first filing office,1
+OTLA,company,CA,3 first filing office,1
+OXFORD NANOSCIENCE,company,GB,1 applicant country,1
+OZYEGIN UNIV,university,TR,1 applicant country,1
+HENGTONG QASKY QUANTUM INFORMATION RESEARCH INST,company,CN,1 applicant country,1
+HEQA SECURITY,company,IL,1 applicant country,1
+HERE GLOBAL,company,NL,1 applicant country,1
+HERIOT WATT UNIV,university,GB,1 applicant country,1
+HEZE POWER SUPPLY COMPANY STATE GRID SHANDONG ELECTRIC POWER,company,CN,3 first filing office,1
+HIROSHIMA UNIV,university,JP,3 first filing office,1
+HISPASAT,company,ES,1 applicant country,1
+HKC,company,CN,3 first filing office,1
+OPTOCAP,company,GB,1 applicant country,1
+OPTOPTO OPTICS,company,GB,3 first filing office,1
+OPTUM,company,US,1 applicant country,1
+ORTA DOGU TEKNIK UNIVERSITESI,university,TR,1 applicant country,1
+OSAKA CITY UNIV,university,JP,3 first filing office,1
+HENAN RONGPAN NETWORK TECH,company,CN,3 first filing office,1
+HENAN UNIV,university,CN,3 first filing office,1
+HENAN UNIV SCIENCE TECH,university,CN,3 first filing office,1
+OBEEBO LAB,company,US,1 applicant country,1
+OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU KUREIT OOO KUREIT,company,RU,1 applicant country,1
+OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIU MEZHDUNARODNYI TSENTR KVANTOVOI OPTIKI I KVANTOVYKH VYCHISLENII OOO MTSKT,company,RU,1 applicant country,1
+OCTAGON I O,company,GB,1 applicant country,1
+ODYSSEY THERAPEUTICS UK,company,GB,1 applicant country,1
+OLYMPUS WINTER IBE,company,DE,1 applicant country,1
+ONEFIVEFIFTY,company,US,1 applicant country,1
+OPENSTREAM,company,US,1 applicant country,1
+HEFEI ZHONGKE SHUSHANG DATA TECH,company,CN,3 first filing office,1
+HEFEI ZHONGKE SMART COMMUNITY TECH,company,CN,3 first filing office,1
+HEILONGJIANG UNIV,university,CN,3 first filing office,1
+HELMHOLTZ ZENTRUM BERLIN FUER MATERIALIEN ENERGIE,gov / non-profit,DE,1 applicant country,1
+HENAN FIVEWIN ARCHITECTURAL DESIGN,company,CN,3 first filing office,1
+PINGHU GENERAL ELECTRIC INSTALLATION,company,CN,3 first filing office,1
+PIONEER,company,JP,1 applicant country,1
+PITTSBURGH UNIV GENUS HIGHER EDUCATION FEDERAL SYSTEM,university,,none,1
+HARBIN UNIV SCIENCE TECH,university,CN,3 first filing office,1
+HCL TECH,company,IN,1 applicant country,1
+HEFEI AGEDE INFORMATION TECH,company,CN,3 first filing office,1
+HEFEI BOE OPTOELECTRONICS TECH,company,CN,3 first filing office,1
+HEFEI HUIYU TECH,company,CN,3 first filing office,1
+HEFEI JINHAN TECH,company,CN,3 first filing office,1
+HEFEI SHENGDA ELECTRONIC TECH INDUSTRY,company,CN,1 applicant country,1
+HEFEI YAOZHENG QUANTUM TECH,company,CN,3 first filing office,1
+PERCIEVE,company,US,1 applicant country,1
+PERFORMANCE SOFTWARE,company,US,1 applicant country,1
+PERITI KVANTUM KOMPYUTING,company,AT,1 applicant country,1
+PETROCHEMICAL COLLEGE IN BEIJING,university,CN,3 first filing office,1
+PETROCHINA,company,CN,3 first filing office,1
+HANGZHOU SHUNSHI TECH,company,CN,3 first filing office,1
+HANGZHOU WATER SHUZHI TECH,company,CN,3 first filing office,1
+HARBIN SCIENCE ENGINEERING UNIV,university,CN,3 first filing office,1
+OZYEGIN UNIVERSITESI,university,TR,1 applicant country,1
+PALO ALTO NETWORKS,company,US,1 applicant country,1
+PARALLEL WIRELESS,company,US,1 applicant country,1
+PAUL SCHERRER INST,gov / non-profit,CH,1 applicant country,1
+PEARL COHEN ZEDEK LATZER BARATZ,company,IL,1 applicant country,1
+PENG CHENG LAB,gov / non-profit,CN,3 first filing office,1
+PENN STATE UNIV,university,US,1 applicant country,1
+PERCEIVE,company,US,1 applicant country,1
+GUILIN UNIV TECH,university,CN,3 first filing office,1
+GUIZHOU MELINGLING POWER,company,CN,3 first filing office,1
+GUIZHOU MINZU UNIV,university,CN,3 first filing office,1
+GUIZHOU POWER GRID LIMITED RESPONSIBILITY,company,CN,3 first filing office,1
+GUOXIN QUANTUM BEIJING TECH,company,CN,3 first filing office,1
+GUOXIN QUANTUM TECH SUZHOU,company,CN,3 first filing office,1
+GWANGJU UNIV INST EDUCATIONAL INDUSTRIAL COOPERATION,university,KR,1 applicant country,1
+HAIKOU MATERNAL CHILD HEALTH HOSPITAL HAIKOU WOMEN CHILDREN HOSPITAL,gov / non-profit,CN,3 first filing office,1
+PREVISIONIO,company,FR,1 applicant country,1
+PRONETLABS,company,VG,1 applicant country,1
+GUANGZHOU EIPU NETWORK TECH,company,CN,3 first filing office,1
+GUANGZHOU FANGHE DATA,company,CN,3 first filing office,1
+GUANGZHOU FELICITY SOLAR TECH,company,CN,3 first filing office,1
+GUANGZHOU INST INDUSTRY TECH,gov / non-profit,CN,3 first filing office,1
+GUANGZHOU JISHI CONSTRUCTION GROUP,company,CN,3 first filing office,1
+GUANGZHOU KANGLEI INFORMATION TECH,company,CN,3 first filing office,1
+POSTECH ACADEMY INDUSTRY FOUNDATION,university,KR,1 applicant country,1
+POWERCHINA GUIYANG ENGINEERING,company,CN,3 first filing office,1
+POWERCHINA JIANGXI ELECTRIC POWER DESIGNING INST,company,CN,3 first filing office,1
+PQ SOLUTIONS,company,GB,1 applicant country,1
+PQSHIELD,company,GB,1 applicant country,1
+PRAXAIR TECH,company,US,1 applicant country,1
+PREFERRED NETWORKS,company,JP,1 applicant country,1
+PRESIDENT FELLOWS HARVARD COLLEGE MASSACHUSETTS INST TECH,university,US,1 applicant country,1
+PIVOTAL BIOTECH,company,US,1 applicant country,1
+PLAINSIGHT,company,US,1 applicant country,1
+PLAINSIGHT TECH,company,US,1 applicant country,1
+PLANCKIAN,company,IT,1 applicant country,1
+POGGI,company,US,1 applicant country,1
+POLARONIX,company,US,1 applicant country,1
+POLITECNICO MILANO,university,IT,1 applicant country,1
+POLYPIE,company,US,1 applicant country,1
+GREAT POWER SCIENCE TECH STOCK CO LTD STATE GRID INFORMATION TELECOMMUNICATION,company,CN,3 first filing office,1
+GUANGAN FENGHUI BUILDING MATERIAL,company,CN,3 first filing office,1
+GUANGDONG BOYUN COMMON PLATFORM NETWORK TECH,company,CN,3 first filing office,1
+GUANGDONG DEAO SMART MEDICAL TECH,company,CN,3 first filing office,1
+GUANGDONG GUANGYU SCIENCE TECH DEVELOPMENT,company,CN,3 first filing office,1
+GUANGDONG GUOKE QUANTUM COMMUNICATION NETWORK,company,CN,3 first filing office,1
+GUANGDONG INDUSTRIAL EDGE INTELLIGENT INNOVATION CENTER,company,CN,3 first filing office,1
+GUANGDONG INST ARTIFICIAL INTELLIGENCE ADVANCED COMPUTING,gov / non-profit,CN,3 first filing office,1
+QINGDAO XINHUIMING VISION TECH,company,CN,3 first filing office,1
+QINGYUAN TIANZHIHENG SENSING TECH,company,CN,3 first filing office,1
+QOHERENCE INSTRUMENTS,company,CA,1 applicant country,1
+QOHERENT,company,CA,1 applicant country,1
+GOQUANTUM,company,CL,1 applicant country,1
+GOSUDARSTVENNOE UCHREZHDENIE FEDERALNOE AGENTSTVO PO PRAVOVOI,gov / non-profit,CN,3 first filing office,1
+GOTTFRIED WILHELM LEIBNIZ UNIV HANNOVER KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+GOVERNORS UNIV ALBERTA,university,CA,1 applicant country,1
+HANGZHOU QULIAN TECH,company,CN,3 first filing office,1
+HANGZHOU SECSMART INFORMATION TECH,company,CN,3 first filing office,1
+PUBLIC UNIV CORPORATION NAGOYA CITY UNIV,university,JP,1 applicant country,1
+PUJI,company,,none,1
+Q NET SECURITY,company,US,1 applicant country,1
+QDEVIL APS A QM COMPANY QM TECH,company,DK,1 applicant country,1
+QIANGLI EV PORTFOLIO 2022,company,,none,1
+QILU UNIV TECH SHANDONG ACADEMY SCIENCE,university,CN,3 first filing office,1
+HAINAN NORMAL UNIV,university,CN,3 first filing office,1
+HAINAN UNIV,university,CN,3 first filing office,1
+HAIQU,company,US,1 applicant country,1
+HANGZHOU ALICLOUD FEITIAN INFORMATION TECH,company,CN,1 applicant country,1
+HANGZHOU BACK QUANTUM PASSWORD TECH,company,CN,3 first filing office,1
+HANGZHOU CCHANG INFORMATION TECH,company,CN,3 first filing office,1
+HANGZHOU INTERNATIONAL SCIENCE TECH INNOVATION CENTER ZHEJIANG UNIV,university,CN,3 first filing office,1
+HANGZHOU JUNCAI TECH,company,CN,3 first filing office,1
+GACHON UNIV INDUSTRY ACADEMIC COOPERATION FOUNDATION,university,KR,1 applicant country,1
+GENERAL BIOLOGICAL ANHUI,company,CN,3 first filing office,1
+GENERAL ELECTRIC TECHNOLOGY,company,CH,1 applicant country,1
+GENETRON HEALTH TECH,company,CN,3 first filing office,1
+GEOLOGICAL SCIENCE RESEARCH INST IN SHANDONG PROVINCE,gov / non-profit,CN,3 first filing office,1
+GEWU QUANTUM TECH HEFEI,company,CN,3 first filing office,1
+GEXIN USA INTEGRATED CIRCUIT TECH,company,US,3 first filing office,1
+GLADIOLUS VERITATIS CONSULTING,company,CA,1 applicant country,1
+QUANTUM ENERGY,company,US,3 first filing office,1
+QUANTUM NETWORK TECH,company,US,1 applicant country,1
+FUNDACIO INSITITUT CIENCIES FOTONIQUES,gov / non-profit,ES,1 applicant country,1
+FUNDACION TECNALIA RESEARCH INNOVATION,gov / non-profit,ES,1 applicant country,1
+FUNDAN UNIV,university,CN,2 script of the name,1
+FUTUREWEI TECH,company,US,1 applicant country,1
+FUZHOU SHENGYU GATED INTELLIGENT TECH,company,CN,3 first filing office,1
+FUZHOU YUNSHANG INFORMATION TECH,company,CN,3 first filing office,1
+QUANFLUENCE PRIVATE,company,IN,1 applicant country,1
+QUANT L R,company,IL,1 applicant country,1
+QUANTIZED TECH,company,CA,1 applicant country,1
+QUANTOPTICON,company,GB,1 applicant country,1
+QUANTUM BIT MOBILE STORAGE,company,,none,1
+QUANTUM BLOCKCHAINS,company,PL,1 applicant country,1
+QUANTUM ELEMENTS,company,US,1 applicant country,1
+QUANTUM EMOTION,company,CA,1 applicant country,1
+GUANGDONG LAB ARTIFICIAL INTELLIGENCE DIGITAL ECONOMIC SHENZHEN,gov / non-profit,CN,3 first filing office,1
+GUANGDONG SUPREMACY FUTURE TECH,company,CN,1 applicant country,1
+GUANGDONG WAVE WISDOM COMPUTING TECH,company,CN,3 first filing office,1
+GUANGDONG XINTONG COMMUNICATION,company,CN,3 first filing office,1
+GUANGDONG ZHUCHENG BUILDING TECH,company,CN,3 first filing office,1
+GUANGXI ACADEMY AGRICULTURAL SCIENCE,gov / non-profit,CN,3 first filing office,1
+GUANGZHOU COLLEGE TECH BUSINESS,university,CN,3 first filing office,1
+QU CO CHEMISTRY,company,NL,1 applicant country,1
+FLUID POWER AI,company,US,1 applicant country,1
+FMR,company,US,1 applicant country,1
+FOCUS TECH,company,CN,3 first filing office,1
+FOQUS TECH,company,CA,1 applicant country,1
+FORD GLOBAL TECH,company,US,1 applicant country,1
+FORT ROBOTICS,company,US,1 applicant country,1
+FREIE UNIV BERLIN,university,DE,1 applicant country,1
+FRIEDRICH ALEXANDER UNIVERSITU T ERLANGEN N U RNBERG,university,US,3 first filing office,1
+FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE VYSSHEGO OBRAZOVANIYA MOSKOVSKIJ GOSUDARSTVENNYJ UNIVERSITET IMENI MV LOMONOSOVA MGU,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE VYSSHEGO OBRAZOVANIYA RYAZANSKIJ GOSUDARSTVENNYJ RADIOTEKHNICHESKIJ UNIVERSITET,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE UCHREZHDENIE NAUKI FISIKO TEKHNICHESKIY INST IM AF IOFFE ROSSIYSKOY AKADEMII NAUK,university,RU,1 applicant country,1
+FEI,company,US,1 applicant country,1
+FERMI FORWARD DISCOVERY GROUP,company,US,1 applicant country,1
+FIBERHOME TELECOMMUNICATION TECH,company,CN,3 first filing office,1
+FLORIDA ATLANTIC UNIV,university,US,1 applicant country,1
+FLORIDA STATE UNIV,university,US,1 applicant country,1
+QUANTUMXCHANGE,company,US,1 applicant country,1
+QUANTUMZIO,company,PL,1 applicant country,1
+QUANZHOU INST EQUIPMENT MANUFACTURING,gov / non-profit,CN,3 first filing office,1
+QUBIC,company,CA,1 applicant country,1
+QUBITSOLVE,company,US,1 applicant country,1
+QUEL,company,JP,1 applicant country,1
+QUENOVA COMPUTING,company,US,3 first filing office,1
+QUINTESSENCE LAB,company,AU,1 applicant country,1
+GLISTEN,company,US,1 applicant country,1
+GLOBALFOUNDRIES US,company,US,1 applicant country,1
+GODEL TECH,company,AT,1 applicant country,1
+QUANTUM OPTICS JENA,company,DE,1 applicant country,1
+QUANTUM PROPERTIES TECHNOLOGY,company,US,1 applicant country,1
+QUANTUM SCIENCE SYSTEMS,company,AT,1 applicant country,1
+QUANTUM SOFTWARE HOLDING,company,NL,3 first filing office,1
+QUANTUM TECH ENGINEERING RESEARCH INST SOUTHERN SCIENCE IN FUJIAN DISTRICT SHENZHEN,gov / non-profit,CN,3 first filing office,1
+RHEINISCHE FRIEDRICH WILHELMS UNIV BONN,university,DE,1 applicant country,1
+RHEINISCHE FRIEDRICH WILHELMS UNIV BONN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+RHEINLAND PFALZISCHE TECHNISCHE UNIV KAISERSLAUTERN LANDAU,university,DE,1 applicant country,1
+RHEINLAND PFALZISCHE TECHNISCHE UNIV KAISERSLAUTERN LANDAU KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+RIGUL TECH SHANGHAI,company,CN,3 first filing office,1
+RIPPLE LAB,company,US,1 applicant country,1
+RIVER LANE RES,company,GB,3 first filing office,1
+RIVER RESEARCH,company,GB,3 first filing office,1
+RENESAS ELECTRONICS,company,JP,1 applicant country,1
+RENMIN UNIV CHINA,university,CN,3 first filing office,1
+RESEARCH INST ECONOMICS TECH STATE GRID SHANDONG ELECTRIC POWER,company,CN,3 first filing office,1
+RESERVOIR LAB,company,US,1 applicant country,1
+RESILIENT ENTANGLEMENT,company,US,1 applicant country,1
+REYERSON UNIV,university,CA,1 applicant country,1
+RHAKO,company,GB,3 first filing office,1
+RHEINISCH WESTF LISCHE TECH HOCHSCHULE AACHEN,university,US,3 first filing office,1
+QUZHOU POWER SUPPLY COMPANY STATE GRID ZHEJIANG ELECTRIC POWER,company,CN,3 first filing office,1
+QWERX,company,US,1 applicant country,1
+R3,company,GB,1 applicant country,1
+RAMAN RESEARCH INST,gov / non-profit,IN,1 applicant country,1
+RAMBUS,company,US,1 applicant country,1
+RANDAEMON,company,PL,1 applicant country,1
+REAL TIME SYNCHRONIZATION,company,US,3 first filing office,1
+RED CAP,company,US,3 first filing office,1
+FROUNHAV APPLICATION RESEARCH PROMOTION ASSOCIATION,gov / non-profit,DE,3 first filing office,1
+FUJI ELECTRIC,company,JP,3 first filing office,1
+FUJIAN MINBAO INFORMATION TECH,company,CN,3 first filing office,1
+QUINTESSENCELABS,company,AU,1 applicant country,1
+QULIANTONG NETWORK,company,CN,3 first filing office,1
+QUNU LAB,company,IN,1 applicant country,1
+QUNU LAB PRIVATE,company,US,3 first filing office,1
+QUSIDE TECH,company,ES,1 applicant country,1
+ROYAL INSTITUTION ADVANCEMENT LEARNING MCGILL UNIV,university,CA,1 applicant country,1
+ROYAL MELBOURNE INST TECH,university,AU,1 applicant country,1
+RTQC,company,CN,2 script of the name,1
+RTSYNC,company,US,1 applicant country,1
+RUBICON LAB,company,US,1 applicant country,1
+RUPRECHT KARLS UNIV HEIDELBERG,university,DE,1 applicant country,1
+RYERSON UNIV,university,CA,1 applicant country,1
+SAARLAND UNIV,university,DE,1 applicant country,1
+FACE GERMINATION,company,CN,3 first filing office,1
+FANUC,company,JP,3 first filing office,1
+FEDERAL STATE BUDGETARY EDUCATION INSTITUTION HIGHER EDUCATION LOMONOSOV MOSCOW STATE UNIV,university,RU,1 applicant country,1
+FEDERAL STATE BUDGETARY INSTITUTION HIGHER EDUCATION BAUMAN MOSCOW STATE TECHNICAL UNIV,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE AVTONOMNOE OBRAZOVATELNOE UCHREZHDENIE VYSSHEGO OBRAZOVANIYA NATSIONALNYJ ISSLEDOVATELSKIJ UNIVERSITET MOSKOVSKIJ INST ELEKTRONNOJ TEKHNIKI,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE BIUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE VYSSHEGO OBRAZOVANIIA KAZANSKII NATSIONALNYI ISSLEDOVATELSKII TEKHNICHESKII UNIVERSITET IM AN TUPOLEVA KAI,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE BJUDZHETNOE UCHREZHDENIE NAUKI INST PRIKLADNOJ FIZIKI ROSSIJSKOJ AKADEMII NAUK IPF RAN,university,RU,1 applicant country,1
+FEDERALNOE GOSUDARSTVENNOE BYUDZHETNOE OBRAZOVATELNOE UCHREZHDENIE VYSSHEGO OBRAZOVANIYA IRKUTSKIJNATSIONALNYJ ISSLEDOVATELSKIJ TEKHNICHESKIJ UNIVERSITET FGBOU VO IRNITU,university,RU,1 applicant country,1
+ERNST YOUNG,company,CA,1 applicant country,1
+ESSILOR INTERNATIONAL,company,FR,1 applicant country,1
+ETH ZURICH SWISS FEDERAL INST TECH ZURICH,university,CH,1 applicant country,1
+ETHNIKO IDRYMA EREVNON,gov / non-profit,GR,1 applicant country,1
+EVERBRIGHT TECH,company,CN,3 first filing office,1
+EXTROPIC,company,US,1 applicant country,1
+EXXONMOBIL RESEARCH ENGINEERING,company,US,1 applicant country,1
+EYL,company,KR,1 applicant country,1
+ROCKET FORCE UNIV ENGINEERING PLA,university,CN,3 first filing office,1
+ROCKWELL COLLINS,company,US,1 applicant country,1
+ROLLS ROYCE,company,GB,1 applicant country,1
+ENGINEERING UNIVERSITY OF THE PEOPLE'S ARMED POLICE,university,CN,2 script of the name,1
+ENTANGLED NETWORKS,company,CA,1 applicant country,1
+ENTANGLEMENT,company,US,1 applicant country,1
+ENTOS,company,US,1 applicant country,1
+EQUAL LAB,company,US,1 applicant country,1
+ELECTRIC POWER SCIENCE RESEARCH INST STATE GRID SHANDONG POWER,company,CN,3 first filing office,1
+ELECTRIC POWER SCIENTIFIC RESEARCH INST STATE GRID JIANGXI ELECTRIC POWER,company,CN,3 first filing office,1
+ELECTRICITE FRANCE,company,FR,1 applicant country,1
+ELECTRONIC SCIENCE RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+ELEKTROBIT AUTOMOTIVE,company,DE,1 applicant country,1
+EMBRAER,company,US,3 first filing office,1
+EMBRY WORK COLLEGE,university,,none,1
+SCREEN HOLDINGS,company,JP,1 applicant country,1
+EHIME UNIV,university,JP,3 first filing office,1
+EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ETH ZURICH,university,CH,1 applicant country,1
+ELECTRIC POWER RESEARCH INST CHINA SOUTHERNPOWER GRID,gov / non-profit,CN,1 applicant country,1
+ELECTRIC POWER RESEARCH INST CO LTD CSG,company,CN,3 first filing office,1
+ELECTRIC POWER RESEARCH INST SICHUAN ELECTRIC POWER,company,CN,3 first filing office,1
+ELECTRIC POWER RESEARCH INST STATE GRID FUJIAN ELECTRIC POWER,company,CN,3 first filing office,1
+ELECTRIC POWER RESEARCH INST STATE GRID LIAONING ELECTRIC POWER SUPPLY,company,CN,3 first filing office,1
+ELECTRIC POWER SCIENCE RESEARCH INST SICHUAN PROVINCE ELECTRIC POWER COMPANY STATE GRID,company,CN,3 first filing office,1
+SCIENTIFIC SOLUTIONS,company,MX,3 first filing office,1
+SCRAM SOFTWARE,company,AU,1 applicant country,1
+ECONOMIC TECH RESEARCH INST STATE GRID EAST INNER MONGOLIA ELECTRIC POWER,company,CN,3 first filing office,1
+ECONOMIC TECH RESEARCH INST STATE GRID HENAN ELECTRIC POWER,company,CN,3 first filing office,1
+ECONOMIC TECHNICAL RESEARCH INST STATE GRID FUJIAN PROVINCE ELECTRIC POWER,company,CN,3 first filing office,1
+EDICO GENOME,company,US,1 applicant country,1
+EDIL NATURA,company,IT,1 applicant country,1
+EFSOLUTIONS GBR,company,DE,1 applicant country,1
+SACHSENK,company,,none,1
+SAITAMA UNIV,university,JP,3 first filing office,1
+SALIENCE LAB,company,GB,1 applicant country,1
+SARNOFF,company,US,3 first filing office,1
+SCALINQ,company,SE,1 applicant country,1
+SCAPE TECH,company,GB,1 applicant country,1
+SCIENCE SOLUTIONS,company,US,1 applicant country,1
+SCIENTIFIC APPLICATION RESEARCH INST JINGU CALCULATION IN SHENZHEN,gov / non-profit,CN,3 first filing office,1
+EAST CHINA INST COMPUTING TECH 32ND RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+EAST CHINA UNIV SCIENCE TECH,university,CN,3 first filing office,1
+EBERHARD KARLS UNIV TUEBINGEN,university,DE,1 applicant country,1
+ECOLE NATIONALE SUPERIEURE CHIMIE PARIS,university,FR,1 applicant country,1
+ECOLE NORMALE SUPERIEURE PARIS,university,FR,1 applicant country,1
+ECOLE NORMALE SUPERIEURE PARIS SACLAY,university,FR,1 applicant country,1
+ECOLOGIC COMPUTING,company,DE,1 applicant country,1
+SHANDONG KINDA PHOTOELECTRIC TECH,company,CN,3 first filing office,1
+DIRECTOR GENERAL DEFENCE RESEARCH DEVELOPMENT ORGANISATION,company,IN,1 applicant country,1
+DISNEY ENTERPRISES,company,US,1 applicant country,1
+DOLC DAQING OIL FIELD,company,CN,3 first filing office,1
+DONGFENG ELECTRIC DRIVE SYSTEMS,company,CN,3 first filing office,1
+DONGGUAN UNIV TECH,university,CN,3 first filing office,1
+DOUYIN VISION,company,CN,3 first filing office,1
+DUALITY QUANTUM PHOTONICS,company,GB,1 applicant country,1
+DUZCE UNIVERSITESI REKTORLUGU,university,TR,1 applicant country,1
+SEOUL NATIONAL UNIV R DB FOUNDATION,university,KR,1 applicant country,1
+SEOUL WOMENS UNIV INDUSTRY UNIV COOPERATION FOUNDATION,university,KR,1 applicant country,1
+SERVICEPOWER,company,US,1 applicant country,1
+SHANDONG AGRICULTURAL UNIV,university,CN,3 first filing office,1
+SHANDONG AIRUIDE ELECTRIC,company,CN,3 first filing office,1
+SHANDONG COMPUTER SCIENCE CENTER NATIONAL SUPERCOMPUTER CENTER IN JINAN,gov / non-profit,CN,3 first filing office,1
+SHANDONG GUOXUN QUANTUM CORE TECH,company,CN,3 first filing office,1
+SHANDONG HAILIANG INFORMATION TECH RESEARCHINSTITUTE,gov / non-profit,CN,3 first filing office,1
+SEAGATE TECH,company,US,1 applicant country,1
+SECOND FOUNDATION INC SF,company,US,1 applicant country,1
+SECRETARY STATE BUSINESS INNOVATION SKILLS,gov / non-profit,GB,1 applicant country,1
+SECRETARY STATE BUSINESS INNOVATION SKILLS HER MAJESTYS BRITANNIC GOVERNMENT,gov / non-profit,JP,2 script of the name,1
+SEIKO EPSON,company,JP,1 applicant country,1
+SEJONG INDUSTRY ACADEMIA COOPERATION FOUNDATION HONGIK UNIV,university,KR,1 applicant country,1
+SELEX ES,company,IT,1 applicant country,1
+SELEX SISTEMI INTEGRATI,company,IT,1 applicant country,1
+SHANGHAI XUNTAI QUANTUM TECH,company,CN,3 first filing office,1
+SHANGQIU NORMAL UNIV,university,CN,3 first filing office,1
+SHENYANG AEROSPACE UNIV,university,CN,3 first filing office,1
+SHENYANG ASKY QUANTUM TECH,company,CN,3 first filing office,1
+SHENYANG UNIV TECH,university,CN,3 first filing office,1
+SHENZHEN ANDAXIN COMMUNICATION EQUIPMENT,company,CN,3 first filing office,1
+SHENZHEN BAINAWEI TECH,company,CN,3 first filing office,1
+SHENZHEN BAY LAB,gov / non-profit,CN,3 first filing office,1
+SHANGHAI QITING INDUSTRIAL,company,CN,3 first filing office,1
+SHANGHAI QUANTUM SCIENCE TECH,company,CN,3 first filing office,1
+SHANGHAI SPACEFLIGHT MEASUREMENT CONTROL COMMUNICATION INST,gov / non-profit,CN,3 first filing office,1
+SHANGHAI TONGTAI INFORMATION TECH,company,CN,3 first filing office,1
+SHANGHAI UNITED IMAGING HEALTHCARE,company,CN,3 first filing office,1
+SHANGHAI WANXIANG BLOCKCHAIN,company,CN,3 first filing office,1
+SHANGHAI XIZHI TECH,company,CN,1 applicant country,1
+SHANGHAI XUNTAI INFORMATION TECH,company,CN,3 first filing office,1
+SHANGHAI ELECTRIC POWER UNIV,university,CN,3 first filing office,1
+SHANGHAI ENGINEERING CENTER MICROSATELLITES,university,CN,3 first filing office,1
+SHANGHAI INST TECH,university,CN,3 first filing office,1
+SHANGHAI JIAO TONGUNIVERSITY,university,CN,1 applicant country,1
+SHANGHAI KUNFENG QUANTUM TECH,company,CN,3 first filing office,1
+SHANGHAI MACRO LIDA INFORMATION TECH,company,CN,3 first filing office,1
+SHANGHAI MICROSYSTEM INFORMATION TECH RESEARCH INST CHINESE ACADEMY SCIENCE,gov / non-profit,CN,3 first filing office,1
+SHANGHAI OEBIOTECH,company,CN,3 first filing office,1
+SHANDONG MODERN LOGISTICS TECH INDUSTRY RESEARCH INST,company,CN,3 first filing office,1
+SHANDONG NUCLEAR POWER,company,CN,3 first filing office,1
+SHANDONG UNIV TECH,university,CN,3 first filing office,1
+SHANGHAI 3DMED BIOMEDICAL TECH,company,CN,3 first filing office,1
+SHANGHAI AISINO CHIP ELECTRONIC TECH,company,CN,3 first filing office,1
+SHANGHAI ANMIXIN TECH,company,CN,3 first filing office,1
+SHANGHAI DANIU INFORMATION TECH,company,CN,3 first filing office,1
+SHANGHAI ELECTRIC GROUP,company,CN,3 first filing office,1
+DEUTSCHES ZENTRUM FUER LUFT RAUMFAHRT,gov / non-profit,DE,1 applicant country,1
+DEVANA SOLUTIONS,company,US,1 applicant country,1
+DHITECH DISTRETTO TECNOLOGICO H IGH TECH SCAR,company,IT,3 first filing office,1
+DIATOPE,company,DE,1 applicant country,1
+DIGITAL ASSET MARKETS,company,JP,1 applicant country,1
+SHENZHEN EYE TECH,company,CN,3 first filing office,1
+SHENZHEN FUTIAN DISTRICT NANKEDA QUANTUM TECH ENGINEERING RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+SHENZHEN FUTIAN SUSTECH INST QUANTUM TECH ENGINEERING,gov / non-profit,CN,3 first filing office,1
+DAYALBAGH EDUCATIONAL INST,gov / non-profit,IN,1 applicant country,1
+DEEP FUTURE ANALYTICS,company,US,1 applicant country,1
+DEEPMIND TECH,company,GB,1 applicant country,1
+DEFENCE RESEARCH DEVELOPMENT ORGANIZATION,gov / non-profit,IN,1 applicant country,1
+DELFT CIRCUITS,company,NL,1 applicant country,1
+DELINEA,company,US,1 applicant country,1
+DENGZHOU POWER SUPPLY COMPANY STATE GRID HENAN ELECTRIC POWER,company,CN,3 first filing office,1
+DEQING ADVANCED TECH INDUSTRY RESEARCH INST ZHEJIANG UNIV,university,CN,3 first filing office,1
+DALI POWER SUPPLY BUREAU YUNNAN POWER GRID,company,CN,3 first filing office,1
+DALIAN LINKTECH INFOSYSTEM,company,CN,3 first filing office,1
+DALIAN MARITIME UNIV,university,CN,3 first filing office,1
+DALIAN UNIV TECH,university,CN,1 applicant country,1
+DANDONG ELECTRIC POWER SUPPLY COMPANY STATE GRID LIAONING ELECTRIC POWER SUPPLY,company,CN,3 first filing office,1
+DATA WING,company,CN,2 script of the name,1
+DATANG BOILER PRESSURE VESSEL EXAMINATION CENTER,company,CN,3 first filing office,1
+DATANG MOBILE,company,CN,3 first filing office,1
+SHENZHEN CHUANGKE BLOCKCHAIN TECH,company,CN,3 first filing office,1
+SHENZHEN CIHANG UNMANNED INTELLIGENT SYSTEM TECH,company,CN,3 first filing office,1
+SHENZHEN CITY AIYUN INFORMATION TECH,company,CN,3 first filing office,1
+SHENZHEN COLLEGE,university,CN,3 first filing office,1
+SHENZHEN CONJUGATE TECH,company,CN,1 applicant country,1
+SHENZHEN CRYSTAL TAI TECH,company,CN,3 first filing office,1
+SHENZHEN DIMIOU TECH,company,CN,3 first filing office,1
+DAEGU GYEONGBUK INST SCIENCE TECH,university,KR,1 applicant country,1
+CONTINENTAL AUTOMOTIVE TECH,company,DE,1 applicant country,1
+COX COMMUNICATIONS,company,US,1 applicant country,1
+CROCUS TECH,company,FR,1 applicant country,1
+CROSBIL,company,CN,1 applicant country,1
+CRYPTA LAB,company,GB,1 applicant country,1
+CRYSTALLINE MIRROR SOLUTIONS,company,AT,1 applicant country,1
+CSG EHV POWER TRANSMISSION,company,CN,3 first filing office,1
+CURATORS UNIV MISSOURI THROUGH ITS UNIV CONSTITUENT UNIV,university,US,1 applicant country,1
+SHIBAURA INST TECH,university,JP,3 first filing office,1
+COMING,company,US,1 applicant country,1
+COMMON SAIKUTANG,company,,none,1
+COMMUNIQUE LAB,company,CA,1 applicant country,1
+COMPLUTENSE UNIV,university,ES,3 first filing office,1
+CONSEJO NACIONAL INVESTIGACIONES,gov / non-profit,MX,3 first filing office,1
+CONSEJO NACIONAL INVESTIGACIONES CIENTIFICAS YTECNICAS CONICET,gov / non-profit,AR,1 applicant country,1
+CONSIGLIO NAZIONALE DELLE RICERCHE CNR,gov / non-profit,IT,1 applicant country,1
+SHENZHEN SUNRISE TECH,company,CN,1 applicant country,1
+SHENZHEN TIANTONG INFORMATION TECH,company,CN,3 first filing office,1
+SHENZHEN VZOOM CREDIT TECH,company,CN,3 first filing office,1
+SHENZHEN XINGHAN LASER TECH,company,CN,3 first filing office,1
+SHENZHEN XTAIPI TECH,company,CN,3 first filing office,1
+SHENZHEN XZE SCIENCE TECH,company,CN,3 first filing office,1
+SHENZHEN YULIANG TECH,company,CN,3 first filing office,1
+SHENZHEN ZTE ZHIPING TECH,company,CN,3 first filing office,1
+SHENZHEN HARD NUCLEIC ACID BIOTECHNOLOGY,company,CN,3 first filing office,1
+SHENZHEN INST NORTHWESTERN POLYTECHNICAL UNIV,university,CN,3 first filing office,1
+SHENZHEN JINGLU COMPUTING SCIENCE APPLICATIONS INST,gov / non-profit,CN,3 first filing office,1
+SHENZHEN JINGWAN QUANTUM REMOTE SENSING TECH,company,CN,3 first filing office,1
+SHENZHEN JUCHUANG ZHIYUAN TECH,company,CN,3 first filing office,1
+SHENZHEN OUMUYANG TECH,company,CN,3 first filing office,1
+SHENZHEN PRAFLY TECH,company,CN,3 first filing office,1
+SHENZHEN QIANHAI WECHWAN BANK,company,CN,3 first filing office,1
+CITIBANK,company,US,1 applicant country,1
+CIVIL AVIATION UNIV CHINA,university,CN,3 first filing office,1
+CLARYO,company,US,1 applicant country,1
+CLEMSON UNIV,university,US,1 applicant country,1
+CLOUDNCO INC DBA NEXTUSER,company,US,1 applicant country,1
+CNPC CHINA NATIONAL PETROLEUM,company,CN,3 first filing office,1
+CNPC ENGINEERING MATERIALS R D,company,CN,3 first filing office,1
+COGNIFIBER,company,IL,1 applicant country,1
+CHONGQING YITONG UNIV,university,CN,3 first filing office,1
+CHONGQING YOUXIN TECH,company,CN,3 first filing office,1
+CHONGQING ZHIXIANG TECH,company,CN,3 first filing office,1
+CHONNAM NATIONAL UNIV,university,KR,1 applicant country,1
+CHUANGYAO SUZHOU COMMUNICATION TECH,company,CN,3 first filing office,1
+CHUNG ANG UNIV,university,KR,1 applicant country,1
+CHUNG YUAN CHRISTIAN UNIV,university,TW,1 applicant country,1
+CIQTEK HEFEI TECH,company,CN,3 first filing office,1
+SICHUAN SHENG XINYUAN ELECTRICAL EQUIPMENT MANUFACTURING,company,CN,3 first filing office,1
+SICHUAN SHUCHAN PARADIGM TECH,company,CN,3 first filing office,1
+SICHUAN YUNYIN ZHICHUANG TECH DEVELOPMENT,company,CN,3 first filing office,1
+SICK,company,AU,3 first filing office,1
+SIEMENS MOBILITY,company,DE,1 applicant country,1
+SILICONINTERVENTION,company,CA,1 applicant country,1
+SINGASIAN SLOPE NATIONAL UNIV,university,US,3 first filing office,1
+SINOPHARM SHANGHAI BIOMEDICAL,company,CN,3 first filing office,1
+CURATORS UNIV MISSOURI THROUGH ITS UNIV CONSTITUENT UNIV MISSOURI STLOUIS UMSL,university,US,1 applicant country,1
+CUSTOMER SERVICES CENTER STATE GRID POWER GRID,company,CN,3 first filing office,1
+CYBORN,company,GB,1 applicant country,1
+SHIRONG ENERGY TECH,company,CN,3 first filing office,1
+SICHUAN ELECTRIC VOCATIONAL TECHNICAL COLLEGE,university,CN,3 first filing office,1
+SICHUAN EXPRESSWAY CONSTRUCTION DEVELOPMENT GROUP,company,CN,3 first filing office,1
+SICHUAN JIUYUAN GUOJI TECH,company,CN,3 first filing office,1
+SICHUAN JIUZHOU ELECTRIC GROUP,company,CN,3 first filing office,1
+SREEQC,company,US,1 applicant country,1
+ST ENGINEERING IHQ,company,SG,1 applicant country,1
+STANDARD CHARTERED BANK,company,GB,1 applicant country,1
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COPMANY,company,US,1 applicant country,1
+STATE FARM MUTUAL AUTOMOTIVE INSURANCE,company,US,1 applicant country,1
+STATE GRID ANHUI ELECTRIC POWER CO LTD HEFEI POWER SUPPLY,company,CN,3 first filing office,1
+STATE GRID EASTERN INNER MONGOLIA ELECTRIC POWER DESIGN,company,CN,3 first filing office,1
+STATE GRID ELECTRIC POWER RESEARCH INST,company,CN,3 first filing office,1
+SOUTHWEST FORESTRY UNIV,university,CN,3 first filing office,1
+SOUTHWEST TRAFFIC UNIV,university,CN,3 first filing office,1
+SPAWAR SYSTEMS CENTER PACIFIC,company,US,1 applicant country,1
+SPICEWARE,company,KR,1 applicant country,1
+SPINDECO,company,FI,1 applicant country,1
+SPINDECO TECH,company,FI,1 applicant country,1
+SPINWAVE COMPUTING,company,SE,1 applicant country,1
+SPRINT COMMUNICATIONS,company,US,1 applicant country,1
+SKOLKOVO INST SCIENCE TECH,gov / non-profit,RU,1 applicant country,1
+SOCPRA SCIENCE GENIE SEC AS TRANSFERTECH SHERBROOKE,company,CA,1 applicant country,1
+SOFTBANK GROUP,company,JP,3 first filing office,1
+SOFTWAREQ,company,CA,1 applicant country,1
+SOPHYICS TECH,company,US,1 applicant country,1
+SOUTH CENTRAL UNIV NATIONALITIES,university,CN,3 first filing office,1
+SOUTH UNIV SCIENCE TECH CHINA,university,CN,2 script of the name,1
+SOUTHWEST CHINA RESEARCH INST ELECTRONIC EQUIPMENT,company,CN,3 first filing office,1
+COGNIVISION,company,JP,1 applicant country,1
+COGNIZANT TECH SOLUTIONS INDIA,company,IN,1 applicant country,1
+COINBASE IL RD,company,US,1 applicant country,1
+COLLEGE FRANCE,university,FR,1 applicant country,1
+COLORADO SEMINARY WHICH OWNS OPERATES UNIV DENVER,university,US,1 applicant country,1
+SIPHOX,company,US,1 applicant country,1
+SIWEI OPTOELECTRONICS TECH SHANGHAI,company,CN,3 first filing office,1
+SIXGILL,company,US,1 applicant country,1
+CHONGQING UNIV EDUCATION,university,CN,3 first filing office,1
+STATE GRID SICHUAN ELECTRIC POWER,company,CN,3 first filing office,1
+STATE GRID TIANJIN ELECTRIC POWER,company,CN,3 first filing office,1
+STATE GRID XINJIANG ELECTRIC POWER COMPANY ECONOMIC RESEARCH INST,company,CN,3 first filing office,1
+STATE GRID ZHEJIANG ELECTRIC POWER,company,CN,3 first filing office,1
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD JIAXING POWER SUPPLY,company,CN,3 first filing office,1
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD NINGBO POWER SUPPLY,company,CN,3 first filing office,1
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD PINGHU POWER SUPPLY,company,CN,3 first filing office,1
+CHINAUMS,company,CN,3 first filing office,1
+CHINESE ORIGINAL ENGINEERING COLLEGE,university,CN,3 first filing office,1
+CHINESE PEOPLE LIBERATION ARMY NATIONAL DEFENSE SCIENCE TECH UNIV,university,CN,3 first filing office,1
+CHINESE UNIV HONG KONG SHENZHEN,university,CN,3 first filing office,1
+CHIPDANCE TECH GUANGZHOU,company,CN,3 first filing office,1
+CHONBUK NATIONAL UNIV,university,KR,1 applicant country,1
+CHONGQING CANCER INST,gov / non-profit,CN,3 first filing office,1
+CHONGQING KUNLIANG TECH,company,CN,3 first filing office,1
+STATE GRID JIANGSU ELECTRIC POWER COMPANY RESEARCH INST,company,CN,3 first filing office,1
+STATE GRID SHANDONG ELECTRIC POWER,company,CN,3 first filing office,1
+CHINA SECURITIES PENGYUAN CREDIT ASSESSMENT,company,CN,3 first filing office,1
+CHINA SOUTHERN POWER GRID,company,CN,3 first filing office,1
+CHINA SPORTS LOTTERY TECH GROUP,company,CN,3 first filing office,1
+CHINA TELECOM SHUZHI TECH,company,CN,3 first filing office,1
+CHINA UNIV PETROLEUM BEIJING,university,CN,3 first filing office,1
+CHINA UNIV PETROLEUM EAST CHINA,university,CN,3 first filing office,1
+STATE GRID FUJIAN PROVINCE ELECTRIC POWER LIMITED COMPANY HANGXIAN COUNTY POWER SUPPLY,company,CN,3 first filing office,1
+STATE GRID GANSU ELECTRIC POWER,company,CN,3 first filing office,1
+STATE GRID GANSU ELECTRIC POWER COMPANY INFORMATION COMMUNICATION,company,CN,3 first filing office,1
+STATE GRID HEBEI ELECTRIC POWER SUPPLY CO LTD ELECTRIC POWER RESEARCH INST,company,CN,3 first filing office,1
+STATE GRID HUBEI ELECTRIC POWER CO LTD XIANGYANG POWER SUPPLY,company,CN,3 first filing office,1
+STATE GRID INFORMATION TELECOMMUNICATION GROUP,company,CN,3 first filing office,1
+STATE GRID JIANGSU ELECTRIC POWER CO LTD INFORMATION TELECOMMUNICATION BRANCH,company,CN,3 first filing office,1
+STATE GRID JIANGSU ELECTRIC POWER CO LTD NANJING POWER SUPPLY BRANCH,company,CN,3 first filing office,1
+CHINA ELECTRIC POWER RESEARCH INST,company,CN,3 first filing office,1
+CHINA ELECTRONIC TECH GROUP CORPORATION NO38 RESEARCH INST,company,CN,3 first filing office,1
+CHINA ELECTRONICS TECH GROUP CORPORATION NO 14 RESEARCH INST,company,CN,3 first filing office,1
+CHINA INST ATOMIC ENERGY,company,CN,3 first filing office,1
+CHINA JILIANG UNIV,university,CN,3 first filing office,1
+CHINA MOBILE CHENGDU INFORMATION COMMUNICATION TECH,company,CN,3 first filing office,1
+CHINA MOBILE COMMUNICATION CORPORATION TIANJIN,company,CN,3 first filing office,1
+CHINA MOBILE GROUP GUANGDONG,company,CN,3 first filing office,1
+CHENGDU NORMAL UNIV,university,CN,3 first filing office,1
+CHENGDU XINAN JIXUN TECH,company,CN,3 first filing office,1
+CHINA ACADEMY ART,university,CN,1 applicant country,1
+CHINA ACADEMY ELECTRONICS INFORMATION TECH CETC,university,CN,1 applicant country,1
+CHINA ACADEMY LAUNCH VEHICLE TECH,company,CN,3 first filing office,1
+CHINA ACADEMY SPACE TECH,company,CN,3 first filing office,1
+CHINA DATANG CORPORATION SCIENCE TECH RESEARCH INST,company,CN,3 first filing office,1
+CHINA DATANG GROUP SCIENCE TECH RESEARCH INST CO LTD EAST CHINA ELECTRIC POWER TEST INST,company,CN,3 first filing office,1
+SURROUND IO,company,US,3 first filing office,1
+SUZHOU HANCHEN DIGITAL TECH,company,CN,3 first filing office,1
+SUZHOU INST ADVANCED STUDY USTC,gov / non-profit,CN,3 first filing office,1
+SUZHOU JINJIANG ELECTRONIC TECH,company,CN,3 first filing office,1
+SUZHOU PERFECT ANALYSIS TECH SERVICE,company,CN,3 first filing office,1
+CHENGDU INFORMATION ENGINEERING UNIV,university,CN,3 first filing office,1
+CHENGDU JIAHUA WULIAN CLOUD TECH,company,CN,3 first filing office,1
+CHENGDU LIANGAN BLOCK CHAIN TECH,company,CN,3 first filing office,1
+STATE POWER INVESTMENT GROUP SCIENCE TECH RESEARCH INST,company,CN,3 first filing office,1
+STELLENBOSCH UNIV,university,ZA,1 applicant country,1
+STEVENS INST TECH,university,US,1 applicant country,1
+STMICROELECTRONICS,company,IT,1 applicant country,1
+SUN PHARMACEUTICAL INDUSTRIES,company,IN,1 applicant country,1
+SUNWAVE SOLUTIONS,company,CN,3 first filing office,1
+SUPREME QI,company,SG,1 applicant country,1
+SUQIAN HAIQIN ENERGY SAVING TECH,company,CN,3 first filing office,1
+TERADYNE,company,US,1 applicant country,1
+TERNELL,company,KR,1 applicant country,1
+THALES DIS CPL USA,company,US,1 applicant country,1
+THINKCYTE,company,JP,1 applicant country,1
+THIRD RESEARCH INST MINISTRY PUBLIC SECURITY,gov / non-profit,CN,1 applicant country,1
+TIANGONG LIANGXIN SUZHOU TECH DEVELOPMENT,company,CN,3 first filing office,1
+TIANGONG QUANTUM INFORMATION SUZHOU TECH DEVELOPMENT,company,CN,1 applicant country,1
+TIANJIN POLYTECHNIC UNIV,university,CN,3 first filing office,1
+TECHNISCHE UNIV CAROLO WILHELMINA ZU BRAUNSCHWEIG,university,DE,1 applicant country,1
+TECHNISCHE UNIV MUENCHEN,university,DE,1 applicant country,1
+TEKNOLOGIAN TUTKIMUSKEKUS VTT,company,FI,1 applicant country,1
+TELEFONICA IOT BIG DATA TECH,company,ES,1 applicant country,1
+TEMPLE UNIV,university,US,1 applicant country,1
+TEMPORAL DEFENSE SYSTEMS,company,KR,3 first filing office,1
+TENRAI,company,JP,1 applicant country,1
+TENSOR AL SOLUTIONS,company,DE,1 applicant country,1
+TAARA CONNECT,company,US,1 applicant country,1
+TAIPINGWAN POWER STATION STATE GRID NORTHEAST BRANCH DEPARTMENT LYUYUAN HYDROELECTRIC,company,CN,3 first filing office,1
+TAIYUAN NORMAL UNIV,university,CN,3 first filing office,1
+TEA RESEARCH INST CHINESE ACADEMY AGRICULTURAL SCIENCE,university,CN,3 first filing office,1
+TECH INFINITYQ,company,CA,1 applicant country,1
+TECH SKILL TRAINING CENTER SICHUAN ELECTRIC POWER,company,CN,3 first filing office,1
+TECHNISCHE UNIV BERLIN,university,DE,1 applicant country,1
+TECHNISCHE UNIV BRAUNSCHWEIG KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+CHINA PACIFIC PROPERTY INSURANCE,company,CN,3 first filing office,1
+CHINA RESOURCES MICRO INTEGRATED CIRCUIT WUXI,company,CN,3 first filing office,1
+SUZUKI MOTOR,company,JP,3 first filing office,1
+SWEDEN QUANTUM,company,SE,1 applicant country,1
+SYNC COMPUTING,company,US,1 applicant country,1
+SYSTEM KEIKAKU KENKYUSHO,company,JP,3 first filing office,1
+SYTE,company,DE,1 applicant country,1
+T MOBILE USA,company,US,1 applicant country,1
+CHANGHONG MELING,company,CN,3 first filing office,1
+CHANGSHA DONGFANGXIN TECH,company,CN,3 first filing office,1
+CHANGSHA UNIV SCIENCE TECH,university,CN,3 first filing office,1
+CHENGDU DIANKE ZHIXUN TECH DEVELOPMENT,company,CN,3 first filing office,1
+TOKYO ARTISAN INTELLIGENCE,company,CN,2 script of the name,1
+TONGHUA POWER SUPPLY COMPANY STATE GRID JILINSHENG ELECTRIC POWER SUPPLY,company,CN,3 first filing office,1
+TONGMI INFORMATION TECH ZHANGJIAGANG,company,CN,3 first filing office,1
+TOWERS WATSON SOFTWARE,company,GB,1 applicant country,1
+CETC DIGITAL TECH GROUP,company,CN,3 first filing office,1
+CETC SIYI TECH,company,CN,3 first filing office,1
+CHALMERS VENTURES,company,SE,1 applicant country,1
+CHANGCHUN JETTY AUTOMOTIVE PARTS,company,CN,1 applicant country,1
+CHANGCHUN JETTY AUTOMOTIVE TECH,company,CN,1 applicant country,1
+CHANGCHUN JILIN UNIV ZHENGYUAN INFORMATION TECH,company,CN,3 first filing office,1
+CHANGCHUN SHENGDE TECH,company,CN,3 first filing office,1
+CHANGCHUN UNIV,university,CN,3 first filing office,1
+CBN NANO TECH,company,CA,3 first filing office,1
+CELESTIAL AI,company,US,1 applicant country,1
+CENTAURI,company,US,1 applicant country,1
+CENTER NATIONAL LA RECHE,gov / non-profit,FR,1 applicant country,1
+CENTRUM FIZYKI TEORETYCZNEJ PAN,gov / non-profit,PL,1 applicant country,1
+CENTRUM FIZYKI TEORETYCZNEJ POLSKIEJ AKADEMII NAUK,gov / non-profit,PL,1 applicant country,1
+CERTICOM,company,CA,1 applicant country,1
+CETC DIGITAL INTELLIGENCE TECH,company,CN,3 first filing office,1
+TIANYI ELECTRONIC COMMERCE,company,CN,3 first filing office,1
+TIANYU HONGTU APPLIED TECH RESEARCH INST CHONGQING,company,CN,3 first filing office,1
+TIBET UNIV,university,CN,3 first filing office,1
+TNO,gov / non-profit,US,3 first filing office,1
+CARNEGIE INSTITUTION WASHINGTON,gov / non-profit,US,1 applicant country,1
+CARNEGIE MELLON UNIV,university,US,1 applicant country,1
+CASEPOINT,company,US,1 applicant country,1
+CASPR BIOTECH,company,US,1 applicant country,1
+CALECTIVE,company,US,1 applicant country,1
+CALMALION,company,JP,3 first filing office,1
+CALMARION,company,JP,1 applicant country,1
+CAMBRIDGE PHONON SYSTEMS,company,US,1 applicant country,1
+CANAKKALE ONSEKIZ MART UNIVERSITESI REKTORLUGU,university,TR,1 applicant country,1
+CANON MEDICAL SYSTEMS,company,US,3 first filing office,1
+UIPATH,company,US,1 applicant country,1
+ULTRAHAPTICS,company,GB,3 first filing office,1
+BUNDESREPUBLIK DEUTSCHLAND PHYSIKALISCH TECHNISCHE BUNDESANSTALT,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTR DURCH DAS BUNDESMINISTERIUM F WIRTSCHAFT TECHNOLOGIE,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTRETEN DURCH DAS BUNDESMINISTERIUM FUR WIRTSCH,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTRETEN DURCH DAS BUNDESMINISTERIUM FUR WIRTSCHAFT ENERGIE,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTRETEN DURCH DAS BUNDESMINISTERIUM FUR WIRTSCHAFT ENERGIE DIESES VERTRETEN DURCH DEN PRASIDENTEN DER PHYSIKALISCH TECHNISCHEN BUNDESANSTALT,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTRETEN DURCH DAS BUNDESMINISTERIUM INNERN VERTRETEN DURCH DAS BUNDESAMT FUER SICHERHEIT IN DER INFORMATIONSTECHNIK,gov / non-profit,DE,1 applicant country,1
+BUNDESREPUBLIK DEUTSCHLAND VERTRETEN DURCH DAS BUNDESMINISTERIUM INNERN VERTRETEN DURCH DAS BUNDESAMT FUR SICHERHEIT,gov / non-profit,DE,1 applicant country,1
+C COM SATELLITE SYSTEMS,company,CA,1 applicant country,1
+TRUSTEES INDIANA UNIV,university,US,1 applicant country,1
+TRUSTEES STEVENS INST TECH,university,US,1 applicant country,1
+TUATARA QRNG,company,US,1 applicant country,1
+TURCK DUOTEC,company,DE,1 applicant country,1
+BOYTAS MOBILYA SANAYI VE TICARET ANONIM SIRKETI,company,TR,1 applicant country,1
+BROOKLYN QUANTUM WORKS,company,US,1 applicant country,1
+BROWN UNIV,university,US,1 applicant country,1
+BTQ,company,LI,1 applicant country,1
+TOYOTA MOTOR ENGINEERING MANUFACTURING NORTH AMERICA,company,US,1 applicant country,1
+TOYOTA RESEARCH INST,company,US,1 applicant country,1
+TOYOTA TSUSHO,company,JP,1 applicant country,1
+TRANSOFT SHANGHAI,company,CN,3 first filing office,1
+TRIARII RESEARCH,company,IL,1 applicant country,1
+TRIMBLE,company,US,1 applicant country,1
+TRINA POWER CLOUD ENERGY INTERNET TECH,company,CN,3 first filing office,1
+TRUEBLUE,company,US,1 applicant country,1
+BLUE YONDER GROUP,company,US,1 applicant country,1
+BLUEFORS,company,FI,1 applicant country,1
+BLUEWING MOTORS,company,KR,1 applicant country,1
+BMW BAYERISCHE MOTOREN WERKE,company,DE,1 applicant country,1
+BOARD REGENTS NEVADA SYSTEM HIGHER EDUCATION ON BEHALF UNIV NEVADA,university,US,1 applicant country,1
+BOARD REGENTS NEVADA SYSTEM HIGHER EDUCATION ON BEHALF UNIV NEVADA LAS VEGAS,university,US,1 applicant country,1
+BOOZ ALLEN HAMILTON,company,US,1 applicant country,1
+UNIV COPENHAGEN,university,DK,1 applicant country,1
+BEIJING ZHONGKE LIANGSONG SCIENCE TECH,company,CN,3 first filing office,1
+BEIJING ZHONGKE WENGE TECH,company,CN,3 first filing office,1
+BEIJING ZHONGKEE LIGHT QUANTUM TECH,company,CN,3 first filing office,1
+BEJKER KHYUZ E DZHII KOMPANI LLK,company,US,1 applicant country,1
+BIOVENTURES,company,JP,2 script of the name,1
+BLACK BRANE SYSTEMS,company,CA,1 applicant country,1
+BLACKBERRY,company,CA,1 applicant country,1
+BLEXIMO,company,US,1 applicant country,1
+UNIV BORDEAUX,university,FR,1 applicant country,1
+UNIV BRISTOL,university,GB,1 applicant country,1
+UNIV CENTRAL FLORIA RESEARCH FOUNDATION,university,US,1 applicant country,1
+BEIJING XIAOMI SONGGUO ELECTRONICS,company,CN,3 first filing office,1
+BEIJING XINKEJIAN TECH,company,CN,3 first filing office,1
+BEIJING YIHENGXIN CERTIFICATION TECH,company,CN,3 first filing office,1
+BEIJING YINSHAN TECH,company,CN,3 first filing office,1
+BEIJING ZHONGKE GUOGUANG QUANTUM TECH,company,CN,3 first filing office,1
+ULTRAHAPTICS IP,company,JP,2 script of the name,1
+UNESP UNIV ESTADUAL PAULISTA,university,BR,1 applicant country,1
+UNIST ULSAN NATIONAL INST SCIENCE TECH,university,KR,1 applicant country,1
+UNITED STATES AMERICA AS REPRESENTED BY SECRETARY ARMY ARMY RESEARCH LAB,company,US,1 applicant country,1
+UNIV ALABAMA,university,US,1 applicant country,1
+UNIV AVEIRO,university,PT,1 applicant country,1
+UNIV BARCELONA,university,ES,1 applicant country,1
+UNIV BLUE COAST,university,,none,1
+UNIV MACAU,university,CN,1 applicant country,1
+UNIV MEMPHIS RESEARCH FOUNDATION,university,US,1 applicant country,1
+UNIV MISSOURI,university,US,1 applicant country,1
+UNIV MUNSTER,university,DE,1 applicant country,1
+UNIV NORTH TEXAS,university,US,1 applicant country,1
+UNIV OTTAWA,university,CA,1 applicant country,1
+UNIV OXFORD INNOVATION,university,GB,3 first filing office,1
+UNIV PADERBORN,university,DE,1 applicant country,1
+UNIV KANSAS,university,US,1 applicant country,1
+UNIV KASSEL,university,DE,1 applicant country,1
+UNIV KASSEL KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+UNIV KENTUCKY,university,US,1 applicant country,1
+UNIV LEIPZIG KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+UNIV LIMERICK,university,IE,1 applicant country,1
+UNIV LORRAINE,university,FR,3 first filing office,1
+UNIV LOS ANDES,university,CO,1 applicant country,1
+UNIV DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA UPV EHU,university,ES,1 applicant country,1
+UNIV DELAWARE,university,US,1 applicant country,1
+UNIV EDINBURGH,university,GB,3 first filing office,1
+UNIV FRIEDRICH ALEXANDER ER,university,DE,1 applicant country,1
+UNIV GENEVE,university,,none,1
+UNIV GUANAJUATO,university,MX,1 applicant country,1
+UNIV HAMBURG KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+UNIV IOWA,university,US,1 applicant country,1
+UNIV COTE DAZUR,university,FR,1 applicant country,1
+UNIV COTE DAZUR UCA,university,FR,1 applicant country,1
+UNIV DEGLI STUDI BOLOGNA,university,IT,1 applicant country,1
+UNIV DEGLI STUDI MILANO,university,IT,1 applicant country,1
+UNIV DEGLI STUDI PAVIA,university,IT,1 applicant country,1
+UNIV DEGLI STUDI TRIESTE,university,IT,1 applicant country,1
+UNIV DEL PAIS VASCO,university,ES,1 applicant country,1
+UNIV DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,university,ES,1 applicant country,1
+UNIV PISA,university,IT,1 applicant country,1
+UNIV POLITECNICA VALENCIA UPV,university,ES,1 applicant country,1
+UNIV PUBLIC CORP OSAKA,university,JP,3 first filing office,1
+UNIV SALFORD,university,GB,1 applicant country,1
+UNIV SCIENCE TECH BEIJING,university,CN,3 first filing office,1
+UNIV SEOUL IND COOP FOUND,university,KR,3 first filing office,1
+UNIV SEVILLA,university,ES,1 applicant country,1
+UNIV SHEFFIELD,university,GB,3 first filing office,1
+BEIJING RESEARCH INST SPATIAL MECHANICAL ELECTRICAL TECH,gov / non-profit,CN,3 first filing office,1
+BEIJING SIFANG AUTOMATION,company,CN,3 first filing office,1
+BEIJING SMARTCHIP MICROELECTRONICS TECH,company,CN,3 first filing office,1
+BEIJING SPECIAL ELECTROMECHANICAL TECH RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+BEIJING TECH BUSINESS UNIV,university,CN,3 first filing office,1
+BEIJING UNIS STORAGE TECH,company,CN,3 first filing office,1
+UNIV PADERBORN KOR,university,DE,1 applicant country,1
+UNIV PADERBORN KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+BEIJING NORMAL UNIV HONG KONG BAPTIST UNIV UNITED INTERNATIONAL COLLEGE,university,CN,3 first filing office,1
+BEIJING NORTHERN FIBERHOME TECH,company,CN,3 first filing office,1
+BEIJING PAIHAI ENVIRONMENTAL PROTECTION TECH,company,CN,3 first filing office,1
+BEIJING QBOSON QUANTUM TECH,company,CN,1 applicant country,1
+BEIJING QBOSON QUANTUM TECHNOLOG,company,CN,1 applicant country,1
+BEIJING QIXIAO TECH,company,CN,3 first filing office,1
+BEIJING QIYUAN WENTIAN QUANTUM TECH,company,CN,3 first filing office,1
+BEIJING QU CREATIVE TECH,company,CN,3 first filing office,1
+BEIJING INTERNET TECH LIMITED COMPANY WITH BAMBOO LIVING,company,CN,3 first filing office,1
+BEIJING JINGDONG CENTURY TRADING,company,CN,3 first filing office,1
+BEIJING JINGHANG COMPUTING COMMUNICATION RESEARCHINSTITUTE,gov / non-profit,CN,3 first filing office,1
+BEIJING LIANHEZHIHUA MICROELECTRONICS TECH,company,CN,3 first filing office,1
+BEIJING MEDINTELL BIOMED INFORMATION TECH,company,CN,3 first filing office,1
+BEIJING MIAOJIA HEALTH SCIENCE TECH GROUP,company,CN,3 first filing office,1
+BEIJING MICRO CORE PERCEPTION SCIENCE TECH,company,CN,3 first filing office,1
+BEIJING MTR CONSTRUCTION CONSULTATION,company,CN,3 first filing office,1
+BEIJING INFORMATION SCIENCE TECH RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+BEIJING INFORMATION SCIENCE TECH UNIV,university,CN,3 first filing office,1
+BEIJING INST AEROSPACE CONTROL DEVICES,gov / non-profit,CN,3 first filing office,1
+UNIV TARTU,university,EE,1 applicant country,1
+UNIV TECHNIQUE DRESDE,university,DE,1 applicant country,1
+UNIV TENNESSEE,university,US,1 applicant country,1
+UNIV TSUKUBA,university,JP,1 applicant country,1
+UNIV UTAH,university,US,1 applicant country,1
+BEIJING COMPUTER TECH APPLICATION RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+BEIJING DREAM INK TECH,company,CN,3 first filing office,1
+BEIJING ELECTRIC POWER,company,CN,3 first filing office,1
+BEIJING ELECTRONIC SCIENCE TECH INST,university,CN,3 first filing office,1
+BEIJING GEER GUOXIN TECH,company,CN,3 first filing office,1
+BEIJING GENSKEY TECH,company,CN,3 first filing office,1
+BEIJING GUANBANG KAIYUAN INTELLIGENT SYSTEM ENGINEERING TECH,company,CN,3 first filing office,1
+BEIJING GUOTENG INNOVATION TECH,company,CN,3 first filing office,1
+BEIJING ACADEMY INFORMATION SCIENCE TECH,gov / non-profit,CN,1 applicant country,1
+BEIJING AEROSPACE CONTROL CENTER,gov / non-profit,CN,3 first filing office,1
+BEIJING AEROSPACE SATELLITEHERD TECH,company,CN,3 first filing office,1
+BEIJING AEROSPACE ZHIZAO TECH DEVELOPMENT,company,CN,3 first filing office,1
+BEIJING BINGFU TECH,company,CN,3 first filing office,1
+BEIJING BOE SENSING TECH,company,CN,3 first filing office,1
+BEIJING BOE TECH DEVELOPMENT,company,CN,3 first filing office,1
+BEIJING CHAOXIAN MEMORY RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+UNIV SHIGA PREFECTURE,university,JP,3 first filing office,1
+UNIV SOUTHAMPTON,university,GB,1 applicant country,1
+UNIV STRATHCLYDE,university,GB,1 applicant country,1
+UNIV SUSSEX,university,GB,3 first filing office,1
+BC,company,CA,1 applicant country,1
+BCM SOCIAL,company,CN,3 first filing office,1
+BE YS TRUSTED SOLUTIONS FRANCE,company,FR,1 applicant country,1
+BEDOTEC,company,US,3 first filing office,1
+BAKER HUGHES A GE,company,US,1 applicant country,1
+BAKER HUGHES HOLDINGS,company,US,1 applicant country,1
+BANCO BILBAO VIZCAYA ARGENTARIA,company,ES,1 applicant country,1
+USA AS REPRESENTED BY SEC ARMY,company,US,1 applicant country,1
+USENCRYPTION,company,US,1 applicant country,1
+UTI LIMITED PARTNERSHIP,company,CA,1 applicant country,1
+VCANBIO CELL GENE ENGINEERING,company,CN,3 first filing office,1
+VECTOR ATOMIC,company,US,1 applicant country,1
+AURORA OPERATIONS,company,US,1 applicant country,1
+AUTHOMIZE,company,IL,1 applicant country,1
+AUTONOMOUS NON PROFIT ORGANIZATION HIGHER EDUCATION SKOLKOVO INST SCIENCE TECH,gov / non-profit,RU,1 applicant country,1
+AVAYA MANAGEMENT,company,US,1 applicant country,1
+AVIC JONHON OPTRONIC TECH,company,CN,3 first filing office,1
+AVTONOMNAYA NEKOMMERCHESKAYA OBRAZOVATELNAYA ORGANIZATSIYA VYSSHEGO OBRAZOVANIYA SKOLKOVSKIJ INST NAUKI I TEKHNOLOGIJ,gov / non-profit,RU,1 applicant country,1
+BADEN WUERTTEMBERG STIFTUNG,gov / non-profit,DE,1 applicant country,1
+BAKER HUGHES,company,US,1 applicant country,1
+US ARMY COMBAT CAPABILITIES DEVELOPMENT COMMAND ARMY RESEARCH LABORTARY,gov / non-profit,US,1 applicant country,1
+US ARMY DEVCOM ARMY RESEARCH LAB,gov / non-profit,US,1 applicant country,1
+ATLANTIC QUANTUM,company,US,1 applicant country,1
+ATM,company,DE,1 applicant country,1
+ATM QNESS,company,DE,1 applicant country,1
+ATOMBEAM TECH,company,US,1 applicant country,1
+ATOMERA,company,US,1 applicant country,1
+AUDI,company,DE,1 applicant country,1
+UNIV WITWATERSRAND,university,ZA,1 applicant country,1
+UNIVERSIDADE ESTADUAL PAULISTA JULIO MESQUITA FILHO,university,BR,1 applicant country,1
+UNIVERSITE DE MONTREAL,university,CA,1 applicant country,1
+UNIVERSITEIT VAN AMSTERDAM,university,NL,1 applicant country,1
+UNIVERSITU T STUTTGART,university,,none,1
+UNIVERSITU T WIEN,university,,none,1
+UPSCALE QUANTUM SOLUTIONS,company,CA,1 applicant country,1
+US ARMY COMBAT CAPABILITIES DEVELOPMENT COMMAND ARMY RESEARCH LAB,gov / non-profit,US,1 applicant country,1
+WOORINET,company,KR,1 applicant country,1
+WSGRI ENGINEERING SURVEYING INCORPORATION,company,CN,1 applicant country,1
+WUHAN DONGHU BIG DATA TRADING CENTER,company,CN,3 first filing office,1
+WUHAN FEISILINK MICROELECTRONICS TECH,company,CN,3 first filing office,1
+WUHAN HOMSH TECH,company,CN,3 first filing office,1
+WUHAN UNIV TECH,university,CN,3 first filing office,1
+WUHAN YONGRUI KANGHUA MEDICAL LAB,company,CN,3 first filing office,1
+WUXI HUIYAN ARTIFICIAL INTELLIGENCE TECH,company,CN,3 first filing office,1
+WESTERN DIGITAL TECH,company,US,1 applicant country,1
+WESTERN SUPERCONDUCTING MATERIAL SCIENCE TECH,company,CN,3 first filing office,1
+WESTFALISCHE WILHELMS UNIV MUNSTER KORPERSCHAFT OFFENTLICHEN RECHTS,university,DE,1 applicant country,1
+WILLIS GROUP,company,GB,1 applicant country,1
+WIND POWER TECH CENTER STATE GRID GANSU ELECTRIC POWER,company,CN,3 first filing office,1
+WINKK,company,US,1 applicant country,1
+WIPRO,company,IN,1 applicant country,1
+WIT,company,KR,1 applicant country,1
+VOLKSWAGEN GROUP AMERICA,company,US,1 applicant country,1
+VOLTIGEUR NETWORKS,company,CA,1 applicant country,1
+VOLVO CAR,company,SE,1 applicant country,1
+WAVE CLOUD INFORMATION TECH SHARE,company,CN,3 first filing office,1
+WAVE PHOTONICS,company,GB,1 applicant country,1
+WAYMO,company,US,1 applicant country,1
+WEIGUAN JIYUAN HEFEI QUANTUM TECH,company,CN,3 first filing office,1
+WENSHANG PEOPLES HOSPITAL,gov / non-profit,CN,3 first filing office,1
+VECTOR INST,gov / non-profit,CA,1 applicant country,1
+VENCORE LAB,company,US,1 applicant country,1
+VERSITECH,company,CN,1 applicant country,1
+VIEW FIELD QUANTUM COMPUTING LIMITED RESPONSIBILITY,company,JP,3 first filing office,1
+VISA INTERNATIONAL SERVICE ASSOCIATION,company,US,1 applicant country,1
+VISION QUANTUM COMPUTING,company,,none,1
+VOICE IT TECH,company,US,1 applicant country,1
+VOICELT TECH,company,US,1 applicant country,1
+XIAMEN UNIV TECH,university,CN,3 first filing office,1
+XIAN CHAOYUE SHENTAI INFORMATION TECH,company,CN,3 first filing office,1
+XIAN CHENBEN ELECTRONIC TECH,company,CN,3 first filing office,1
+XIAN INST SPACE RADIO TECH,company,CN,3 first filing office,1
+XIAN JUNENG SUPERCONDUCTING WIRE TECH,company,CN,3 first filing office,1
+XIAN MEDICAL TECH,company,CN,3 first filing office,1
+XIAN SHIYOU UNIV,university,CN,3 first filing office,1
+XIAN UNIV ARCHITECTURE TECH,university,CN,3 first filing office,1
+ARGONNE NATIONAL LAB,gov / non-profit,US,1 applicant country,1
+ARIA NETWORKS,company,GB,1 applicant country,1
+ARIZONA BOARD REGENTS ON BEHALF NORTHERN ARIZONA UNIV,university,US,1 applicant country,1
+ARKEON TECH,company,SE,1 applicant country,1
+ARMY ARMORED MILITARY ACADEMY PLA,gov / non-profit,CN,3 first filing office,1
+ARSC UNDERGROUND SPACE TECH DEVELOPMENT,company,CN,3 first filing office,1
+XI AN MICROELECTRONICS TECH INST,gov / non-profit,CN,3 first filing office,1
+XIAMEN INST TECH,university,CN,3 first filing office,1
+ANHUI YIXIN MICROELECTRONICS TECH,company,CN,3 first filing office,1
+ANLIAN TECH SHENZHEN,company,CN,3 first filing office,1
+ANONOS IP,company,US,1 applicant country,1
+ANSYS,company,US,1 applicant country,1
+ANSYS LUMERICAL IP,company,US,1 applicant country,1
+ANTOS,company,CN,3 first filing office,1
+ANYON TECH,company,SG,1 applicant country,1
+ARCHER MATERIALS,company,AU,1 applicant country,1
+WUXI JIANGNAN INST COMPUTING TECH,gov / non-profit,CN,3 first filing office,1
+WUXI SINOKING COMM XINTONG TECH,company,CN,3 first filing office,1
+XAIROS SYSTEMS,company,US,1 applicant country,1
+XEVO,company,US,1 applicant country,1
+ANHUI MEDICAL UNIV,university,CN,3 first filing office,1
+ANHUI SCIENCE TECH UNIV,university,CN,1 applicant country,1
+ANHUI SHILIAN ELECTRIC,company,CN,3 first filing office,1
+ANHUI XIXIAN TECH,company,CN,3 first filing office,1
+ZHONGQI CHUANGZHI TECH,company,CN,3 first filing office,1
+7TH O 5 RESEARCH INST CHINESE SHIP HEAVY INDUSTRY GROUP,company,CN,3 first filing office,1
+54TH RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+39TH RESEARCH INST CHINA ELECTRONICS TECH GROUP,company,CN,3 first filing office,1
+ZIBO VOCATIONAL INST,university,CN,3 first filing office,1
+1AHEAD TECH,company,US,1 applicant country,1
+ZWIPE,company,NO,1 applicant country,1
+AEROSPACE INFORMATION RESEARCH INST CHINESE ACADEMY SCIENCE,university,CN,3 first filing office,1
+YUNNAN NORMAL UNIV,university,CN,3 first filing office,1
+YUNNAN NORTH OPTICAL TECH,company,CN,3 first filing office,1
+YUNNAN SHENGYUE INFORMATION TECH,company,CN,3 first filing office,1
+ZAIMEN ZHEJIANG JINHUA PRODUCT DESIGN,company,CN,3 first filing office,1
+ZENITH CHEMICAL,company,CA,3 first filing office,1
+ZHONGKE WENTIAN QUANTUM TECH TIANJIN,company,CN,3 first filing office,1
+ZHONGKE ZHIHUI SUZHOU TECH,company,CN,3 first filing office,1
+9412 4237 QUEBEC INC S N NORD QUANTIQUE,company,CA,1 applicant country,1
+YIZI TECH PRIVATE INVESTMENT,company,CN,3 first filing office,1
+YOAN SCIENTIFIC RESEARCH,company,,none,1
+YONGQI BEIJING TECH,company,CN,3 first filing office,1
+YONGYAO INDUSTRIAL SHENZHEN,company,CN,3 first filing office,1
+YONSEI UNIV,university,KR,1 applicant country,1
+YONSEI UNIV UNIV INDUSTRY FOUNDATION UIF,university,KR,1 applicant country,1
+YOUNG JAVA HOLDINGS,company,US,1 applicant country,1
+YUNHENRY INTERNALTIONAL,company,TW,1 applicant country,1
+YANGTZE RIVER DELTA INFORMATION INTELLIGENT INNOVATION RESEARCH INST,gov / non-profit,CN,3 first filing office,1
+YANGTZE RIVER DELTA RESEARCH INST QUZHOU ELECTRONIC SCIENCE TECH UNIV,university,CN,3 first filing office,1
+YANGTZE RIVER DELTA RESEARCH INST UESTC HUZHOU,university,CN,3 first filing office,1
+YANTAI GUOGONG INTELLIGENT TECH,company,CN,3 first filing office,1
+YAODU BENXI YIZHI TECH,company,CN,3 first filing office,1
+YICHANG POWER SUPPLY COMPANY STATE GRID HUBEI ELECTRIC POWER,company,CN,3 first filing office,1
+YILIONTONG SCIENCE TECH,company,CN,3 first filing office,1
+YINGTAN POWER SUPPLY BRANCH STATE GRID JIANGXIELECTRIC POWER,company,CN,3 first filing office,1
+ZHEJIANG WANLI UNIV,university,CN,3 first filing office,1
+ZHEJIANG XINGHAN INFORMATION TECH,company,CN,3 first filing office,1
+ZHENGLIAN TECH SHENZHEN,company,CN,3 first filing office,1
+ZHIHUIGU XIAMEN IOT TECH,company,CN,3 first filing office,1
+ZHONGGUANCUN SCIENCE CITY URBAN BRAIN,company,CN,3 first filing office,1
+ZHONGKE KUYUAN QUANTUM TECH WUHAN,company,CN,3 first filing office,1
+ZHONGKE WANGAN SUZHOU QUANTUM TECH,company,CN,3 first filing office,1
+KIOXIA,company,JP,3 first filing office,1
+ZHEJIANG JIAOMEIJING TECH,company,CN,3 first filing office,1
+ZHEJIANG JIUZHOU QUANTUM INFORMATION TECH,company,CN,3 first filing office,1
+ZHEJIANG OPEN UNIV,university,CN,3 first filing office,1
+ZHEJIANG PROVINCE ELECTRIC POWER LIMITED COMPANY STATE GRID,company,CN,3 first filing office,1
+ZHEJIANG SHENZHOU LIANGZI NETWORK SCIENCE TECH,company,CN,3 first filing office,1
+ZHEJIANG SHENZHOULIANGZI NETWORK TECH,company,CN,3 first filing office,1
+ZHEJIANG UNIV HANGZHOU INTERNATIONAL KOCH CENTER,university,CN,3 first filing office,1
+ZHEJIANG UNIV WATER RESOURCES ELECTRIC POWER,university,CN,3 first filing office,1
+AIR FORCE EARLY WARNING COLLEGE CHINESE PEOPLE LIBERATION,university,CN,3 first filing office,1
+AISHIN,company,US,3 first filing office,1
+AISIN,company,JP,1 applicant country,1
+AKTSIONERNOE OBSHCHESTVO NAUCHNO ISSLEDOVATELSKIJ I PROEKTNO KONSTRUKTORSKIJ INST INFORMATIZATSII AVTOMATIZATSII I SVYAZI NA ZHELEZNODOROZHNOM TRANSPORTE,company,RU,1 applicant country,1
+ZENSAR TECH,company,IN,1 applicant country,1
+ZHANGJIAGANG INST INDUSTRIAL TECHNOLOGIESSOOCHOW UNIV,university,CN,3 first filing office,1
+ZHEJIANG HUAYUN INFORMATION TECH,company,CN,3 first filing office,1
+ZHEJIANG INDUSTRIAL COMMERCIAL UNIV,university,CN,3 first filing office,1
+AETHER BIOMACHINES,company,US,1 applicant country,1
+AFINITI,company,BM,1 applicant country,1
+AFINITI EUROPE TECH,company,GB,1 applicant country,1
+AGNOSTIQ,company,CA,1 applicant country,1
+AGRICULTURAL BANK CHINA,company,CN,3 first filing office,1
+AHNLAB CLOUDMATE,company,KR,1 applicant country,1
+AI,company,CA,1 applicant country,1
+AI SHIN,company,US,3 first filing office,1
