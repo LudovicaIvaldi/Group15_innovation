@@ -1,101 +1,101 @@
-docdb_family_id,query_label,appln_title,prediction,confidence_score,reason,is_quantum_computing
-51847007,0,PROCESS FOR IN SITU UPGRADING OF A HEAVY HYDROCARBON USING ASPHALTENE PRECIPITANT ADDITIVES,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-55589007,0,Providing virtual storage processor (VSP) mobility with induced file system format migration,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-9947007,0,Solvent composition and use thereof,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-85038492,1,Performing dynamic programmatic entanglement in quantum processing devices,1,0.97,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-93938571,1,"LEARNING DEVICE, LEARNING METHOD, AND PROGRAM",1,0.97,Integral element of the quantum computing physical or software stack.,yes
-91382688,1,Lattice surgery techniques using twists,1,0.97,Fault-tolerant quantum computing architecture; critical QEC layer for scalable quantum processors.,yes
-73597834,1,HOLOGRAPHIC QUANTUM DYNAMICS SIMULATION,1,0.95,"Software/firmware stack advancement for quantum compilation, Hamiltonian simulation, or quantum execution.",yes
-72111007,0,Probe and connector suitable for large-current high-speed signal testing,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-81648141,1,"Procédé de détermination d’un point de fonctionnement isolé associé à un régime isolé, procédé de détermination d’un jeu de paramètres optimal d’un moyen de mesure et système associé",1,0.75,Specialized electrical characterization method for isolated regime operating points; potentially useful for microwave instrumentation in quantum physics labs.,yes
-81679169,1,"Quantum circuit operation method and device, electronic equipment and medium",1,0.97,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-87314348,1,Classical Algorithm for Generating Multi-Mode Bosonic Transition Spectra by Phase Space Sampling,0,0.18,Analytical classical algorithm for quantum physics simulation executing on standard computer clusters.,no
-85387037,1,Fault-tolerant quantum error correction with a surface GKP code,1,0.98,Fault-tolerant quantum computing architecture; critical QEC layer for scalable quantum processors.,yes
-25626007,0,On-line embossing system for plastic profile extrusion,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-68409683,1,Method and device for improving production efficiency of gate device with low line width,0,0.02,Classical semiconductor process engineering for narrow-gate FET devices. Zero relevance to quantum computing or qubit systems.,no
-46827007,0,"СИСТЕМА СПЛОШНОГО ОСТЕКЛЕНИЯ БАЛКОНОВ И ЛОДЖИЙ И МАНЖЕТА, НАРУЖНАЯ ПРОКЛАДКА И ВНУТРЕННЯЯ ЗАГЛУШКА ИЗ СОСТАВА СИСТЕМЫ",0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-70164243,1,SUPERCONDUCTING COMPOUND QUANTUM COMPUTING CIRCUIT,1,0.95,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-44193007,0,SCROLL COMPRESSOR,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-22869007,0,Lottery ball mixing and selecting apparatus,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-85415423,1,SYSTEM AND METHOD FOR MODELLING MOLECULAR INTERACTIONS,1,0.98,Integral element of the quantum computing physical or software stack.,yes
-87429174,1,QUANTUM COMPILING,1,0.95,"Software/firmware stack advancement for quantum compilation, Hamiltonian simulation, or quantum execution.",yes
-86990007,0,Method for Producing Genome-edited Brassica rapa Plant Having Immortalization and the Plant Thereof,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-64650007,0,Electronic interaction massage device and interaction massage system,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-74566936,1,Qubit sensory representation,1,0.98,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-87001788,1,ENHANCED CLASSICAL SHADOWS USING MATCHGATE QUANTUM CIRCUITS,1,0.96,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-59991007,0,TV light guide plate,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-64335970,1,Scheduling server for scheduling quantum computers as well as scheduling method and application thereof,0,0.35,Server-side scheduling algorithm executing on classical server infrastructure; workflow scheduling rather than quantum computer hardware or algorithms.,no
-89190490,1,AN ION TRAP DEVICE HAVING A SWITCHING DEVICE,1,0.96,Integral element of the quantum computing physical or software stack.,yes
-59624007,0,Method and system of comparing data in data sheets,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-91022725,1,SYSTEM AND METHOD FOR TRIMMING METAL-INSULATOR-METAL JUNCTIONS,1,0.82,Trimming of MIM junctions is critical for tuning resonant frequencies of superconducting resonators and qubit coupling capacitors in quantum integrated circuits.,yes
-26609007,0,UNIJUNCTION THIN FILM SOLAR CELL AND ITS MANUFACTURING METHOD,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-89950389,1,Device suitable for transmitting regulation and control signal of superconducting quantum bit,1,0.88,Cryogenic microwave transmission line specifically designed to minimize thermal noise when routing control signals to superconducting qubits.,yes
-72426026,1,QUANTUM CONTROL DEVICES AND METHODS,1,0.95,Integral element of the quantum computing physical or software stack.,yes
-44596007,0,LIGHTING DEVICE AND LIGHTING FIXTURE USING IT,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-78390597,1,On-line solid-phase extraction-high performance liquid chromatography combined detection method for cis-trans mono-and di-unsaturated fatty acid methyl ester,0,0.01,Chemical analysis protocol for fatty acid esters via HPLC and solid-phase extraction. Zero quantum computing relevance.,no
-11380007,0,USO DI L-ASPARTATO DI POTASSIO E DI MAGNESIO PER AUMENTARE LA CONCENTRAZIONE EMATICA DI GLUTAMMINA,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-68162783,1,IMPROVED MICROWAVE CIRCULATOR,1,0.97,Integral element of the quantum computing physical or software stack.,yes
-39207007,0,Composite thermal insulation wall body and method for producing and mounting the same,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-46085007,0,"MOUNTING FOR A DATA CONDUCTOR, ENERGY TRANSMISSION SYSTEM AND DATA TRANSMISSION SYSTEM",0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-81454434,1,"ARITHMETIC APPARATUS, METHOD, AND PROGRAM",1,0.98,Integral element of the quantum computing physical or software stack.,yes
-83124636,1,Management method of quantum computing unit of quantum cloud platform,1,0.94,Integral element of the quantum computing physical or software stack.,yes
-87322510,1,"Intelligent agent navigation method and device, storage medium and electronic device",0,0.1,Autonomous agent navigation algorithm for electronic devices; classical control system.,no
-91759042,1,A SYSTEM TO COMPARE VARIOUS QUANTUM CRYPTOGRAPHY PROTOCOLS UNDER NOISY CONDITIONS,0,0.38,Comparative analysis system for quantum cryptographic communication protocols over noisy optical links; telecommunications domain.,no
-84033528,1,Approximate quantum compiling method and system based on tensor network and electronic equipment,1,0.95,"Software/firmware stack advancement for quantum compilation, Hamiltonian simulation, or quantum execution.",yes
-10831007,0,Paroxetine 10-camphorsulfornate for treatment of CNS disorders.,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-79189350,1,"Quantum measurement equipment calibration method and device, electronic equipment and medium",1,0.94,Integral element of the quantum computing physical or software stack.,yes
-89222762,1,ELEVATED-TEMPERATURE SUPERCONDUCTING QUBITS WITH DISORDER-INDUCED TUNNEL BARRIERS,1,0.99,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-53812007,0,Device and method for fast testing hard medium ground electric field,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-82403998,1,QUANTUM EMULATOR,1,0.97,Integral element of the quantum computing physical or software stack.,yes
-39093007,0,Pressure microsensor,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-40917583,1,QUANTUM CRYPTOGRAPHY TRANSMITTER AND QUANTUM ENCRYPTION DEVICE,0,0.4,Optical quantum cryptography transmitter for secure point-to-point communications (QKD). Lacks quantum computational processing or quantum logic circuits.,no
-93380174,1,Tracking and mitigation of quasiparticle poisoning errors in Majorana quantum computing systems,1,0.98,Integral element of the quantum computing physical or software stack.,yes
-92708355,1,METHODS AND SYSTEMS FOR ESTIMATING RISK OF ENTERPRISE APPLICATION FOR QUANTUM CRYPTOGRAPHY MIGRATION,0,0.22,Enterprise IT software for post-quantum crypto readiness and risk estimation. Operates on classical servers to manage security transitions.,no
-64902497,1,DEBUGGING QUANTUM PROGRAMS,1,0.95,Integral element of the quantum computing physical or software stack.,yes
-88519266,1,METHOD FOR CONTROLLING ELECTRONIC DEVICE FOR AUTHENTICATING OUTPUT OF CLASSIFIER USING ORTHOGONAL INPUT ENCODING,1,0.97,Integral element of the quantum computing physical or software stack.,yes
-77464356,1,Using superconducting microwave gyrator for parity detection of weak magnetic sources,1,0.78,Superconducting microwave gyrators and parity measurement circuits provide shared foundational architecture with superconducting qubit readout systems.,yes
-70922007,0,BROADCAST AND MULTICAST TRANSMISSION IN A DISTRIBUTED MASSIVE MIMO NETWORK,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-67907272,1,METHODS AND DEVICES FOR OBTAINING QUANTUM CLUSTER STATES WITH HIGH FAULT TOLERANCE BASED ON NON-CUBICAL UNIT CELLS,1,0.99,Integral element of the quantum computing physical or software stack.,yes
-40195007,0,Xianggu mushroom red dates tea prepared using freeze dehydration method,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-87162098,1,Real-time quantum random access memory,1,0.94,Integral element of the quantum computing physical or software stack.,yes
-38591007,0,METAL FINE PARTICLE-INCLUDING CERAMIC COMPOSITE MATERIAL AND METHOD FOR PRODUCING THE SAME,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-89389007,0,Mobile box type project progress updating display device for construction site,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-18546007,0,SLIP DATA EXTRACTING SYSTEM AND PROGRAM RECORDING MEDIUM FOR THE SAME,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-81863007,0,Gas stove and method for reducing temperature of tabletop thereof,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-91382724,1,Technologies for reduction of memory effects in a capacitor for qubit gate control,1,0.94,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-85354007,0,Soil productivity grade identification method based on remote sensing image vegetation index,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-82512007,0,"Direct current bus capacitor capacitance value detection method, capacitance value detection terminal and power supply system",0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-95339538,1,CARGO LOADING OPTIMIZATION USING A CLASSICAL-QUANTUM HYBRID SYSTEM,1,0.95,Integral element of the quantum computing physical or software stack.,yes
-10943007,0,VIRTUAL REALITY SIMULATOR FOR EDUCATION AND RECREATION,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-69797007,0,GOLF CLUB HEAD,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-39713007,0,"Method for controlling drive train of motor vehicle, involves preventing closing of clutch after inserting in driving position with detection of drop in system pressure with open clutch",0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-84360007,0,SUBCUTANEOUS ADMINISTRATION OF CD19-BINDING T CELL ENGAGING ANTIBODIES,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-91853937,1,"QUANTUM CHIP, QUANTUM DEVICE, AND QUANTUM COMPUTER",1,0.95,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-41217007,0,"A TUNGSTEN TRIOXIDE (WO3)-BASED GAS SENSOR FOR SENSING GASEOUS VOLATILE ORGANIC COMPOUNDS, AND A PRODUCTION METHOD THEREFOR",0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-66986574,1,A quantum teaching and learning algorithm and a fuzzy sliding mode control method based on the quantum teaching and learning algorithm,0,0.2,Quantum-inspired classical optimization algorithm using quantum mathematical probability metaphors on classical hardware.,no
-57899007,0,Authenticating method for salt-tolerant kiwi fruit germplasm resource,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-42402007,0,Method for preparing polystyrene-polyisoprene-polystyrene ternary segmented copolymer hot melt pressure-sensitive adhesive,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-65895007,0,TRANSMITTER DEVICE FOR TRANSMITTING ELECTROMAGNETIC RADIATION,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-80855408,1,Quantum circuit modeling,1,0.96,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-78388007,0,Method for preventing ios application program from crashing,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-39552007,0,GAME MACHINE,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-58771007,0,"CLOTHING COMPRESSION STORAGE BAG FOR SUITCASE, AND SUITCASE HAVING CLOTHING COMPRESSION STORAGE BAG",0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-46720007,0,SPRAY ACTUATOR,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-77897743,1,QUANTUM NUMBER PRESERVING CIRCUITS FOR PREPARING QUANTUM STATES REPRESENTING FERMIONS IN COMPUTATIONAL UNITS-BASED QUANTUM COMPUTERS,1,0.95,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-89524937,1,"Superconducting quantum device and preparation method thereof, and superconducting quantum chip",1,0.95,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-81079408,1,"SYSTEMS, DEVICES, AND METHODS FOR GENERATING SYMBOL SEQUENCES AND FAMILIES OF SYMBOL SEQUENCES",1,0.95,Integral element of the quantum computing physical or software stack.,yes
-37274007,0,LIQUID CRYSTAL DISPLAY APPARATUS AND METHOD OF MANUFACTURING THE SAME,0,0.02,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-83949899,1,Image processing method based on quantum computing and related equipment,1,0.99,Integral element of the quantum computing physical or software stack.,yes
-76222266,1,SYSTEMS AND METHODS FOR FABRICATING SUPERCONDUCTING INTEGRATED CIRCUITS,1,0.96,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-87521111,1,METHOD AND APPARATUS FOR PROCESSING AND MEASURING PHOTONIC QUBIT SIGNALS,1,0.98,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-52786007,0,Fat-coated acid-supported montmorillonite,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-17901007,0,TRANSFER DEVICE AND IMAGE FORMING DEVICE,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-74191007,0,Triggering client roaming in a high co-channel interference environment,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-14283007,0,THIN FILM TRANSISTOR MATRIX AND ITS MANUFACTURE,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-19143007,0,CASH REGISTERING DEVICE,0,0.04,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-95645962,1,"Model simulation method and device, electronic equipment and storage medium",1,0.94,"Software/firmware stack advancement for quantum compilation, Hamiltonian simulation, or quantum execution.",yes
-95932007,0,DEEP LEARNING-BASED MOBILE UNDERWATER MONITORING APPARATUS AND METHOD USING SAME,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-74362007,0,Cold wax block for controlling wall thickness of tenon teeth of hollow turbine working blade and casting method implemented by applying cold wax block,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-89545718,1,"Multi-body entangled state acquisition method and device, electronic equipment and storage medium",1,0.95,"Core quantum processing unit (QPU) component, circuit layout, or coherent qubit gate manipulation mechanism.",yes
-20381007,0,Device for switchgear arranged in an air-encapsulated cabinet,0,0.01,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
-63851007,0,Traditional Chinese medicine for skeletal fluorosis treatment,0,0.03,Classical industrial technology with zero quantum computing hardware or algorithmic claims.,no
+docdb_family_id,prediction,confidence_score,reason
+51847007,0,0.02,Heavy hydrocarbon in-situ upgrading process using chemical solvents is petroleum engineering with no quantum computing relevance.
+55589007,0,0.03,Virtual storage processor mobility with file system format migration is classical IT storage technology unrelated to quantum computing.
+9947007,0,0.02,Solvent composition for optical recording media manufacturing is analytical chemistry with no quantum computing relevance.
+85038492,1,0.97,Patent explicitly discloses dynamic programmatic entanglement of qubits in a quantum computing device including qubit entangled state management.
+93938571,1,0.92,Learning device uses a quantum computer to sample a restricted Boltzmann machine via quantum annealing for machine learning training.
+91382688,1,0.98,Lattice surgery using twists is a quantum error correction technique for logical qubits in fault-tolerant quantum computing.
+73597834,1,0.97,Holographic quantum dynamics simulation uses a quantum computer controller executing circuit slices with physical qubits for quantum simulation.
+72111007,0,0.02,Probe and connector for large-current high-speed signal testing is classical electrical test equipment with no quantum computing content.
+81648141,0,0.45,French patent on isolated operating point determination for a system with tunnel-coupled charged-particle sub-systems; likely a qubit operating point method but framed as a measurement/calibration tool rather than quantum computing per se — classifying as out-of-scope due to focus on isolation detection rather than QPU operation.
+81679169,1,0.93,Quantum circuit operation method computes quantum Renyi entropy Fourier series using auxiliary qubits and controlled gates on a quantum computer.
+87314348,0,0.72,Classical algorithm for generating bosonic transition spectra using phase-space sampling is a quantum-inspired classical computation method running on standard hardware.
+85387037,1,0.98,Fault-tolerant quantum error correction protocol implements surface GKP code using analog syndrome information from Gottesman-Kitaev-Preskill qubits.
+25626007,0,0.01,Online embossing system for plastic profile extrusion is classical manufacturing equipment with no quantum computing relevance.
+68409683,0,0.04,Method for improving production efficiency of gate devices using E-beam and I-line lithography refers to classical semiconductor transistor gate fabrication.
+46827007,0,0.01,System for continuous glazing of balconies and loggias is a construction/building system with no quantum computing relevance.
+70164243,1,0.95,Superconducting compound quantum computing circuit with ground electrodes and superconductor extensions is hardware infrastructure for QPUs.
+44193007,0,0.01,Scroll compressor with bypass paths and check valves is classical mechanical HVAC equipment with no quantum computing relevance.
+22869007,0,0.01,Lottery ball mixing and selecting apparatus is a mechanical device with no quantum computing relevance.
+85415423,1,0.95,Method for calculating molecular Hamiltonian eigenstate using a hybrid classical-quantum system with VQE-style adaptive operator selection on a QPU.
+87429174,1,0.97,Quantum compiler with branch predictor and QPU gate selector for hybrid quantum algorithm compilation is a core quantum computing system component.
+86990007,0,0.02,Method for producing genome-edited Brassica rapa plants via cell immortalization is biotechnology with no quantum computing relevance.
+64650007,0,0.01,Electronic interaction massage device with ball sensor remote controller is consumer electronics with no quantum computing relevance.
+74566936,1,0.80,Qubit sensory representation method mapping Bloch sphere coordinates to sensory output space is a quantum computing visualization tool directly involving qubit state representation.
+87001788,1,0.95,Enhanced classical shadows using matchgate quantum circuits apply random unitary sampling via generalized matchgate group on a quantum computer.
+59991007,0,0.01,TV light guide plate with fluorescent powder and laser dots is optical display hardware with no quantum computing relevance.
+64335970,1,0.78,Scheduling server for quantum computers manages QPU task allocation and scheduling on a quantum cloud platform — in-scope as dedicated quantum computing infrastructure.
+89190490,1,0.96,Ion trap device with switching circuit for electrode signal line management is dedicated hardware for trapped-ion quantum computers.
+59624007,0,0.02,Method and system for comparing data in spreadsheet databases using hash signatures is classical IT software with no quantum computing relevance.
+91022725,0,0.10,System and method for trimming metal-insulator-metal junctions to adjust resistance is classical analog device fabrication with no quantum computing relevance.
+26609007,0,0.02,Unijunction thin-film solar cell manufacturing method is classical photovoltaic technology with no quantum computing relevance.
+89950389,1,0.82,Device transmitting superconducting qubit control signals via electro-optical conversion and optical fiber into a cryogenic refrigerator is dedicated QPU control hardware.
+72426026,1,0.90,Quantum control device with field-responsive layer and projection tip for concentrating electric fields to interact with quantum states is a qubit control component.
+44596007,0,0.01,Lighting device with switching element and control power source is classical power electronics with no quantum computing relevance.
+78390597,0,0.02,Online solid-phase extraction HPLC detection method for fatty acid methyl esters is analytical chemistry with no quantum computing relevance.
+11380007,0,0.01,Use of potassium and magnesium L-aspartate to increase blood glutamine concentration is a pharmaceutical/biochemistry application with no quantum computing relevance.
+68162783,1,0.88,Microwave circulator with superconducting tunnel junctions enabling phase-shifted signal propagation is dedicated cryogenic microwave hardware for QPU signal routing.
+39207007,0,0.01,Composite thermal insulation wall body manufacturing method is classical construction engineering with no quantum computing relevance.
+46085007,0,0.02,Mounting for a data conductor on an energy transmission conductor line is classical electrical infrastructure with no quantum computing relevance.
+81454434,1,0.88,Arithmetic apparatus improves quantum annealing efficiency on an LHZ model using hybrid variational parameter scheduling for constraint optimization.
+83124636,1,0.72,Management method for quantum computing units on a quantum cloud platform provides batch group filtering and control of quantum computers.
+87322510,1,0.75,Agent navigation method using variable component sub-circuits on a quantum computer to find optimal paths relates to quantum reinforcement learning on a QPU.
+91759042,0,0.85,System comparing quantum cryptography protocols under noise is a pure QKD/quantum communication study without quantum computation logic — classified as out-of-scope per rules.
+84033528,1,0.95,Approximate quantum compiling method using tensor network theory to decompose and compile quantum circuits into basic gate operations.
+10831007,0,0.01,Paroxetine camphorsulfonate salts for CNS disorder treatment is pharmaceutical chemistry with no quantum computing relevance.
+79189350,1,0.92,Quantum measurement equipment calibration method constructs and corrects calibration matrices for quantum state measurement devices on a quantum computer.
+89222762,1,0.97,Superconducting qubit circuit with disorder-induced tunnel barrier in high-critical-temperature superconducting material is a physical qubit implementation.
+53812007,0,0.02,Device and method for fast testing hard medium ground electric field using electrodes and clay is geophysical survey equipment with no quantum computing relevance.
+82403998,1,0.90,Quantum emulator models a quantum device response to commands including hardware imperfection transfer functions for QPU simulation.
+39093007,0,0.03,Pressure microsensor using MOSFET with movable gate and silicone gel for fingerprint recognition is classical MEMS with no quantum computing relevance.
+40917583,0,0.85,Quantum cryptography transmitter using photon pulses in non-orthogonal four states is a pure QKD device with no quantum computation logic — classified as out-of-scope per rules.
+93380174,1,0.98,Computing system with Majorana zero mode islands and quasiparticle poisoning detection for topological quantum error correction is core quantum computing hardware.
+92708355,0,0.05,Methods for estimating enterprise application risk for quantum cryptography migration is classical IT governance and risk management with no quantum computing content.
+64902497,1,0.88,Debugging quantum programs using classical computer tools addresses the quantum program development workflow directly tied to quantum computing devices.
+88519266,1,0.85,Electronic device converts bits to qubits and uses a quantum neural network (QNN) to estimate quantum amplitude values for data authentication.
+77464356,0,0.60,Superconducting microwave gyrator for parity detection of weak magnetic fields using Josephson mixers is a sensing/measurement device; without QPU integration this is primarily a classical quantum-sensing instrument — classified as out-of-scope.
+70922007,0,0.02,Broadcast and multicast transmission in distributed massive MIMO network is classical wireless communications with no quantum computing relevance.
+67907272,1,0.97,Method for obtaining quantum cluster states with high fault tolerance using non-cubical unit cells entangles multiple qubits for photonic quantum computing.
+40195007,0,0.01,Lentinus edodes and red jujube tea prepared by freeze-drying method is food science with no quantum computing relevance.
+87162098,1,0.97,Real-time quantum random access memory (QRAM) circuit writes basis states and superpositions in real time — a quantum computing memory component.
+38591007,0,0.02,Metal fine particle-including ceramic composite material with TiO2 coating is materials science with no quantum computing relevance.
+89389007,0,0.01,Mobile box-type project progress display device for construction sites is a mechanical display system with no quantum computing relevance.
+18546007,0,0.02,Slip data extraction system for recognizing ruled lines in image formats is classical document processing software with no quantum computing relevance.
+81863007,0,0.01,Gas stove with humidifying heat exchange air duct for countertop cooling is classical kitchen appliance engineering with no quantum computing relevance.
+91382724,1,0.95,Technology for reducing memory effects in companion chip capacitors for voltage control of qubit gates is dedicated cryogenic QPU control electronics.
+85354007,0,0.02,Soil productivity grade identification using remote sensing vegetation index is agricultural remote sensing with no quantum computing relevance.
+82512007,0,0.02,DC bus capacitor capacitance detection method using converter current and voltage measurements is classical power electronics with no quantum computing relevance.
+95339538,1,0.82,Hybrid classical-quantum system using quantum annealer to solve cargo packing optimization sub-problems is a classical-quantum hybrid computing application.
+10943007,0,0.01,Virtual reality simulator in office chair form for education and recreation is consumer electronics with no quantum computing relevance.
+69797007,0,0.01,Golf club head with sole weight and reinforcement structure is mechanical sports equipment with no quantum computing relevance.
+39713007,0,0.01,Method for controlling drive train clutch closure based on system pressure detection is classical automotive control engineering with no quantum computing relevance.
+84360007,0,0.02,Subcutaneous administration of CD19-binding T cell engaging bispecific antibodies is pharmaceutical/medical oncology with no quantum computing relevance.
+91853937,1,0.92,Quantum chip with superconducting layer electrode and periodic structure on substrate is a physical superconducting qubit chip component.
+41217007,0,0.02,Tungsten trioxide gas sensor for volatile organic compound detection is classical chemical sensing with no quantum computing relevance.
+66986574,0,0.08,Quantum teaching-learning algorithm is a quantum-inspired metaheuristic optimization method running on classical CPUs — out-of-scope per rules.
+57899007,0,0.01,Authenticating method for salt-tolerant kiwi fruit germplasm using tissue culture and NaCl stress is agricultural biology with no quantum computing relevance.
+42402007,0,0.01,Method for preparing SIS hot melt pressure-sensitive adhesive by mixing polymers is polymer chemistry with no quantum computing relevance.
+65895007,0,0.03,Transmitter device for electromagnetic radiation with phase shifter units for phase arrays is classical RF/photonics hardware with no quantum computing relevance.
+80855408,1,0.95,Quantum circuit modeling method with decision variables and gate assignment automatically synthesizes quantum circuits satisfying constraints.
+78388007,0,0.02,Method for preventing iOS application crashes using crash protection code and cloud server is classical mobile software engineering with no quantum computing relevance.
+39552007,0,0.01,Game machine for taking in and putting out game balls according to bet rate is a mechanical gaming device with no quantum computing relevance.
+58771007,0,0.01,Clothing compression storage bag for suitcase is a consumer goods product with no quantum computing relevance.
+46720007,0,0.01,Spray actuator for aerosol container with valve actuator and trigger is a mechanical consumer product with no quantum computing relevance.
+77897743,1,0.97,Method for preparing fermionic quantum states with fixed particle number and spin on a quantum computer via parameterized Jordan-Wigner gates for VQE.
+89524937,1,0.95,Superconducting quantum device with superconducting adjustment layer improving lattice parameter matching and critical temperature is physical qubit fabrication.
+81079408,1,0.85,System generating symbol sequence families using quantum random walks on graphs on a quantum computer for musical composition applications.
+37274007,0,0.02,Liquid crystal display apparatus and manufacturing method is classical display technology with no quantum computing relevance.
+83949899,1,0.80,Image processing method using a quantum convolution unit for super-resolution combines quantum computing with residual network for image upscaling.
+76222266,1,0.90,System and method for mitigating flux trapping in superconducting integrated circuits using flux directing layers is essential QPU fabrication infrastructure.
+87521111,1,0.95,Apparatus for processing photonic qubit signals using time-modulated single-photon states and optical interference units is photonic qubit hardware.
+52786007,0,0.01,Fat-coated acid-supported montmorillonite as animal feed additive is agricultural chemistry with no quantum computing relevance.
+17901007,0,0.02,Transfer device and image forming device for cleaning transfer belt using dielectric layer is classical electrophotography with no quantum computing relevance.
+74191007,0,0.02,Method for triggering client roaming in high co-channel interference wireless networks using regression on telemetry data is classical wireless networking with no quantum computing relevance.
+14283007,0,0.03,Thin film transistor matrix with gate electrode arrangement for preventing water retention during spin drying is classical LCD/TFT semiconductor manufacturing.
+19143007,0,0.01,Cash registering device for retrieving and confirming commercial transaction data is classical retail IT with no quantum computing relevance.
+95645962,1,0.90,Model simulation method for semiconductor quantum chip using wave functions and Coulomb interaction coefficients between electrons simulates qubit behavior.
+95932007,0,0.02,Deep learning-based mobile underwater monitoring apparatus using cameras and image enhancement algorithms is classical computer vision with no quantum computing relevance.
+74362007,0,0.01,Cold wax block for controlling wall thickness of hollow turbine blade tenon teeth in precision casting is classical manufacturing engineering with no quantum computing relevance.
+89545718,1,0.95,Multi-body entangled state acquisition using double-frequency laser alternating on N trapped ions to generate target Hamiltonians is a trapped-ion quantum computing operation.
+20381007,0,0.02,Device for switchgear in air-encapsulated cabinet with earthing switch and electrical switch interlocking is classical power distribution hardware with no quantum computing relevance.
+63851007,0,0.01,Traditional Chinese medicine formula for skeletal fluorosis treatment is herbal pharmacology with no quantum computing relevance.
