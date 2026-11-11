@@ -1,0 +1,101 @@
+docdb_family_id,query_label,appln_title,prediction,confidence_score,reason,is_quantum_computing
+51847007,0,PROCESS FOR IN SITU UPGRADING OF A HEAVY HYDROCARBON USING ASPHALTENE PRECIPITANT ADDITIVES,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+55589007,0,Providing virtual storage processor (VSP) mobility with induced file system format migration,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+9947007,0,Solvent composition and use thereof,0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+85038492,1,Performing dynamic programmatic entanglement in quantum processing devices,1,0.96,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+93938571,1,"LEARNING DEVICE, LEARNING METHOD, AND PROGRAM",1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+91382688,1,Lattice surgery techniques using twists,1,0.94,Quantum error correction protocol and hardware decoding system for maintaining logical qubit coherence.,yes
+73597834,1,HOLOGRAPHIC QUANTUM DYNAMICS SIMULATION,1,0.94,Quantum computing software method for simulating quantum states or compiling circuits for execution on quantum hardware.,yes
+72111007,0,Probe and connector suitable for large-current high-speed signal testing,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+81648141,1,"Procédé de détermination d’un point de fonctionnement isolé associé à un régime isolé, procédé de détermination d’un jeu de paramètres optimal d’un moyen de mesure et système associé",0,0.15,Measurement and calibration methodology for isolated operating regimes in electrical instrumentation.,no
+81679169,1,"Quantum circuit operation method and device, electronic equipment and medium",1,0.93,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+87314348,1,Classical Algorithm for Generating Multi-Mode Bosonic Transition Spectra by Phase Space Sampling,0,0.15,A classical numerical method and analytical algorithm for computing spectra of multi-mode bosonic systems on conventional computers.,no
+85387037,1,Fault-tolerant quantum error correction with a surface GKP code,1,0.92,Quantum error correction protocol and hardware decoding system for maintaining logical qubit coherence.,yes
+25626007,0,On-line embossing system for plastic profile extrusion,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+68409683,1,Method and device for improving production efficiency of gate device with low line width,0,0.03,"Fabrication method for classical transistor gate structures. Does not describe quantum hardware, algorithms, or quantum information processing.",no
+46827007,0,"СИСТЕМА СПЛОШНОГО ОСТЕКЛЕНИЯ БАЛКОНОВ И ЛОДЖИЙ И МАНЖЕТА, НАРУЖНАЯ ПРОКЛАДКА И ВНУТРЕННЯЯ ЗАГЛУШКА ИЗ СОСТАВА СИСТЕМЫ",0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+70164243,1,SUPERCONDUCTING COMPOUND QUANTUM COMPUTING CIRCUIT,1,0.94,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+44193007,0,SCROLL COMPRESSOR,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+22869007,0,Lottery ball mixing and selecting apparatus,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+85415423,1,SYSTEM AND METHOD FOR MODELLING MOLECULAR INTERACTIONS,1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+87429174,1,QUANTUM COMPILING,1,0.96,Quantum computing software method for simulating quantum states or compiling circuits for execution on quantum hardware.,yes
+86990007,0,Method for Producing Genome-edited Brassica rapa Plant Having Immortalization and the Plant Thereof,0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+64650007,0,Electronic interaction massage device and interaction massage system,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+74566936,1,Qubit sensory representation,1,0.94,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+87001788,1,ENHANCED CLASSICAL SHADOWS USING MATCHGATE QUANTUM CIRCUITS,1,0.95,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+59991007,0,TV light guide plate,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+64335970,1,Scheduling server for scheduling quantum computers as well as scheduling method and application thereof,0,0.35,Classical scheduling architecture managing queues for quantum computing jobs; peripheral IT infrastructure.,no
+89190490,1,AN ION TRAP DEVICE HAVING A SWITCHING DEVICE,1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+59624007,0,Method and system of comparing data in data sheets,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+91022725,1,SYSTEM AND METHOD FOR TRIMMING METAL-INSULATOR-METAL JUNCTIONS,0,0.35,Semiconductor manufacturing method for trimming metal-insulator-metal junctions; primarily classical microelectronic circuit fabrication.,no
+26609007,0,UNIJUNCTION THIN FILM SOLAR CELL AND ITS MANUFACTURING METHOD,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+89950389,1,Device suitable for transmitting regulation and control signal of superconducting quantum bit,0,0.38,Physical signal delivery transmission device for superconducting qubits; auxiliary hardware rather than quantum computational device.,no
+72426026,1,QUANTUM CONTROL DEVICES AND METHODS,1,0.92,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+44596007,0,LIGHTING DEVICE AND LIGHTING FIXTURE USING IT,0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+78390597,1,On-line solid-phase extraction-high performance liquid chromatography combined detection method for cis-trans mono-and di-unsaturated fatty acid methyl ester,0,0.01,Liquid chromatography detection method in biochemistry/analytical chemistry. Fully unrelated to quantum technology.,no
+11380007,0,USO DI L-ASPARTATO DI POTASSIO E DI MAGNESIO PER AUMENTARE LA CONCENTRAZIONE EMATICA DI GLUTAMMINA,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+68162783,1,IMPROVED MICROWAVE CIRCULATOR,1,0.92,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+39207007,0,Composite thermal insulation wall body and method for producing and mounting the same,0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+46085007,0,"MOUNTING FOR A DATA CONDUCTOR, ENERGY TRANSMISSION SYSTEM AND DATA TRANSMISSION SYSTEM",0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+81454434,1,"ARITHMETIC APPARATUS, METHOD, AND PROGRAM",1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+83124636,1,Management method of quantum computing unit of quantum cloud platform,1,0.93,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+87322510,1,"Intelligent agent navigation method and device, storage medium and electronic device",0,0.08,Spatial navigation and electronic agent control system running on classical embedded hardware.,no
+91759042,1,A SYSTEM TO COMPARE VARIOUS QUANTUM CRYPTOGRAPHY PROTOCOLS UNDER NOISY CONDITIONS,0,0.3,Simulation and testing platform for evaluating QKD transmission protocols; belongs to secure quantum communication rather than quantum computing.,no
+84033528,1,Approximate quantum compiling method and system based on tensor network and electronic equipment,1,0.93,Quantum computing software method for simulating quantum states or compiling circuits for execution on quantum hardware.,yes
+10831007,0,Paroxetine 10-camphorsulfornate for treatment of CNS disorders.,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+79189350,1,"Quantum measurement equipment calibration method and device, electronic equipment and medium",1,0.95,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+89222762,1,ELEVATED-TEMPERATURE SUPERCONDUCTING QUBITS WITH DISORDER-INDUCED TUNNEL BARRIERS,1,0.96,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+53812007,0,Device and method for fast testing hard medium ground electric field,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+82403998,1,QUANTUM EMULATOR,1,0.92,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+39093007,0,Pressure microsensor,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+40917583,1,QUANTUM CRYPTOGRAPHY TRANSMITTER AND QUANTUM ENCRYPTION DEVICE,0,0.35,Hardware for transmitting quantum encryption keys in optical communication networks. Classified as quantum communications rather than quantum computing.,no
+93380174,1,Tracking and mitigation of quasiparticle poisoning errors in Majorana quantum computing systems,1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+92708355,1,METHODS AND SYSTEMS FOR ESTIMATING RISK OF ENTERPRISE APPLICATION FOR QUANTUM CRYPTOGRAPHY MIGRATION,0,0.25,Risk assessment software system for cryptographic migrations. Classical software utility rather than quantum information processing hardware or quantum algorithms.,no
+64902497,1,DEBUGGING QUANTUM PROGRAMS,1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+88519266,1,METHOD FOR CONTROLLING ELECTRONIC DEVICE FOR AUTHENTICATING OUTPUT OF CLASSIFIER USING ORTHOGONAL INPUT ENCODING,1,0.94,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+77464356,1,Using superconducting microwave gyrator for parity detection of weak magnetic sources,0,0.35,Magnetic sensing device using superconducting microwave components for parity detection; precision sensing application.,no
+70922007,0,BROADCAST AND MULTICAST TRANSMISSION IN A DISTRIBUTED MASSIVE MIMO NETWORK,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+67907272,1,METHODS AND DEVICES FOR OBTAINING QUANTUM CLUSTER STATES WITH HIGH FAULT TOLERANCE BASED ON NON-CUBICAL UNIT CELLS,1,0.96,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+40195007,0,Xianggu mushroom red dates tea prepared using freeze dehydration method,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+87162098,1,Real-time quantum random access memory,1,0.92,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+38591007,0,METAL FINE PARTICLE-INCLUDING CERAMIC COMPOSITE MATERIAL AND METHOD FOR PRODUCING THE SAME,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+89389007,0,Mobile box type project progress updating display device for construction site,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+18546007,0,SLIP DATA EXTRACTING SYSTEM AND PROGRAM RECORDING MEDIUM FOR THE SAME,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+81863007,0,Gas stove and method for reducing temperature of tabletop thereof,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+91382724,1,Technologies for reduction of memory effects in a capacitor for qubit gate control,1,0.93,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+85354007,0,Soil productivity grade identification method based on remote sensing image vegetation index,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+82512007,0,"Direct current bus capacitor capacitance value detection method, capacitance value detection terminal and power supply system",0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+95339538,1,CARGO LOADING OPTIMIZATION USING A CLASSICAL-QUANTUM HYBRID SYSTEM,1,0.92,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+10943007,0,VIRTUAL REALITY SIMULATOR FOR EDUCATION AND RECREATION,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+69797007,0,GOLF CLUB HEAD,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+39713007,0,"Method for controlling drive train of motor vehicle, involves preventing closing of clutch after inserting in driving position with detection of drop in system pressure with open clutch",0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+84360007,0,SUBCUTANEOUS ADMINISTRATION OF CD19-BINDING T CELL ENGAGING ANTIBODIES,0,0.04,Completely classical patent application unrelated to quantum information processing.,no
+91853937,1,"QUANTUM CHIP, QUANTUM DEVICE, AND QUANTUM COMPUTER",1,0.93,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+41217007,0,"A TUNGSTEN TRIOXIDE (WO3)-BASED GAS SENSOR FOR SENSING GASEOUS VOLATILE ORGANIC COMPOUNDS, AND A PRODUCTION METHOD THEREFOR",0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+66986574,1,A quantum teaching and learning algorithm and a fuzzy sliding mode control method based on the quantum teaching and learning algorithm,0,0.18,Classical software algorithm applying quantum-inspired heuristic optimization to fuzzy sliding mode control; executes entirely on standard microprocessors.,no
+57899007,0,Authenticating method for salt-tolerant kiwi fruit germplasm resource,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+42402007,0,Method for preparing polystyrene-polyisoprene-polystyrene ternary segmented copolymer hot melt pressure-sensitive adhesive,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+65895007,0,TRANSMITTER DEVICE FOR TRANSMITTING ELECTROMAGNETIC RADIATION,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+80855408,1,Quantum circuit modeling,1,0.97,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+78388007,0,Method for preventing ios application program from crashing,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+39552007,0,GAME MACHINE,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+58771007,0,"CLOTHING COMPRESSION STORAGE BAG FOR SUITCASE, AND SUITCASE HAVING CLOTHING COMPRESSION STORAGE BAG",0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+46720007,0,SPRAY ACTUATOR,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+77897743,1,QUANTUM NUMBER PRESERVING CIRCUITS FOR PREPARING QUANTUM STATES REPRESENTING FERMIONS IN COMPUTATIONAL UNITS-BASED QUANTUM COMPUTERS,1,0.93,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+89524937,1,"Superconducting quantum device and preparation method thereof, and superconducting quantum chip",1,0.92,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+81079408,1,"SYSTEMS, DEVICES, AND METHODS FOR GENERATING SYMBOL SEQUENCES AND FAMILIES OF SYMBOL SEQUENCES",1,0.95,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+37274007,0,LIQUID CRYSTAL DISPLAY APPARATUS AND METHOD OF MANUFACTURING THE SAME,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+83949899,1,Image processing method based on quantum computing and related equipment,1,0.94,"Advances the design, fabrication, or operation of quantum computing machines.",yes
+76222266,1,SYSTEMS AND METHODS FOR FABRICATING SUPERCONDUCTING INTEGRATED CIRCUITS,1,0.92,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+87521111,1,METHOD AND APPARATUS FOR PROCESSING AND MEASURING PHOTONIC QUBIT SIGNALS,1,0.97,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+52786007,0,Fat-coated acid-supported montmorillonite,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+17901007,0,TRANSFER DEVICE AND IMAGE FORMING DEVICE,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+74191007,0,Triggering client roaming in a high co-channel interference environment,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+14283007,0,THIN FILM TRANSISTOR MATRIX AND ITS MANUFACTURE,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+19143007,0,CASH REGISTERING DEVICE,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+95645962,1,"Model simulation method and device, electronic equipment and storage medium",1,0.94,Quantum computing software method for simulating quantum states or compiling circuits for execution on quantum hardware.,yes
+95932007,0,DEEP LEARNING-BASED MOBILE UNDERWATER MONITORING APPARATUS AND METHOD USING SAME,0,0.03,Completely classical patent application unrelated to quantum information processing.,no
+74362007,0,Cold wax block for controlling wall thickness of tenon teeth of hollow turbine working blade and casting method implemented by applying cold wax block,0,0.01,Completely classical patent application unrelated to quantum information processing.,no
+89545718,1,"Multi-body entangled state acquisition method and device, electronic equipment and storage medium",1,0.96,Hardware and operational methods for quantum information processing using quantum circuits and qubits.,yes
+20381007,0,Device for switchgear arranged in an air-encapsulated cabinet,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
+63851007,0,Traditional Chinese medicine for skeletal fluorosis treatment,0,0.02,Completely classical patent application unrelated to quantum information processing.,no
