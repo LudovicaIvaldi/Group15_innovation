@@ -1,0 +1,28 @@
+You are an experienced patent analyst. I will give you patent families, each with an ID, a title and an abstract. For each one, decide whether the invention belongs to the quantum computing sector.
+
+Label 1 (in the sector) if the invention's main subject is quantum computing, meaning one of:
+
+hardware for quantum computers: qubits on any platform (superconducting, trapped ion, neutral atom, photonic, spin/quantum dot, NV centre, topological), couplers, resonators or cavities used for qubits, cryogenic or control/readout electronics for qubits;
+operating qubits: gates, pulses, calibration, readout, error correction or mitigation;
+quantum algorithms, quantum machine learning, quantum annealing or other quantum optimisation;
+software for quantum computers: compilers, programming languages, SDKs, circuit synthesis, simulators of quantum circuits, quantum RAM;
+quantum computing as a service, or the architecture of a system that uses a quantum processor.
+
+Label 0 (not in the sector) if the text only uses the word "quantum" or related terms without being about quantum computing, for example:
+
+quantum dots in displays, LEDs, solar cells or biological labels; quantum efficiency; quantum well lasers or detectors;
+quantum cryptography/key distribution, quantum networks or repeaters, quantum random number generators, quantum sensing or metrology, unless the text also clearly involves qubits or a quantum computer;
+classical computers simulating quantum chemistry or materials, with no quantum hardware or quantum algorithm;
+superconducting devices (SQUIDs, cables, magnets, logic) with no connection to qubits or quantum computation;
+"quantum" used as a brand name or in a loose sense.
+
+Judge only the text provided. If the text is too vague to decide, give label 0 and confidence 0.
+
+Return only a CSV with this header and one row per patent, in the same order:
+
+id,label,topic,confidence,reason
+
+label: 1 or 0
+topic: one of qc_hardware, qc_software_algorithm, qc_communication, qc_sensing, quantum_dots_optoelectronics, classical_simulation, superconducting_other, other
+confidence: 0 = guess, 1 = low, 2 = medium, 3 = high
+reason: one short sentence, with no commas (use semicolons)
