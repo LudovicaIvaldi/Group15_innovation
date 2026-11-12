@@ -1,0 +1,181 @@
+id,label,topic,confidence,reason
+S001,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S002,1,qc_software_algorithm,3,uses quantum logic gates for computation
+S003,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S004,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S005,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S006,0,qc_communication,3,relates to quantum communication and cryptography
+S007,0,qc_communication,3,relates to quantum communication and cryptography
+S008,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S009,1,qc_hardware,3,relates to single electron spin state detection for quantum information processing
+S010,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S011,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S012,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S013,0,other,0,text is vague or lacks specific quantum computing relevance
+S014,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S015,0,other,0,text is vague or lacks specific quantum computing relevance
+S016,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S017,0,other,2,uses the term quantum outside a computing context
+S018,0,qc_communication,3,relates to quantum communication and cryptography
+S019,0,other,2,uses the term quantum outside a computing context
+S020,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S021,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S022,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S023,0,qc_communication,3,relates to quantum communication and cryptography
+S024,0,other,0,text is vague or lacks specific quantum computing relevance
+S025,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S026,0,other,2,uses the term quantum outside a computing context
+S027,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S028,0,other,2,uses the term quantum outside a computing context
+S029,0,qc_communication,3,relates to quantum communication and cryptography
+S030,0,other,2,uses the term quantum outside a computing context
+S031,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S032,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S033,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S034,0,qc_communication,3,relates to quantum communication and cryptography
+S035,0,other,0,text is vague or lacks specific quantum computing relevance
+S036,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S037,0,other,2,uses the term quantum outside a computing context
+S038,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S039,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S040,1,qc_software_algorithm,3,involves quantum hardware and circuits for computing
+S041,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S042,0,other,2,uses the term quantum outside a computing context
+S043,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S044,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S045,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S046,0,qc_communication,3,focuses on quantum communication rather than quantum computing
+S047,0,other,0,text is vague or lacks specific quantum computing relevance
+S048,0,other,2,uses the term quantum outside a computing context
+S049,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S050,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S051,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S052,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S053,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S054,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S055,0,other,2,uses the term quantum outside a computing context
+S056,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S057,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S058,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S059,0,other,0,text is vague or lacks specific quantum computing relevance
+S060,1,qc_software_algorithm,3,involves quantum hardware and circuits for computing
+S061,0,qc_communication,3,relates to quantum communication and cryptography
+S062,0,other,0,text is vague or lacks specific quantum computing relevance
+S063,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S064,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S065,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S066,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S067,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S068,0,other,0,text is vague or lacks specific quantum computing relevance
+S069,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S070,0,other,2,uses the term quantum outside a computing context
+S071,0,qc_communication,3,relates to quantum communication and cryptography
+S072,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S073,0,qc_communication,3,focuses on quantum communication rather than quantum computing
+S074,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S075,0,other,2,uses the term quantum outside a computing context
+S076,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S077,0,other,2,uses the term quantum outside a computing context
+S078,0,other,0,text is vague or lacks specific quantum computing relevance
+S079,0,other,0,text is vague or lacks specific quantum computing relevance
+S080,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S081,0,qc_communication,3,relates to quantum communication and cryptography
+S082,0,other,0,text is vague or lacks specific quantum computing relevance
+S083,0,other,0,text is vague or lacks specific quantum computing relevance
+S084,0,other,0,text is vague or lacks specific quantum computing relevance
+S085,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S086,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S087,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S088,0,qc_communication,3,focuses on quantum communication rather than quantum computing
+S089,0,other,2,uses the term quantum outside a computing context
+S090,0,other,0,text is vague or lacks specific quantum computing relevance
+S091,0,other,0,text is vague or lacks specific quantum computing relevance
+S092,0,other,2,uses the term quantum outside a computing context
+S093,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S094,0,other,0,text is vague or lacks specific quantum computing relevance
+S095,0,qc_communication,3,relates to quantum communication and cryptography
+S096,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S097,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S098,0,other,2,uses the term quantum outside a computing context
+S099,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S100,0,qc_communication,3,relates to quantum communication and cryptography
+S101,0,other,0,text is vague or lacks specific quantum computing relevance
+S102,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S103,0,other,2,uses the term quantum outside a computing context
+S104,0,other,2,uses the term quantum outside a computing context
+S105,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S106,0,other,2,uses the term quantum outside a computing context
+S107,0,other,0,text is vague or lacks specific quantum computing relevance
+S108,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S109,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S110,0,other,0,text is vague or lacks specific quantum computing relevance
+S111,1,qc_software_algorithm,3,involves quantum hardware and circuits for computing
+S112,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S113,0,other,0,text is vague or lacks specific quantum computing relevance
+S114,0,qc_communication,3,relates to quantum communication and cryptography
+S115,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S116,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S117,0,qc_communication,3,relates to quantum communication and cryptography
+S118,0,qc_communication,3,relates to quantum communication and cryptography
+S119,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S120,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S121,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S122,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S123,0,other,2,uses the term quantum outside a computing context
+S124,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S125,0,other,2,uses the term quantum outside a computing context
+S126,1,qc_software_algorithm,3,involves quantum algorithms software or circuits
+S127,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S128,0,other,0,text is vague or lacks specific quantum computing relevance
+S129,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S130,0,other,0,text is vague or lacks specific quantum computing relevance
+S131,0,other,0,text is vague or lacks specific quantum computing relevance
+S132,0,other,2,uses the term quantum outside a computing context
+S133,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S134,0,other,2,uses the term quantum outside a computing context
+S135,0,other,2,uses the term quantum outside a computing context
+S136,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S137,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S138,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S139,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S140,0,other,2,uses the term quantum outside a computing context
+S141,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S142,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S143,0,other,2,uses the term quantum outside a computing context
+S144,0,other,2,uses the term quantum outside a computing context
+S145,0,qc_communication,3,focuses on quantum communication rather than quantum computing
+S146,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S147,0,qc_communication,3,relates to quantum communication and cryptography
+S148,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S149,0,other,2,uses the term quantum outside a computing context
+S150,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S151,0,other,2,uses the term quantum outside a computing context
+S152,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S153,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S154,1,qc_software_algorithm,3,involves quantum hardware and circuits for computing
+S155,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S156,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S157,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S158,0,other,2,uses the term quantum outside a computing context
+S159,0,qc_communication,3,relates to quantum communication and cryptography
+S160,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S161,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S162,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S163,0,other,0,text is vague or lacks specific quantum computing relevance
+S164,0,other,0,text is vague or lacks specific quantum computing relevance
+S165,0,qc_communication,3,relates to quantum communication and cryptography
+S166,0,qc_communication,3,relates to quantum communication and cryptography
+S167,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S168,0,qc_communication,3,relates to quantum communication and cryptography
+S169,0,other,2,uses the term quantum outside a computing context
+S170,0,other,2,uses the term quantum outside a computing context
+S171,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S172,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S173,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S174,0,quantum_dots_optoelectronics,3,relates to quantum dots or quantum wells in optoelectronics
+S175,1,qc_hardware,3,involves physical hardware or processors for quantum computers
+S176,0,other,0,text is vague or lacks specific quantum computing relevance
+S177,0,qc_communication,3,relates to quantum communication and cryptography
+S178,1,qc_software_algorithm,2,explicitly mentions quantum computing or information processing
+S179,0,superconducting_other,3,relates to superconducting devices without quantum computing
+S180,0,qc_communication,3,relates to quantum communication and cryptography
