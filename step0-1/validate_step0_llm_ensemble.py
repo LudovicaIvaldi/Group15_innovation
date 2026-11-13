@@ -28,8 +28,6 @@ import pandas as pd
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = ROOT_DIR / "outputs" / "validation_v2"
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 PROMPT_SYSTEM = """You are a senior patent examiner and quantum technology specialist.
 Your task is to determine whether a given patent application belongs to the domain of QUANTUM COMPUTING.
@@ -114,18 +112,23 @@ def call_openai(title, abstract, api_key):
         return None
 
 
-def run_validation(live_api=False):
-    sample_file = OUTPUT_DIR / "validation_sample.csv"
+def run_validation(live_api=False, output_dir=None):
+    if output_dir is None:
+        output_dir = ROOT_DIR / "outputs" / "validation_v2"
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    sample_file = output_dir / "validation_sample.csv"
     if not sample_file.exists():
         raise FileNotFoundError(f"Missing {sample_file}")
 
     df_sample = pd.read_csv(sample_file)
     n_total = len(df_sample)
-    print(f"Loaded {n_total} patent families for Multi-LLM ensemble evaluation.")
+    print(f"Loaded {n_total} patent families for Multi-LLM ensemble evaluation from {output_dir}.")
 
-    claude_file = OUTPUT_DIR / "valutazione_claude.csv"
-    gemini_file = OUTPUT_DIR / "valutazione_gemini.csv"
-    chat_file = OUTPUT_DIR / "valutazione_chat.csv"
+    claude_file = output_dir / "valutazione_claude.csv"
+    gemini_file = output_dir / "valutazione_gemini.csv"
+    chat_file = output_dir / "valutazione_chat.csv"
 
     ant_key = os.getenv("ANTHROPIC_API_KEY")
     gem_key = os.getenv("GEMINI_API_KEY")
@@ -200,7 +203,7 @@ def run_validation(live_api=False):
 
     # Save to disk
     df_sample.to_csv(sample_file, index=False)
-    details_file = OUTPUT_DIR / "llm_evaluation_details.csv"
+    details_file = output_dir / "llm_evaluation_details.csv"
     df_details.to_csv(details_file, index=False)
 
     # Compute metrics
@@ -266,7 +269,7 @@ def run_validation(live_api=False):
         "false_negative_count": int(fn)
     }
 
-    metrics_file = OUTPUT_DIR / "validation_metrics.json"
+    metrics_file = output_dir / "validation_metrics.json"
     with open(metrics_file, "w") as f:
         json.dump(metrics_dict, f, indent=2)
 
@@ -276,5 +279,13 @@ def run_validation(live_api=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--live", action="store_true", help="Call live LLM APIs if keys are set")
+    parser.add_argument("--source", type=str, default="carlo", help="Validation source/directory suffix (e.g. carlo or v2)")
+    parser.add_argument("--dir", type=str, default=None, help="Explicit path to output directory")
     args = parser.parse_args()
-    run_validation(live_api=args.live)
+
+    if args.dir:
+        target_dir = Path(args.dir)
+    else:
+        target_dir = ROOT_DIR / "outputs" / f"validation_{args.source}"
+
+    run_validation(live_api=args.live, output_dir=target_dir)

@@ -1,0 +1,101 @@
+docdb_family_id,prediction,confidence_score,reason
+18787007,0,0.99,Disposable diaper / personal hygiene product - completely unrelated to quantum computing
+26445007,0,0.99,Anti-sense oligonucleotide / biological assay for interleukin receptor - analytical chemistry/biology
+83260007,0,0.99,Virtual keyboard UI software for mobile devices - classical IT software
+90260460,0,0.95,Electric power spot market gaming using quantum technology as a label for classical optimization metaheuristics; no actual qubits or quantum circuits described
+49596637,0,0.9,Magnetic resonance system using SQUID and RSFQ circuits for MRI signal digitization - MRI instrumentation not a QPU or quantum computing algorithm
+56583243,1,0.9,Quantum logic circuit construction for multiplication in encryption using reversible gates (CNOT/SWAP) - directly implements quantum logic gates
+81597798,0,0.95,Quantum time reference synchronization using entangled photons - quantum communication/timing protocol not quantum computation
+83494007,0,0.99,Optical fiber winding device - mechanical engineering unrelated to quantum computing
+89429279,1,0.85,Quantum circuit model for vehicle collision prediction training a quantum circuit on qubit-encoded data with quantum tensor transformations - hybrid quantum-classical ML
+75718539,0,0.99,Method for manipulating fractal information using mathematical formulas - pseudo-scientific method with no quantum computing content
+75042378,0,0.95,Reactive power optimization using quantum genetic algorithm on a classical power grid - classical quantum-inspired metaheuristic running on standard CPUs
+64049089,1,0.98,Superconducting capacitive coupling device with partial TSV for transmon qubits - directly relates to physical qubit (transmon) fabrication and coupling for quantum logic circuits
+86997007,0,0.99,Chiral isomer impurity analysis by supercritical chromatography - analytical chemistry explicitly out-of-scope
+89814554,0,0.95,Vague pseudoscientific quantum gravitation computer with no coherent quantum computing content - does not describe qubits gates or any recognized quantum computing technology
+54287007,0,0.99,Termite monitoring and control apparatus - pest control hardware unrelated to quantum computing
+90061967,1,0.98,Quantum dot devices with accumulation gates single-electron transistors and microwave pulse control for qubit manipulation - silicon spin qubit / quantum dot QPU hardware
+73584007,0,0.99,Freshwater aquaculture sediment collector - mechanical agricultural tool unrelated to quantum computing
+51536007,0,0.99,Pre-compensation of chromatic dispersion for optical communications - classical DSP/photonics for fiber-optic communications
+75412310,1,0.97,Quantum circuit compilation method mapping logical quantum circuits to physical quantum circuits using SWAP gates and shortest-path scoring - quantum compiling
+61685838,1,0.95,Cloud-based quantum computing service providing access to quantum computers for optimization and computational problems - classical-quantum hybrid platform
+61250007,0,0.99,Medical optical coherence tomography imaging for eyes - medical optics/imaging unrelated to quantum computing
+42637007,0,0.99,Semiconductor device fabrication with contact-hole etching - classical MOSFET semiconductor manufacturing explicitly out-of-scope
+43479760,1,0.97,Scalable quantum computer with QPUs connected via EPR pair generator for qubit teleportation - directly describes quantum processing units and teleportation algorithms
+54770404,1,0.99,Superconducting quantum circuit control using SFQ logic circuits with pulse sequences timed to resonance period for qubit gate operations - dedicated cryogenic control electronics for QPUs
+58183007,0,0.99,Preservative fluid for Melissa officinalis essential oil - chemistry/agriculture unrelated to quantum computing
+84193161,1,0.97,Runtime qubit allocation management for quantum computing systems - quantum backoff service managing qubit scheduling on quantum hardware
+96300788,1,0.95,Fusion tiling generator for quantum information system using fusion complexes for measurements and decoding - quantum error correction / measurement-based quantum computing
+55960007,0,0.99,Multimotor electromechanical drive for aircraft landing gear - aviation mechanical engineering unrelated to quantum computing
+92896769,1,0.99,Single flux quantum circuitry for quantized flux bias control using Josephson junctions - dedicated cryogenic control electronics for QPUs using SFQ pulses
+26453007,0,0.99,High silica zeolite catalyst with steam treatment - industrial chemistry/catalysis unrelated to quantum computing
+88326723,1,0.98,Superconducting quantum circuit device with Josephson parametric oscillator (SQUID resonator) and LC circuit for qubit control - superconducting quantum circuit hardware
+86693983,1,0.85,Quantum data compression leveraging quantum computer device for hashing operations - classical-quantum hybrid system for computation
+9547007,0,0.99,Median strip cut-off device for road traffic - civil engineering/road infrastructure unrelated to quantum computing
+77234350,1,0.97,Quantum program execution method with instruction rearrangement to reduce crosstalk errors and improve fidelity - quantum compiling / QPU execution optimization
+44752007,0,0.99,Apparatus for determining axial forces in centrifugal pump stages - mechanical/hydraulic engineering unrelated to quantum computing
+92842262,0,0.9,Channel coding for quantum communication with nonlocal noise and entanglement resources - quantum communication/channel coding not quantum computation; no QPU described
+69076007,0,0.99,IP information extraction from transient electromagnetic response for geophysical survey - geophysics/electromagnetic sensing
+36803007,0,0.99,Digital broadcasting receiver with two-dimensional symbol for fault diagnosis - classical consumer electronics
+17369627,0,0.99,Disc player selecting between multi-bit and one-bit digital signals with power saving mode - classical audio electronics
+70849224,0,0.99,Machine learning using correlithm objects and Hamming distance for clustering - classical ML/AI no quantum computing
+84536170,1,0.98,Quantum error mitigation using scaled quantum gates added to quantum circuits with rotation angles for stretch factor - quantum error mitigation directly on quantum circuits
+95597875,1,0.95,Quantum dot model simulation method using device parameters and charge concentration for potential determination - quantum dot / silicon spin qubit simulation for QPU design
+75585232,0,0.9,Blockchain system using quantum random number generator for encryption key hardening - post-quantum cryptography security without quantum computation logic; out-of-scope
+7821007,0,0.99,Dry cylinder liner with collar for engine crankcase - mechanical automotive engineering unrelated to quantum computing
+70459140,1,0.97,Microwave attenuator for quantum microwave circuits using superconducting material in cryogenic temperature range controlled by magnetic field - dedicated cryogenic microwave hardware for QPUs
+60037706,0,0.99,Smart reply system using on-device machine learning model for communications - classical NLP/ML software
+80375007,0,0.99,Point mutation animal model construction for dentin insufficiency - genetics/biomedical animal model unrelated to quantum computing
+76106530,1,0.9,Quantum computing-based MIMO detection using quantum singular value estimation and variational quantum algorithms - quantum algorithm applied to signal processing
+26779007,0,0.99,Peroxide and chlorine test strip for oxidant concentration measurement - analytical chemistry explicitly out-of-scope
+67069600,1,0.9,Quantum oracle for probabilistic inference in machine learning mapping model interactions to qubit interactions - hybrid quantum-classical system for ML training
+55178354,1,0.98,Quantum device with superconducting co-planar structures for reducing surface loss and stray coupling - superconducting qubit hardware fabrication for QPUs
+80352991,0,0.8,Yang-Mills theory mathematical proof with no abstract provided - theoretical physics/mathematics not quantum computing
+75161447,1,0.97,Crosstalk cancellation in quantum systems with qudits using Pauli error distribution estimation - quantum error correction/characterization for multi-qubit systems
+60937879,1,0.98,Selective capping of SQUID superconductor trace to reduce qubit dephasing - superconducting qubit hardware for reducing decoherence in QPUs
+59311688,1,0.99,Two-qubit quantum state manipulation using drive waveforms applied to multi-level quantum system and quantum mechanical oscillators - quantum gates / qubit control
+46503007,0,0.99,Jellyfish treatment apparatus for water intake ports - marine biology/environmental engineering
+75031621,1,0.85,Boson sampling simulation method considering photon loss using equivalent unitary matrix - photonic quantum computing simulation; quantum computing algorithm
+28664007,0,0.99,Feedforward transmission amplifier with pilot signal switching - classical RF/microwave communications amplifier
+78676566,1,0.98,Quantum computer error mitigation using stretch factor interpolation from reference gate parameters - quantum error mitigation on quantum computers
+44743007,0,0.99,Forming mould for flue gas exhausting pipeline - industrial mechanical mold engineering
+64021007,0,0.99,Stainless steel punching and boss molding stamping composite die - mechanical manufacturing/stamping die
+36234007,0,0.99,Servo system for component mounting machine with auto-tuning gain - classical industrial servo/automation
+57127007,0,0.99,Bacterial conjugate vaccines using O-polysaccharide chains - biotechnology/vaccine production; analytical biology
+89323126,1,0.98,Ion chain motional mode measurement using fast scan and maximum weight matching for trapped-ion quantum computer - trapped-ion QPU qubit pulse computation
+23149007,0,0.99,Marine propulsor cooling and lubricating system - marine mechanical engineering unrelated to quantum computing
+49754007,0,0.99,Foam spraying method for manufacturing vehicle interior lining components - automotive manufacturing/materials
+73856336,1,0.97,Quantum computing service supporting multiple quantum hardware technologies with intermediate representation for quantum circuits - quantum computing platform/service
+69341007,0,0.99,New energy automobile front panel machining method - automotive manufacturing unrelated to quantum computing
+93293007,0,0.99,Nitrogen-infused smoothie vending machine - food service/mechanical engineering
+91195007,0,0.99,Driving circuit and display substrate for display device - classical display electronics
+34112007,0,0.99,Hydraulic differential cylinder device for drawing process control in transfer press - industrial mechanical press engineering
+84535954,1,0.99,Fault-tolerant quantum computation with qudit error detection using ancilla qudit and leakage error correction via optical pumping - quantum error correction for QPUs
+69055007,0,0.99,MSBI nucleotide sequences as cancer/CNS disease markers - molecular biology/genomics unrelated to quantum computing
+80928794,1,0.9,Device for shielding quantum components from electromagnetic radiation at cryogenic temperatures using superconducting shielding elements - cryogenic hardware for QPU isolation
+44122007,0,0.99,Data storage configuration techniques with initiator groups target groups and masking views - classical IT storage management software
+50073007,0,0.99,Rotary locking connector assembly - mechanical connector hardware unrelated to quantum computing
+90594007,0,0.99,Basic function code generation system reading database and generating JSON config files - classical software/code generation tool
+88798997,0,0.92,Quantum security browser using quantum security medium for power system communication - post-quantum/QKD-based cryptographic communication security not quantum computation
+17086007,0,0.99,Lock for modular plug adapter - mechanical/electrical connector hardware unrelated to quantum computing
+65556007,0,0.99,Pressure guide diffusion device for underground engineering seepage pressure - civil/geotechnical engineering
+21495007,0,0.99,Sleeve for lower limb prosthesis - medical device/orthotics unrelated to quantum computing
+25622007,0,0.99,Mobile solar power traffic controller - traffic management/renewable energy unrelated to quantum computing
+65897891,1,0.95,Quantum tomography system generating tomography experiment data for quantum circuits and analyzing experimental results - quantum circuit characterization tool for QPUs
+90922795,1,0.9,Method using eigenvalues of basis function matrix and VQE corrections for quantum chemistry calculations - variational quantum eigensolver (VQE) algorithm for quantum chemistry
+93121477,1,0.99,Solving optimization problems on hybrid quantum-classical computing system using QAOA-style variational quantum circuit with parametrized entangling and mixing circuits - implements QAOA
+4984007,0,0.99,Method for pickling fresh chilli for long-term storage - food preservation/agriculture unrelated to quantum computing
+63133166,1,0.97,Optical pulse generation for creating three-energy-level qubit random superposition states using invariant theory and Schrodinger equation - qubit state preparation / quantum gate control
+74779082,1,0.99,Method and system for realizing CZ gate on two superconducting qubits using Z-line voltage waveform with energy level alignment - directly implements quantum logic gate (CZ gate)
+69743224,1,0.97,Quantum algorithm validation and runtime estimation by simulating quantum gate sets and transforming quantum algorithms based on parameter acceptability - quantum circuit compilation
+91718007,0,0.99,Display system for moving body with display region management - classical display/automotive electronics
+94610007,0,0.99,Multipurpose wireless speedometer system for vehicles with GPS and Bluetooth - classical automotive IoT system
+23702007,0,0.99,High voltage MOS device fabrication method - classical semiconductor MOSFET manufacturing explicitly out-of-scope
+19347007,0,0.99,Semiconductor device capacitor manufacturing with polysilicon layers - classical semiconductor capacitor fabrication
+94614007,0,0.99,Traffic signal light integrated with speed detection camera - classical traffic control system
+50882094,0,0.9,Quantum mechanical model for predicting subject responses using qubit formalism applied to psychology - quantum-inspired social science model running on classical computers; not quantum computing
+50207007,0,0.99,Water-saving temperature-and-humidity-adjustable automobile washing machine - classical mechanical/automotive cleaning device
+39480007,0,0.99,Triple effect absorption refrigeration system - classical thermodynamics/HVAC engineering
+85151847,1,0.95,Non-classical quantum contextual measurements on quantum devices using continuous time evolution - quantum measurement protocol on quantum hardware
+61753007,0,0.99,Electric control share-based dumbbell with code scanning - classical IoT fitness equipment
+19073007,0,0.99,Color filter repair method using YAG laser - classical optical/display manufacturing

@@ -1,0 +1,101 @@
+docdb_family_id,prediction,confidence_score,reason
+18787007,0,0.01,Disposable diaper with elastic leg flap members is hygiene consumer goods.
+26445007,0,0.01,Anti-sense oligonucleotide derivative inhibitor against human IL-6 receptor is pharmaceutical biotechnology.
+83260007,0,0.01,Virtual keyboard display method with dynamic input background is classical mobile software UI.
+90260460,0,0.15,Electric power spot market game execution using quantum terminology is classical power grid dispatching software.
+49596637,0,0.25,"Magnetic resonance system using SQUIDs and RSFQ circuits for RF signal sensing is medical imaging instrumentation, not quantum computing."
+56583243,1,0.94,Quantum logic circuit construction method using CNOT and swap gates for modular multiplication is quantum circuit design.
+81597798,0,0.2,"Quantum time reference synchronization using entangled photon pairs is quantum metrology and communication, not quantum computing."
+83494007,0,0.01,Mechanical winding device for optical fiber manufacturing is industrial mechanical machinery.
+89429279,1,0.82,Vehicle component collision prediction method using a quantum circuit model on a grid lattice of qubits is a quantum computing application.
+75718539,0,0.02,Fractal compression and dimensional manipulation mathematical method is classical mathematical abstraction.
+75042378,0,0.1,Power grid reactive power configuration using a quantum genetic algorithm is a classical metaheuristic running on standard CPUs.
+64049089,1,0.98,Capacitive coupling device with superconducting partial TSV for transmon qubits is physical qubit hardware.
+86997007,0,0.01,Supercritical fluid chromatography detection of chiral isomer impurities in methoprene is analytical chemistry.
+89814554,0,0.05,Speculative quantum gravitation particle computer concept lacks technical quantum computing architecture.
+54287007,0,0.01,Termite monitoring and control apparatus using attractant triggers is pest control hardware.
+90061967,1,0.96,Quantum dot device with accumulation and screening gates applying microwave pulses for qubit control is silicon spin qubit hardware.
+73584007,0,0.01,Sediment collector with telescopic rod and cutting blade for freshwater aquaculture is aquaculture equipment.
+51536007,0,0.02,Chromatic dispersion pre-compensation using digital signal processing is classical optical telecommunications.
+75412310,1,0.95,Quantum circuit compilation method mapping logical quantum circuits to physical qubits using shortest path scores and SWAP gates.
+61685838,1,0.92,Distributed cloud computing system providing access to quantum computers and QPUs for running optimization problems.
+61250007,0,0.01,Optical coherence tomography imaging method for eyes is medical diagnostic ophthalmology.
+42637007,0,0.02,Semiconductor device manufacturing method using element isolation oxide films is classical microelectronics fabrication.
+43479760,1,0.98,Scalable quantum computer comprising multiple QPUs interconnected via EPR pair generator and quantum teleportation.
+54770404,1,0.97,Control system for superconducting quantum circuits using single flux quantum logic pulses to minimize qubit gate infidelity.
+58183007,0,0.01,Preservative fluid for improving essential oil yield of Melissa officinalis is botanical agricultural chemistry.
+84193161,1,0.95,Runtime qubit allocation and scheduling system implementing a quantum backoff service for quantum computing execution.
+96300788,1,0.95,Fusion tiler system generating fusion complexes for measurement-based quantum computing and decoding.
+55960007,0,0.01,Multimotor electromechanical drive for aircraft landing gear is aerospace mechanical engineering.
+92896769,1,0.93,Single flux quantum circuitry using Josephson junction current generators for quantized flux bias control in superconducting circuits.
+26453007,0,0.01,High silica-zeolite catalyst composition is chemical process catalysis.
+88326723,1,0.97,Superconducting quantum circuit device with SQUID and LC filter to suppress power leakage in a Josephson parametric oscillator for qubit readout.
+86693983,1,0.85,Data compression method leveraging a quantum computing device to invert hash functions for file compression.
+9547007,0,0.01,Median strip cutoff device for highway traffic management is civil road infrastructure.
+77234350,1,0.95,Quantum program compiler optimizing quantum instruction sequences using cost functions to mitigate crosstalk errors.
+44752007,0,0.01,Apparatus for determining axial forces on guide apparatus of submerged centrifugal pumps is mechanical fluid engineering.
+92842262,0,0.35,"Channel coding using entanglement resources over spatial nodes is quantum communication / telecommunication, not quantum computing."
+69076007,0,0.01,Extracting induced polarization information in transient electromagnetic response is geophysical survey prospecting.
+36803007,0,0.01,Digital broadcasting receiver using two-dimensional diagnostic barcode is consumer electronics.
+17369627,0,0.01,Optical disc player with dual-rate sampling circuits is classical audio electronics.
+70849224,0,0.02,Machine learning clustering architecture using correlithm objects and Hamming distance is classical computer science.
+84536170,1,0.98,Quantum error mitigation method adding scaled quantum gates and inverse gates based on pulse stretching is quantum computing control.
+95597875,1,0.88,Simulation method determining electrostatic potential and charge concentration for designing quantum dot qubit models.
+75585232,0,0.15,"Blockchain security architecture using quantum random number generators is cryptography / blockchain governance, not quantum computing."
+7821007,0,0.01,Dry cylinder liner with collar for internal combustion engine crankcases is automotive mechanical engineering.
+70459140,1,0.94,Cryogenic microwave attenuator utilizing superconducting-to-normal transition for quantum microwave control circuits.
+60037706,0,0.01,Generating smart candidate replies on a mobile device is classical NLP software.
+80375007,0,0.01,DSPP gene point mutation animal model for dentin insufficiency is genetics and biomedical science.
+76106530,1,0.82,MIMO arrival direction estimation using quantum singular value estimation and density matrix eigendecomposition on a quantum computer.
+26779007,0,0.01,Chemical test strip composition for determining oxidant concentration is analytical chemistry assay.
+67069600,1,0.94,Machine learning inference method mapping model parameter interactions to qubits in a quantum oracle.
+55178354,1,0.96,Superconducting coplanar structures with tailored dielectric constants to reduce surface loss and stray coupling in quantum processors.
+80352991,0,0.01,Pure theoretical mathematical physics proof of Yang-Mills theory has no quantum computing device or algorithm.
+75161447,1,0.96,Estimating and mitigating crosstalk and Pauli errors across interacting qudits during quantum operations.
+60937879,1,0.97,Selective dielectric capping over superconducting SQUID Josephson junctions to reduce qubit dephasing.
+59311688,1,0.98,Manipulating two-qubit quantum states by applying microwave drive waveforms to dispersively coupled multi-level quantum systems and oscillators.
+46503007,0,0.01,Suction and enzymatic decomposition apparatus for treating jellyfish in power plant water intake is environmental plant engineering.
+75031621,1,0.85,Gaussian boson sampling simulation method calculating unitary matrix sub-matrix products with photon loss for photonic quantum simulation.
+28664007,0,0.02,Feedforward transmission amplifier with pilot signal switching is classical RF power electronics.
+78676566,1,0.98,Quantum computer error mitigation system interpolating quantum gate parameters with pulse stretch factors.
+44743007,0,0.01,Mould for forming thin-wall flue gas exhausting pipelines is concrete and industrial manufacturing.
+64021007,0,0.01,Stainless steel stamping and punching composite die is metal tool manufacturing.
+36234007,0,0.01,Servo amplifier auto-tuning system for component mounting machines is industrial automation.
+57127007,0,0.01,Bacterial conjugate vaccine production using recombinant Gram-negative bacteria is immunology and biotechnology.
+89323126,1,0.98,Trapped ion quantum computer motional mode measurement and pulse computation for laser-addressed ion qubits.
+23149007,0,0.01,Cooling and lubricating system for marine propulsor electric motor is marine mechanical engineering.
+49754007,0,0.01,Foam spraying method for vehicle interior lining components is automotive manufacturing.
+73856336,1,0.94,Cloud quantum computing service enabling intermediate representation circuit execution across diverse quantum hardware QPUs.
+69341007,0,0.01,"Machining, drilling, and milling method for electric vehicle front panels is automotive manufacturing."
+93293007,0,0.01,Nitrogen-infused smoothie vending machine with automated refrigeration is food dispensing machinery.
+91195007,0,0.02,Driving circuit and clock reset circuit for flat panel display substrates is classical display electronics.
+34112007,0,0.01,Hydraulic cylinder drawing control device in a mechanical transfer press is metal forming machinery.
+84535954,1,0.99,Fault-tolerant quantum computation detecting and correcting qudit leakage errors using ancilla qudits and optical pumping.
+69055007,0,0.01,Nucleotide sequences for CNS disease and cancer early detection is biomedical diagnostic genetics.
+80928794,1,0.92,Thermal and electromagnetic radiation shielding device engineered for protecting quantum processor components.
+44122007,0,0.01,Storage masking views and initiator-target port mapping is classical enterprise SAN storage IT.
+50073007,0,0.01,Rotary locking connector with flexible tabs and lock ring is mechanical connector hardware.
+90594007,0,0.01,Automated JSON-to-frontend code generation system is classical web software tooling.
+88798997,0,0.15,"Browser security architecture distributing quantum security keys in power systems is quantum cryptography / network security, not quantum computing."
+17086007,0,0.01,Metal clip lock for modular telecommunication plugs is mechanical networking hardware.
+65556007,0,0.01,Underground water drainage and rock seepage pressure sensor system is geotechnical civil engineering.
+21495007,0,0.01,Sleeve for lower limb prosthesis is medical orthopedic device.
+25622007,0,0.01,Mobile solar-powered traffic signal controller is municipal traffic hardware.
+65897891,1,0.95,System generating quantum circuit tomography experiment descriptions and analyzing tomogram results.
+90922795,1,0.92,Quantum chemistry calculation method utilizing Variational Quantum Eigensolver (VQE) algorithm corrections.
+93121477,1,0.98,Hybrid quantum-classical optimization using parameterized Hamiltonian quantum circuits with variational parameter updates.
+4984007,0,0.01,Pickling process for preserving fresh chilli peppers is food preservation.
+63133166,1,0.95,Polychromatic optical pulse synthesis optimizing pulse shapes to create qubit superposition states in a 3-level quantum system.
+74779082,1,0.98,Method for implementing a controlled-Z (CZ) quantum logic gate with >99.5% fidelity using shaped voltage pulses on qubit Z-lines.
+69743224,1,0.95,Method for validating and estimating runtime of quantum algorithms by analyzing quantum gate parameters and qubit hardware constraints.
+91718007,0,0.01,Split-region display system for vehicles is classical automotive UI.
+94610007,0,0.01,Wireless vehicle speedometer and diagnostic touch display controller is automotive electronics.
+23702007,0,0.01,High-voltage MOSFET fabrication method using field oxide projections and polysilicon gates is classical semiconductor manufacturing.
+19347007,0,0.01,DRAM charge storage electrode capacitor fabrication using polysilicon is classical semiconductor manufacturing.
+94614007,0,0.01,Traffic signal light integrated with speed detection camera is municipal traffic hardware.
+50882094,0,0.15,"Predicting human psychological reactions to propositions using quantum formalisms is cognitive modeling running on classical software, not quantum computing hardware."
+50207007,0,0.01,Automobile washing machine with atomized water gun is automotive maintenance equipment.
+39480007,0,0.01,Triple-effect absorption refrigeration system using sensible heat is HVAC thermal engineering.
+85151847,1,0.93,Generating non-classical quantum contextual measurements on a quantum device under continuous time evolution.
+61753007,0,0.01,App-controlled shareable fitness dumbbell with QR code scanning is consumer exercise equipment.
+19073007,0,0.01,Laser method for repairing foreign matter defects in LCD color filters is classical display panel manufacturing.

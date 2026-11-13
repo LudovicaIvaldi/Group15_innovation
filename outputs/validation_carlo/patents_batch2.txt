@@ -1,0 +1,256 @@
+# BATCH 2 (Patents 51 to 100)
+
+Please evaluate each patent below according to the Quantum Computing domain rules.
+Output format: CSV with columns: docdb_family_id,prediction,confidence_score,reason
+
+============================================================
+
+--- Patent [51/100] ---
+docdb_family_id: 55178354
+Title: REDUCING SURFACE LOSS AND STRAY COUPLING IN QUANTUM DEVICES USING DIELECTRIC THINNING
+Abstract: A quantum device includes: a substrate; and at least three co-planar structures arranged on a surface of the substrate, each co-planar structure, of the at least three co-planar structures, including a superconductor, in which a first effective dielectric constant between a first co-planar structure and a second co-planar structure that is a nearest neighbor to the first co-planar structure is above a first threshold, a second effective dielectric constant between the first co-planar structure and a third co-planar structure that is a next nearest neighbor to the first so-planar structure is less than a second threshold, and the second threshold is less than the first threshold.
+
+--- Patent [52/100] ---
+docdb_family_id: 80352991
+Title: PROOF OF YANG-MILLS THEORY EXISTS ON R4 AND HAS A MASS GAP Δ > 0.
+Abstract: None
+
+--- Patent [53/100] ---
+docdb_family_id: 75161447
+Title: Systems and methods for cancellation of Crosstalk
+Abstract: Systems and methods for estimating crosstalk in a quantum system are provided. The quantum system comprises a plurality of qudits. A plurality of interacting systems within the plurality of qudits during a quantum operation are identified. Each such interacting system comprises a subset of the plurality of qudits. A set of components is identified from the plurality of interacting systems. Each given component in the set of components is evolved along with the respective components in the set of components that interact with the given component in the quantum operation, thereby forming a plurality of maps for the set of components. For each respective component in the set of components, a corresponding marginal distribution is calculated using the corresponding map for the respective component, thereby computing a plurality of marginal distributions. An estimate of the Pauli error distribution is constructed for the quantum operation from the plurality of marginal distributions.
+
+--- Patent [54/100] ---
+docdb_family_id: 60937879
+Title: SELECTIVE CAPPING TO REDUCE QUANTUM BIT DEPHASING
+Abstract: A device includes: a substrate; a superconducting quantum interference device (SQUID) including a superconductor trace arranged on an upper surface of the substrate and having at least one Josephson junction interrupting a path of the superconductor trace, in which the superconductor trace includes a first superconductor material that exhibits superconducting properties at or below a corresponding superconducting critical temperature; and a dielectric capping layer on an upper surface of the SQUID, in which the dielectric capping layer covers a majority of the superconductor trace of the SQUID, and the capping layer includes an opening through which a first region of the SQUID is exposed, the first region of the SQUID including a first Josephson junction.
+
+--- Patent [55/100] ---
+docdb_family_id: 59311688
+Title: TECHNIQUES FOR MANIPULATION OF TWO-QUBIT QUANTUM STATES AND RELATED SYSTEMS AND METHODS
+Abstract: According to some aspects, a method is provided of operating a system that includes a multi-level quantum system dispersively coupled to a first quantum mechanical oscillator and dispersively coupled to a second quantum mechanical oscillator, the method comprising applying a first drive waveform to the multi-level quantum system, applying one or more second drive waveforms to the first quantum mechanical oscillator, and applying one or more third drive waveforms to the second quantum mechanical oscillator.
+
+--- Patent [56/100] ---
+docdb_family_id: 46503007
+Title: METHOD AND APPARATUS FOR TREATING JELLYFISH IN WATER INTAKE PORT OF POWER PLANT
+Abstract: PROBLEM TO BE SOLVED: To transfer a large amount of landed jellyfishes by a suction method by treating the jellyfishes by sucking as a jellyfish is a soft living organism having remarkably high moisture ratio and made of gelatin, and at the same time, perform processing treatment and addition of a medical agent and quickly treat a large amount of jellyfishes without the occurrence of bad odor.SOLUTION: The jellyfishes are captured by a dust collector 52 installed in the water intake port 55 and placed in a suction port 4 of a jector 1. The jellyfishes are fractured and crushed while being sucked and pressure-fed by the jector 1. Upon fracturing and crushing the jellyfishes, moisture is eliminated to reduce the volume of the jellyfishes, a decomposition enzyme is added thereto, and the jellyfishes are treated by dissolving by enzymatic decomposition.
+
+--- Patent [57/100] ---
+docdb_family_id: 75031621
+Title: Glass color sampling simulation method and system considering photon loss and medium
+Abstract: The invention provides a glass color sampling simulation method and system considering photon loss and a medium, and relates to the technical field of quantum communication, and the method comprises the steps: an equivalent optical network construction method: generating an equivalent unitary matrix of an optical network corresponding to the photon loss; and an output mode probability distributionsolving method: calculating a sub-matrix product sum formula of the equivalent unitary matrix to generate a glass color sampling output mode probability distribution simulation result including photon loss. According to the invention, the probability distribution of the glass color sampling output mode considering the photon loss can be obtained.
+
+--- Patent [58/100] ---
+docdb_family_id: 28664007
+Title: TRANSMISSION AMPLIFIER AND PILOT SIGNAL SWITCHING METHOD
+Abstract: <P>PROBLEM TO BE SOLVED: To provide a transmission amplifier without a deterioration in intermodulation distortion of the transmission amplifier due to interference of a pilot signal of other transmission amplifier, and without malfunctional operation. <P>SOLUTION: In the feedforward type transmission amplifier provided with: a pilot signal generating means for generating a pilot signal; a transmission signal amplifier means for amplifying the pilot signal and a transmission signal; a coupler for distributing an output signal from the transmission signal amplifier means; a detection means for detecting the pilot signal from the output signal and outputting a detection signal; a transmission signal control means for controlling the intermodulation distortion characteristic of the transmission signal amplifier means on the basis of the detection signal; and a filter for eliminating the pilot signal from the output signal and outputting the result, the pilot signal generating means is characterized by outputting the pilot signal with a different frequency. <P>COPYRIGHT: (C)2003,JPO
+
+--- Patent [59/100] ---
+docdb_family_id: 78676566
+Title: Stretch factor error mitigation enabled quantum computers
+Abstract: Techniques regarding quantum computer error mitigation are provided. For example, one or more embodiments described herein can comprise a system, which can comprise a memory that can store computer executable components. The system can also comprise a processor, operably coupled to the memory, and that can execute the computer executable components stored in the memory. The computer executable components can comprise an error mitigation component that interpolates a gate parameter associated with a target stretch factor from a reference model that includes reference gate parameters for a quantum gate calibrated at a plurality of reference stretch factors.
+
+--- Patent [60/100] ---
+docdb_family_id: 44743007
+Title: Forming mould for flue gas exhausting pipeline
+Abstract: The invention discloses a forming mould for a flue gas exhausting pipeline, and the forming mould provided by the invention comprises a left side frame and a right side frame, wherein a plurality of external mould plates and internal mould plates, which are detachable, are arranged between the left side frame and the right side frame; an external mould cavity is defined by the plurality of external mould plates; an internal mould cavity is defined by the plurality of internal mould plates in the external mould cavity; forming cavities are formed between the external mould plates and internal mould plates; and a feed port is formed on at least one of the external mould plates. By using the forming mould provided by the invention, the mechanical mould production for a thin-wall flue gas exhausting pipeline can be realized, the problem that the mechanical production cannot be achieved in the field of forming of prefabricated noncircular thin-wall component is solved, the product is formed through one step, the production efficiency is increased, the labor intensity of a worker is reduced, places for production are greatly saved, the production process is supplemented by virtue of vibration molding, the product intensity and quality are high, and the quality fluctuation and the raw material waste which are caused by manual operation are reduced simultaneously.
+
+--- Patent [61/100] ---
+docdb_family_id: 64021007
+Title: Stainless steel punching and boss molding and stamping composite die
+Abstract: The invention discloses a stainless steel punching and boss molding and stamping composite die. The composite die comprises an upper die and a lower die, wherein the upper die comprises an upper template, a base plate, an unloading device, a male die, a punch, a male die fixing plate and a female die from top to bottom; the unloading device is mounted at the center of the female die; the male diepasses through the centers of the male die fixing plate and the unloading device; the punch passes through the male die fixing plate and the unloading device to be located at one side of the male die;the lower die comprises a lower template; a compound die is arranged on the lower template; a square through hole corresponding to the male die is formed in the centers of the compound die and the lower template; the external part of the square through hole is sleeved by a compound die fixing plate, a rubber pad and a discharging plate in sequence from bottom to top; a bulge is arranged on the upper end surface of the compound die; and a groove is formed in the unloading device 5. According to the composite die, three stamping processes are completed on a same station at the same time, so that the repeated positioning errors in multi-process chaining process are solved, the tensile deformation is restricted, the turbine mat box machining efficiency and quality are improved, the labor intensity is reduced, the production efficiency is improved and the machining requirements for high efficiency and high precision are satisfied.
+
+--- Patent [62/100] ---
+docdb_family_id: 36234007
+Title: SERVO SYSTEM
+Abstract: <P>PROBLEM TO BE SOLVED: To provide a servo system of a component mounting machine in which, even if a load changes abruptly as changing in the replacement of a mounted component, the mounting position accuracy of the mounted component and a component adsorption rate are not lowered. <P>SOLUTION: An optimum gain is set by generating a timing signal upon the abrupt change of a load such as the exchange of a mounted component, and by dummy-operating a servo amplifier with a timing signal. A dummy operation can set an optimum gain by auto tuning in the minimum stroke operation of a component supply part. It is possible to set the optimum gain by a single time dummy operation. <P>COPYRIGHT: (C)2006,JPO&NCIPI
+
+--- Patent [63/100] ---
+docdb_family_id: 57127007
+Title: COMPOSITIONS AND METHODS FOR PRODUCING BACTERIAL CONJUGATE VACCINES
+Abstract: Longer chain antigenic O-polysaccharide chains for use as a hapten in conjugate vaccines can be produced in a controlled manner using recombinant Gram-negative bacteria that overexpress native or heterologous genes of the wzz family, for example wzzB. Bacteria expressing a chosen wzz gene have modified O-polysaccharide chain lengths, allowing the bacteria to produce lipopolysaccharides having the longer O-polysaccharides. The LPS produced by the bacteria can be hydrolyzed to form core-O-polysaccharide molecules that can be conjugated to a carrier molecule, for example flagellin, to produce a vaccine. The invention also provides recombinant bacteria producing the longer chain O-polysaccharides, the polysaccharide molecules, themselves, conjugated vaccines comprising the O-polysaccharides, pharmaceutical compositions and kits.
+
+--- Patent [64/100] ---
+docdb_family_id: 89323126
+Title: ION CHAIN MOTIONAL MODE MEASUREMENT BY FAST SCAN WITH MAXIMUM WEIGHT MATCHING METHOD
+Abstract: A method of performing a computational process using a quantum computer includes measuring a coupling strength of each trapped ion in an ion chain and each motional mode of the ion chain, wherein the trapped ions comprises first trapped ions that are addressable by laser beams, and second trapped ions that are not addressable by laser beams, computing a first map of the first trapped ions to the motional modes, wherein the motional mode comprises first motional modes that are allocated by the first map and second motional modes that are unallocated by the first map, measuring frequencies of the first motional modes, computing a second map of the first trapped ions to the second motional modes, measuring frequencies of the second motional modes, and outputting the measured frequencies of the motional modes, to be used for computing a pulse to be applied to the ion chain.
+
+--- Patent [65/100] ---
+docdb_family_id: 23149007
+Title: Marine propulsor cooling and lubricating system
+Abstract: In a marine propulsor which includes an electric motor with a rotor, a bearing assembly supporting the rotor, and a plurality of propulsor blades and a blade assembly driven by the motor, improved cooling/lubricating system includes an inlet through which coolant/lubricant is supplied to the bearing assembly and the motor, a passage communicating with the inlet through which the coolant/lubricant flows, and an outlet located adjacent the trailing edge of the blade assembly through which the coolant/lubricant is expelled, whereby the expulsion of coolant/lubricant through the outlet provides additional forward thrust to the propulsor. The outlet may be located in the blade hub of the blade assembly or, alternatively, the outlet may comprise a plurality of holes located in the trailing edges of the blades of the blade assembly.
+
+--- Patent [66/100] ---
+docdb_family_id: 49754007
+Title: Foam spraying method for manufacturing inner lining component of vehicle, involves foam spraying foam on surface of form tool for producing foam layer with hardness grade and foaming up foam layer at time period
+Abstract: The foam spraying method involves foam spraying a foam on a surface of a form tool (1) for producing a foam layer (2) with a hardness grade and foaming up the foam layer at a time period. Another foam layer (4) is foam sprayed on the surface of the coated foam layer. The former foam layer is averted from the form tool on reaching a reaction degree. The former foam layer is oversprayed without collaborating with the latter foam layer. The hardness degree of the latter layer is different from the former foam layer and the latter foam layer is foamed up at another time period.
+
+--- Patent [67/100] ---
+docdb_family_id: 73856336
+Title: QUANTUM COMPUTING SERVICE SUPPORTING MULTIPLE QUANTUM COMPUTING TECHNOLOGIES
+Abstract: A quantum computing service includes connections to multiple quantum hardware providers that are configured to execute quantum circuits using quantum computers based on different quantum technologies. The quantum computing service enables a customer to define a quantum algorithm/circuit in an intermediate representation and select from any of a plurality of supported quantum computing technologies to be used to execute the quantum algorithm/ quantum circuit.
+
+--- Patent [68/100] ---
+docdb_family_id: 69341007
+Title: Machining method of new energy automobile part front panel
+Abstract: The invention relates to a machining method of a new energy automobile part front panel. The machining method comprises the steps of milling and drilling, infiltration machining, air tightness detection, screw sleeve assembly and cleaning and packaging. The milling and drilling process comprises the following steps that a workpiece is placed in a machining center and clamped and fixed to a rotarytable, the sealing groove face of the workpiece is aligned with a supporting nail face, Y-direction positioning is conducted at two points of the lower part of a long kidney-shaped hole, and X-direction positioning is conducted at one point of the left side of a short kidney-shaped hole. The machining method has the beneficial effects that the machining method is high in accuracy, the workpiece completion degree is high, batch machining production can be conducted, and the overall economic benefits are increased; meanwhile, all the machining steps are matched with one another, so that the yield of the front panel is greatly increased, and the front panel is not prone to breakage, high in hardness and not prone to abrasion; through dual detection of infiltration machining and air tightnessdetection, the air tightness of the front panel is guaranteed; and meanwhile, through cleaning and packaging, so that rusting is not prone to occurring during later storage, the original gloss can bekept, and the service life is long.
+
+--- Patent [69/100] ---
+docdb_family_id: 93293007
+Title: NITROGEN-INFUSED SMOOTHIE VENDING MACHINE SYSTEMS AND METHODS
+Abstract: Devices, systems, and methods for a nitrogen-infused smoothie vending machine can a refrigeration system including an insulated housing and refrigerator for cooling an interior portion of the insulated housing, a smoothie storage system including a pressurizable storage vessel for storing smoothie product and an agitation system for agitating smoothie product within the pressurizable storage vessel, the pressurizable storage vessel arranged within the insulated housing, a nitrogen system configured for providing nitrogen for infusion of smoothie product, and a dispensing system configured for dispensing nitrogen-infused smoothie product for consumption. A control system can include at least one processor arranged for execution of instructions stored in memory, and communications circuitry for communicating signals to and from the processor, the control system configured for governing operation of the nitrogen system to provide nitrogen gas for infusion into the smoothie product, and configured for governing operation of the dispensing system for dispensing nitrogen-infused smoothie product.
+
+--- Patent [70/100] ---
+docdb_family_id: 91195007
+Title: DRIVING CIRCUIT, DRIVING METHOD, DISPLAY SUBSTRATE, AND DISPLAY DEVICE
+Abstract: Provided are a driving circuit, a driving method, a display substrate, and a display device. The driving circuit comprises a driving output circuit (11), a first reset circuit (12), and a first isolation circuit (13); the driving output circuit (11) controls, under control of a potential of a first node (Q), a driving signal output end (O1) to be connected to a first voltage line (V1) or a first clock signal line (CKB); the first reset circuit (12) controls, under control of a first reset signal, the first clock signal line (CKB) to write a first clock signal to a first control node (PQ); and the first isolation circuit (13) controls, under control of a second clock signal, the first control node (PQ) to be connected to the first node (Q). The first reset circuit (12) and the first isolation circuit (13) are provided, such that the potential of the first control node (Q) is reset by means of the first clock signal, and then the first isolation circuit (13) controls, under the control of the second clock signal, the first control node (PQ) to be connected to the first node (Q), so as to reset the potential of the first node (Q). Since the first clock signal is a periodic signal, the low-voltage time is short, and the electric leakage is small.
+
+--- Patent [71/100] ---
+docdb_family_id: 34112007
+Title: DEVICE FOR CONTROLLING THE DRAWING PROCESS IN A TRANSFER PRESS
+Abstract: The invention relates to a device for controlling the drawing process in a transfer press, said device comprising two antagonistic tool parts (11, 12) between which a workpiece (10) to be formed is held. One tool part (11) can be displaced between two stop points (OT, UT) by a mechanical crank mechanism (13) driven at a constant rotational speed. The second tool part (12) is connected to the piston (16) of a hydraulic differential cylinder (15) by means of a piston rod (17). During a first time interval, inside a region defined by the first and the second stop point, the rod-side surface (Ar) of the piston is subjected to a pressure that is sufficiently high to accelerate the second tool part (12) in such a way that when the two tool parts meet, they both move at practically the same speed. A controllable throttle (35) is arranged between a bottom-side chamber (15b) and a tank (26). In order to save energy during the operation of one such transfer press, in a second time interval following the first time interval and lasting until the second stop point (UT), the rod-side surface (Ar) of the piston is subjected to a second pressure that is smaller than the pressure subjected thereon during the first time interval.
+
+--- Patent [72/100] ---
+docdb_family_id: 84535954
+Title: FAULT-TOLERANT QUANTUM COMPUTATION
+Abstract: Error detection in a quantum computer is provided. The quantum computer includes a plurality of qubits encoding a plurality of data qudits and an ancilla qudit. The qubits encoding the plurality of data qudits are arranged into a grouping wherein the qubits encoding each of the plurality of data qudits are within an interaction distance of an interacting state of the qubits encoding the ancilla qudit. A leakage error of a first data qudit of the plurality of data qudits into the interacting state is detected by detecting a state of the ancilla qudit. Error correction in the quantum computer is also provided. Quantum states of the plurality of qudits are selected such that angular momentum selection rules prohibit mixing between the selected quantum states during a leakage error of one of the plurality of qudits into a noninteracting state. The leakage error is corrected by optical pumping of the noninteracting state, the optical pumping preserving coherence of the selected quantum states in the absence of the leakage error.
+
+--- Patent [73/100] ---
+docdb_family_id: 69055007
+Title: MSBI SEQUENCES AS AN EARLY MARKER FOR THE FUTURE DEVELOPMENT OF CANCER AND DISEASES OF THE CNS AND AS A TARGET FOR THE TREATMENT AND PREVENTION OF THESE DISEASES
+Abstract: Described are MSBI (Multiple Sclerosis Brain Isolate) nucleotide sequences as well as probes and primers comprising part of said nucleotide sequences and antibodies against polypeptides encoded by said nucleotide sequences. Said compounds are useful as early markers for the future development of cancer and diseases of the CNS (Multiple sclerosis MS, Prion-linked diseases, amyotrophic lateral sclerosis, transmissible spongiforme encephalitis, Parkinson's disease, Alzheimer disease) and should represent targets for treatment and prevention.
+
+--- Patent [74/100] ---
+docdb_family_id: 80928794
+Title: A DEVICE FOR SHIELDING AT LEAST ONE QUANTUM COMPONENT
+Abstract: A device (100) for shielding at least one component from thermal radiation, the device comprising at least a first substrate (102) with a first surface (104) and a second surface (106) and a second substrate (108)with a first surface (110) and second surface (112), the first surface of the second substrate being arranged to at least partially face the second surface of the first substrate. The device additionally comprises at least a first component (114) arranged on the first surface of the second substrate or the second surface of the first substrate and a shielding arrangement comprising a plurality of shielding elements (116, 118, 120)comprising electrically conductive material, the shielding elements being configured to essentially surround at least the first component to provide a shielded area within which the first component is located, wherein electromagnetic radiation having wavelength longer than a selected first wavelength is essentially prevented from reaching the shielded area
+
+--- Patent [75/100] ---
+docdb_family_id: 44122007
+Title: Techniques for data storage configuration
+Abstract: Described are techniques for storage configuration. Defined are one or more initiator groups each including one or more initiator ports, one or more target groups each including one or more target ports, and one or more storage groups each including one or more devices. A masking view is created where the masking view includes a first of the initiator groups, a first of the target groups, and a first of the storage groups. The masking view indicates which devices of the first storage group are accessible using one or more paths. Each of the one or more paths is specified using an initiator port from the first initiator group and a target port from the first target group.
+
+--- Patent [76/100] ---
+docdb_family_id: 50073007
+Title: Rotary locking connector
+Abstract: A rotary connector assembly includes a connector housing sized to mate with a mating adapter and a lock ring. The connector housing includes at least one flexible tab. The lock ring is disposed over at least a portion of the connector housing. One of the connector housing and the lock ring includes a guide pin and the other includes a guide member disposed between the guide pin and the flexible tab. A rotation of the lock ring in a first direction flexes the tab radially inwards into a first position to secure the mating adapter in the connector housing, and a rotation of the lock ring in a second direction into a second position flexes the tab radially outwards to release the mating adapter from the connector housing. The guide pin translates relative to the guide member as the lock ring rotates between the first and second positions.
+
+--- Patent [77/100] ---
+docdb_family_id: 90594007
+Title: Basic function code generation system and method
+Abstract: The invention discloses a basic function code generation system and method, and the method comprises the following steps: S1, reading configured database information, analyzing the information in the database information, merging the information with the information read in the database according to an attribute name, adding the information, and writing the information into an assembly module; s2, reading information stored in the assembly module through a rear end, and generating a JSON configuration file in a fixed format; s3, analyzing the JSON configuration file in a fixed format through a JSON analysis module, generating a front-end file, and completing code generation of a basic function; front-end and rear-end codes are directly generated, the codes can be directly operated, the development process of basic functions is simplified, and the development and test workload of the basic functions is greatly reduced; and the project construction period is greatly shortened.
+
+--- Patent [78/100] ---
+docdb_family_id: 88798997
+Title: Quantum security browser design and implementation method under power multi-service scene
+Abstract: The embodiment of the invention provides a quantum security browser design and implementation method under a power multi-service scene, and belongs to the technical field of quantum communication. The method comprises the following steps: generating a quantum security medium; distributing the generated quantum security medium to a user side and a server side of the power system; identity information of a worker is confirmed at a user side, and authority information corresponding to the identity information is determined; and opening access content to the user side on the server side according to the received quantum security medium information sent by the user side. Through the technical scheme, according to the quantum security browser design and implementation method under the power multi-service scene, the quantum security medium is generated, communication is carried out on the server side and the user side according to the quantum security medium, and security communication between the user side and the server side is ensured.
+
+--- Patent [79/100] ---
+docdb_family_id: 17086007
+Title: LOCK FOR MODULAR PLUG
+Abstract: PROBLEM TO BE SOLVED: To reuse a modular plug when a lock means for preventing the modu lar plug from coming-off is broken or crushed by simply mounting an inexpen sive lock in an adaptor form to obtain a function equivalent to the lock means. SOLUTION: This lock 1 formed of an elastically deformable metal material having a nearly U-shaped box-like form has a flexible lock lever 4 on the upper part of an adaptor body 2 and bent parts 3 no the lower part thereof. The lock 1 is fitted to a plug body 6 whose original lock lever is broken or crushed so as to cover it, and fixed to it by bending the bent parts 3. When the plug body 6 with the lock 1 fixed in an adapter form is connected to a mating modular jack, a locking step part 5 of the lock lever 4 tilting and projecting upward engages with a mating lock part, and the connected form to the modular jack is kept, so that careless disconnection can be prevented and the modular plug can be reused.
+
+--- Patent [80/100] ---
+docdb_family_id: 65556007
+Title: Pressure guide diffusion device preventing underground engineering surrounding rock seepage pressure sudden change and method
+Abstract: The invention discloses a pressure guide diffusion device preventing underground engineering surrounding rock seepage pressure sudden change and a method. The pressure guide diffusion device comprisesa pressure guide diffusion device, a monitoring module, a control circuit and an early-warning issuing module. A primary drainage channel is arranged between a secondary drainage channel and a tertiary drainage channel. The secondary and tertiary drainage channels are internally provided with decompressing valves and electromagnetic valves separately. Two moving water pressure sensors are separately mounted at water inlets of the secondary drainage channel and the tertiary drainage channel. A digital display screen is mounted on the outer surface of the secondary drainage channel. A surrounding rock stress sensor, a surrounding rock strain sensor and the two moving water pressure sensors are connected with the digital display screen. The surrounding rock stress sensor, the surrounding rock strain sensor, the two moving water pressure sensors, the two decompressing valves and two electromagnetic valves are connected with a single chip micro-computer in the controlling circuit. The number of the pressure guide drainage channels is automatically adjusted based on different monitored conditions, and therefore great pressure caused by groundwater on the surrounding rock and other adverse effects can be reduced.
+
+--- Patent [81/100] ---
+docdb_family_id: 21495007
+Title: SLEEVE FOR A PROSTHESIS OF A LOWER LIMB
+Abstract: None
+
+--- Patent [82/100] ---
+docdb_family_id: 25622007
+Title: Mobile solar power traffic controller
+Abstract: None
+
+--- Patent [83/100] ---
+docdb_family_id: 65897891
+Title: Facilitating quantum tomography
+Abstract: Techniques for facilitating quantum tomography are provided. In one example, a system includes a circuit generation component and a tomography analysis component. The circuit generation component generates tomography experiment data indicative of information for a set of tomography experiments based on quantum circuit data indicative of a machine-readable description of a quantum circuit. The tomography analysis component generates tomogram data based on experimental result data indicative of information associated with the tomography experiment data.
+
+--- Patent [84/100] ---
+docdb_family_id: 90922795
+Title: A method of use of eigenvalues of the matrix of basis functions and Rydberg energy states to specify the lengths of wavefunctions of electrons using a self-consistent method and VQE corrections
+Abstract: Metoda pro řešení opakování - iterací v kvantově-chemických výpočetních metodách pro kvantově chemické výpočty. Metoda zahrnuje výpočet vlastních čísel (eigenvalues) matice nebo podmatic základních vlnových funkcí (basis functions) určených na základě zvoleného kritéria a použití energií z Rydbergova vzorce pro výpočet nových iterací výpočtu způsobem, který nabízí dobrou efektivitu výpočtu i ve srovnání se současně používanými algoritmy. Rovnice pro výpočet nových iterací jsou optimalizovány pro konkrétní molekulární systémy a sady vlnových funkcí a výsledek metody může být použit k výpočtu různých vlastností systému. Výsledky mohou být pro molekulární systémy dále upřesněny použitím kvantového algoritmu variational quantum eigensolver (VQE) ve formě pro přepočet kombinací základních vlnových funkcí (basis functions) s atomárními základními vlnovými funkcemi (basis functions).
+
+--- Patent [85/100] ---
+docdb_family_id: 93121477
+Title: SOLVING OPTIMIZATION PROBLEM ON HYBRID QUANTUM-CLASSICAL COMPUTING SYSTEM
+Abstract: A method of performing computation in a hybrid quantum-classical computing system includes mapping an optimization problem to a model Hamiltonian, selecting a set of variational parameters to construct a parametrized quantum circuit comprising an entangling circuit based on the model Hamiltonian and a mixing circuit, setting a quantum processor in an initial state, executing iterations, each iteration including applying the parametrized quantum circuit to the quantum processor to generate a trial state, measuring an expectation value of the model Hamiltonian, and replacing the set of the variational parameters with another set of variational parameters, and outputting the set of the variational parameters. The initial and trial states each are a superposition of states where the number qubits in the 1 state is constant, and the mixing circuit maintains the number of the qubits in the 1 state.
+
+--- Patent [86/100] ---
+docdb_family_id: 4984007
+Title: Method for pickling fresh chilli
+Abstract: The said method can produce pickled chilli for long-term storage. The present invention features that pickle chilli is delicious and fragrant. The canned pickled chilli may be fresh-kept up to 12-18 months.
+
+--- Patent [87/100] ---
+docdb_family_id: 63133166
+Title: Optical pulse generating method capable of creating three-energy-level system quantum bit random superposition state
+Abstract: The invention discloses an optical pulse generating method capable of creating the three-energy-level system quantum bit random superposition state. An invariant theory is adopted to reversely solve atime-dependent Schrodinger equation of a three-energy-level system, field intensity information of a group of polychromatic optical pulses capable of generating the quantum bit random superposition state is constructed, an arbitrary wave generator and an acoustic and optical modulator are utilized to generate the polychromatic optical pulses, the extra degree of freedom in the polychromatic optical pulse field intensity is utilized to optimize the shape of the pulses, so that the pulses show robustness to the frequency detuning amount existing in the system, and have small-enough non-resonance excitation of background ions existing in the system, and thus the quantum bit random superposition state is created with the fidelity within a short acting time. By means of the optical pulse generating method, the optical pulses can generate the quantum bit random superposition state within the acting time of 4 microseconds, the fidelity within the frequency detuning amount range of +/-340 kHzis not lower than 99.5%, and the non-resonance excitation of the background ions does not exceed 2%.
+
+--- Patent [88/100] ---
+docdb_family_id: 74779082
+Title: Method and system for realizing CZ gate
+Abstract: The invention discloses a method and system for realizing a CZ gate, and the method comprises the following steps: S1, preparing a single quantum state of 00 >, 01 >, 10 > and 11 > or a superposed state of a plurality of quantum states on two quantum bits, and enabling at least one quantum bit in the two quantum bits to be provided with a Z line; s2, defining a waveform function, forming a voltagesignal according to the waveform function, and the voltage signal being a voltage signal enabling the quantum state 11 > and the quantum state 20 > in the two quantum bits to be aligned in energy level so as to achieve the exchange probability of the quantum state 11 > and the quantum state 20 >; s3, loading the voltage signal to a Z line, enabling the quantum state 11 in the two quantum bits tobe greater than the accumulated phase pi, and achieving a CZ gate; and S4, measuring the fidelity of the CZ gate, and adjusting the coefficient of the defined waveform function according to the measurement result so as to adjust the fidelity of the CZ gate to be greater than a preset value. According to the method, a CZ gate with the fidelity of 99.5% or above can be achieved, the waveform function definition method can improve the quantum bit working efficiency, and large-scale quantum calculation is achieved.
+
+--- Patent [89/100] ---
+docdb_family_id: 69743224
+Title: VALIDATING AND ESTIMATING RUNTIME FOR QUANTUM ALGORITHMS
+Abstract: A method for validation and runtime estimation of a quantum algorithm includes receiving a quantum algorithm and simulating the quantum algorithm, the quantum algorithm forming a set of quantum gates. The method further includes analyzing a first set of parameters of the set of quantum gates and analyzing a second set of parameters of a set of qubits performing the set of quantum gates. The method further includes transforming, in response to determining at least one of the first set of parameters or the second set of parameters meets an acceptability criterion, the quantum algorithm into a second set of quantum gates.
+
+--- Patent [90/100] ---
+docdb_family_id: 91718007
+Title: DISPLAY SYSTEM, CONTROL METHOD, AND COMPUTER PROGRAM
+Abstract: Provided is a display system comprising: a display device that is provided to a moving body; and a control device that divides a display surface of the display device into a first display region and a second display region, that displays an image on the display device, and that maintains the first display region when changing display content in the second display region.
+
+--- Patent [91/100] ---
+docdb_family_id: 94610007
+Title: Control unit system and application for vehicles
+Abstract: A multipurpose wireless speedometer system designed for vehicles, including cars and motorcycles, is disclosed. The system includes a touch display unit that functions as a speedometer, GPS, and diagnostic display and features an internal memory, a GPS unit, a tracker module, a wireless module, and a processor. The touch display unit is customizable and can display different user interfaces based on preferences. The system also includes a controller with multiple buttons for managing signals, lights, and other vehicle functions. A control unit serves as a central hub and receives Bluetooth signals from the controller and transmits commands to vehicle systems. The control unit is equipped with relay elements and LED indicators for active status and malfunction alerts. The system wirelessly communicates between components and automatically powers on with the vehicle's ignition.
+
+--- Patent [92/100] ---
+docdb_family_id: 23702007
+Title: Method of fabricating high voltage MOS device
+Abstract: A method for fabricating a high voltage MOS device. A substrate has a first P-type well region and a N-type well region formed thereon. A field oxide is then formed on the N-well region and patterned until field oxide projections project from the field oxide layer. With the field oxide projections serving as masks, second P-type well regions are formed in both P-type and N-type lightly doped well regions. A gate oxide layer and a gate polysilicon layer are formed in sequence on a part of the substrate and the field oxide projection, wherein the gate oxide layer and the gate polysilicon layer form a gate electrode. With the gate electrode and the field oxide layer serving masks, a source/drain region is consequently formed in the first P-type well region and the N-type well region.
+
+--- Patent [93/100] ---
+docdb_family_id: 19347007
+Title: MANUFACTURE OF SEMICONDUCTOR DEVICE CAPACITOR
+Abstract: The method for manufacturing a capacitor having a number of cavities, comprises the steps of: forming a field oxide film, a gate electrode and an oxide film spacer on a substrate; depositing an insulation film thereon; forming a charge storage electrode contact hole by etching a predetermined portion; filling the contact hole with polysilicon for a first charge storage electrode; planarising by etch back process; forming a first oxide pattern by dry etching to use a first oxide film as mask; forming a second oxide film between polysilicon for a second charge storage electrode by etch back; depositing polysilicon for a third charge storage electrode and forming a mask for a charge storage electrode; forming the charge storage electrode on the determined portion by wet etching and removing the mask.
+
+--- Patent [94/100] ---
+docdb_family_id: 94614007
+Title: Single traffic signal light embedded with speed detection camera
+Abstract: The purpose of the present invention is to provide an integrated traffic light with a speeding detection camera, which fines a driver of a vehicle/speeding vehicle violating a traffic signal, complies with the traffic signal to the driver, and prevents speeding in a speed-limited area. An integrated traffic light equipped with a speeding detection camera comprises: a traffic signal device equipped in a pillar of the traffic light; and an LED traffic light integrated with a speeding detection camera which is equipped in the lower part of a horizontal bar of the pillar of the traffic light, is connected to a controller through the traffic signal device and a traffic signal interlocking unit, and transmits the photo, license plate image, and place date and time information of a traffic signal violation vehicle and a speeding vehicle photographed by a camera.
+
+--- Patent [95/100] ---
+docdb_family_id: 50882094
+Title: Method and Apparatus for Predicting Subject Responses to a Proposition based on Quantum Representation of the Subject's Internal State and of the Proposition
+Abstract: The present invention is an apparatus and method for predicting the reactions of a subject, e.g., a human being to a proposition posed to the subject during a subject-object or a subject-subject interaction that takes place online or in real life. The quantum mechanical model adopted herein assigns a first subject qubit |iss1> to a primary internal state of the subject with eigenvalues corresponding to measurable indications a, b of the primary internal state. A response qubit |rsp> that can yield at least two mutually exclusive responses corresponding to two eigenvalues is also assigned to the subject. A proposition matrix PR in the form of a linear operator designed to act on response qubit |rsp> is assigned to enable a quantum mechanical derivation of response probabilities and expectation values for response to the same underlying proposition in various contexts, including incompatible contexts in the Heisenberg sense.
+
+--- Patent [96/100] ---
+docdb_family_id: 50207007
+Title: Water-saving type temperature-and-humidity-adjustable automobile washing machine
+Abstract: The invention discloses a water-saving type temperature-and-humidity-adjustable automobile washing machine. An air outlet of a compact air compressor is connected with an air inlet pipe of an atomized water gun through a high-pressure air pipe; a power line of the compact air compressor is connected to a main control console; a pressure gauge is arranged on the compact air compressor; a water outlet of a water tank is connected with a water inlet of the atomized water gun through a high-pressure water inlet pipe; the water outlet amount of the water tank is controlled through a valve at the water outlet, so that the spraying humidity can be adjusted; the valve at the water outlet of the water tank is switched on, so that water sucked into the atomized water gun can be mixed with high-pressure air to be atomized; water mist is sprayed out of a nozzle for cleaning. The water-saving type temperature-and-humidity-adjustable automobile washing machine disclosed by the invention is low in water consumption and pollution-free, and the problem that automobiles are difficult to clean in winter can be effectively solved.
+
+--- Patent [97/100] ---
+docdb_family_id: 39480007
+Title: Triple effect absorption type refrigeration system
+Abstract: The invention discloses a triple-effect absorbing type refrigerating system, which aims to provide a triple-effect absorption refrigerating system that partial sensible heat of high temperature steam which is produced by a high-pressure generator can be used after the high temperature steam heats dilute solution of a medium-pressure generator in the medium-pressure generator, great interception loss which may exist can be avoided, and the heat efficiency of units can be increased. A steam outlet of the high-pressure generator in a refrigerant loop is connected with a steam inlet of the medium-pressure generator, a steam inlet of a low-pressure generator and a steam inlet of a condensator in turn, a steam outlet of the medium-pressure generator is connected with the steam inlet of low-pressure generator and the steam inlet of the condensator in turn, and a steam outlet of the low-pressure generator is connected with the steam inlet of the condensator. After high temperature steam which is produced by the high-temperature generator in the refrigerating system heats the medium-pressure generator, the dilute solution is continuously heated by the high temperature steam, then the steam enters into the condensator, high temperature steam which is produced by medium-pressure generator heats the low-temperature generator and enters into the condensator, and the heat efficiency of units is increased.
+
+--- Patent [98/100] ---
+docdb_family_id: 85151847
+Title: Generating non-classical measurements on devices with parameterized time evolution
+Abstract: A quantum contextual measurement is generated from a quantum device capable of performing continuous time evolution, by generating a first measurement result and a second measurement result and combining the first measurement result and the second measurement result to generate the quantum contextual measurement. The first measurement result may be generated by initializing the quantum device to a first initial quantum state, applying a first continuous time evolution to the first initial state to generate a first evolved state, and measuring the first evolved state to generate the first measurement result. A similar process may be applied to generate a second evolved state which is at least approximately equal to the first evolved state, and then applying another continuous time evolution to the second evolved state to generate a third evolved state, and measuring the third evolved state to generate the second measurement result.
+
+--- Patent [99/100] ---
+docdb_family_id: 61753007
+Title: Electric control share-based dumbbell
+Abstract: The invention belongs to the technical field of dumbbells, and particularly relates to an electric control share-based dumbbell. The electric control share-based dumbbell comprises a first weightlifting block mechanism, a second weightlifting block mechanism, a hand-held rod mechanism and a code scanning area. The hand-held rod mechanism is installed between the first weightlifting block mechanismand the second weightlifting block mechanism; the code scanning area is installed on the first weightlifting block mechanism; the hand-held rod mechanism installed between the first weightlifting block mechanism and the second weightlifting block mechanism is used for connecting the first weightlifting block mechanism and the second weightlifting block mechanism; the code scanning area installedon the first weightlifting block mechanism is used for controlling the using right of the dumbbell, and only people who have scanned the code can use the dumbbell; when the code is not scanned, if a user uses the dumbbell, the hand-held rod mechanism deforms, so that the first weightlifting block mechanism and the second weightlifting block mechanism are put together, at the moment, the dumbbell cannot be used normally, after scanning the code, the hand-held rod mechanism becomes harder, and the user can use the dumbbell normally.
+
+--- Patent [100/100] ---
+docdb_family_id: 19073007
+Title: METHOD FOR REPAIRING COLOR FILTER
+Abstract: PROBLEM TO BE SOLVED: To provide a method for simply repairing a color filter without marked discoloration. SOLUTION: A laser beam having a pulse width of <=1×10<-12> sec is radiated on a foreign matter F positioned on a color filter layer by using YAG- SHG(yttrium-aluminum-garnet second harmonic generation) via a laser slit of around 10-20 μm width. The depth of the color filter layer is reduced by elimination to the extent of one-half depth of the filter so as to form a shallow color filter layer 3R1 with the most part of the foreign matter F exposed. In the same manner as in the case of eliminating the color filter layer, the laser beam is radiated on the foreign matter F existing on the surface of the color filter layer 3R1 remaining after the filter elimination to the extent of one-half depth. A decolored part is formed by completely eliminating the color filter layer 3R1 as far as the position where the foreign matter F existed is concerned. Because the color filter layer 3R1 from which the foreign matter F is eliminated is provided with the decolored part, a black resist is applied to the decolored part. Ultraviolet ray irradiation to the black resist hardens the black resist.
