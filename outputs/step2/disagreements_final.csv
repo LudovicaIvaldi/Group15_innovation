@@ -1,0 +1,16 @@
+﻿pair,claude,gemini,chat,claude_note,final,final_note
+ARIZONA BOARD REGENTS <> UNIV ARIZONA,no,yes,yes,Board of Regents on behalf of Arizona State Univ. (HAN): different university,yes,group decision: generic Board of Regents assigned to Univ Arizona
+CHINESE ACADEMY SCIENCE <> UNIV CHINESE ACADEMY SCIENCE,no,yes,yes,"UCAS is a separate university (type university, not gov): kept apart",yes,brand rule: UCAS is run by CAS
+CHINESE ACADEMY SCIENCE <> UNIV CHINESE ACADEMY SCIENCE UCAS,no,yes,yes,,yes,brand rule: UCAS is run by CAS
+DONGGUAN INST OPTO ELECTRONICS PEKING UNIV <> PEKING UNIV,no,yes,yes,,yes,brand rule: Peking Univ institute
+ELEKTRON <> ELEQTRON,yes,yes,no,co-applicant on all its families with eleQtron: translation of the name,yes,"transliteration, co-applicant on all its families"
+GUOKAI QIKE QUANTUM TECH BEIJING <> GUOKUNGKE QUANTUM TECH BEIJING,yes,no,yes,"garbled spelling of Guokai Qike, co-applicant with Qike Zhuhai",yes,garbled spelling of Guokai Qike
+HARBIN ENGINEERING UNIV <> HARBIN SCIENCE ENGINEERING UNIV,no,no,yes,,no,different universities (Harbin Univ of Science and Technology vs Harbin Engineering Univ)
+HARVARD COLLEGE LEADER LIKE <> HARVARD UNIV,yes,no,no,machine translation of 哈佛学院院长等 (President and Fellows of Harvard College),yes,machine translation of President and Fellows of Harvard College
+HEWLETT PACKARD DEVELOPMENT <> HPE HEWLETT PACKARD ENTERPRISE,no,yes,no,HPE: separate company since Nov 2015 split,yes,brand rule: HP and HPE share the brand after the 2015 split
+JAPAN SCIENCE TECH AGENCY <> SCIENCE TECH AGENCY,no,yes,no,,no,"Science and Technology Agency is the former ministry (abolished 2001), not JST; check filing years: if all after 2003 it is a truncated JST name"
+NANJING REBORN QUANTUM TECH <> NANJING RUBAN QUANTUM TECH,yes,no,no,co-applicant with RUBAN QUANTUM TECH on all its families,yes,Reborn = translation of Ruban; co-applicant on all its families
+PHOTONIC <> PHOTONIC TECH US,yes,no,yes,US subsidiary of Photonic Inc.,yes,US subsidiary of Photonic Inc.
+PHOTONIC <> PHOTONICS,yes,yes,no,co-applicant with Photonic Inc.,yes,"name variant, co-applicant with Photonic Inc."
+QUANTUM MACHINERY <> QUANTUM MACHINES,yes,no,no,co-applicant with Quantum Machines,yes,"name variant, co-applicant with Quantum Machines"
+TOSHIBA <> TOSHIBA MEMORY,yes,yes,no,"Toshiba Memory, sold June 2018 (now Kioxia): families 2017-18 only",yes,"owned by Toshiba at filing (families 2017-18, sold June 2018)"
