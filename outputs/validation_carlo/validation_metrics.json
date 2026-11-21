@@ -1,4 +1,9 @@
 {
+  "sample_size": 100,
+  "query_positives": 50,
+  "query_negatives": 50,
+  "ground_truth_positives": 36,
+  "ground_truth_negatives": 64,
   "accuracy": 0.86,
   "precision": 0.72,
   "recall": 1.0,
@@ -10,5 +15,12 @@
     "fn": 0,
     "tp": 36
   },
-  "unanimous_rate": 1.0
+  "inter_annotator_agreement": {
+    "unanimous_pct": 100.0,
+    "claude_gemini_agreement": 1.0,
+    "claude_gpt_agreement": 1.0,
+    "gemini_gpt_agreement": 1.0
+  },
+  "false_positive_count": 14,
+  "false_negative_count": 0
 }

@@ -226,7 +226,7 @@ def run_validation(live_api=False, output_dir=None):
     print("STEP 0 MULTI-LLM ENSEMBLE VALIDATION SUMMARY")
     print("=" * 70)
     print(f"Total Evaluated Sample Size : {n_total} patent families")
-    print(f"Query Predictions           : 50 Positives (Query=1), 50 Negatives (Query=0)")
+    print(f"Query Predictions           : {int((df_details['query_label'] == 1).sum())} Positives (Query=1), {int((df_details['query_label'] == 0).sum())} Negatives (Query=0)")
     print(f"Ensemble Ground Truth       : {sum(y_true == 1)} True Positives, {sum(y_true == 0)} True Negatives")
     print(f"Unanimous Model Consensus   : {unanimous_pct:.1f}% of all families")
     print(f"Pairwise Model Agreement    : Claude-Gemini: {agree_cg*100:.1f}% | Claude-GPT: {agree_co*100:.1f}% | Gemini-GPT: {agree_go*100:.1f}%")

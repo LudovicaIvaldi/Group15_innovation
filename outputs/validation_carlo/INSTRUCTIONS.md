@@ -34,9 +34,9 @@ Rules for values:
 
 ## How to use:
 1. Copy the system prompt above.
-2. Paste the contents of `step0-1/eval_prompts/patents_batch1.txt` (patents 1 to 50).
-3. Paste the contents of `step0-1/eval_prompts/patents_batch2.txt` (patents 51 to 100).
+2. Paste the contents of `outputs/validation_carlo/patents_batch1.txt` (patents 1 to 50).
+3. Paste the contents of `outputs/validation_carlo/patents_batch2.txt` (patents 51 to 100).
 4. Save the combined CSV rows into:
-   - For Claude: `outputs/validation_v2/valutazione_claude.csv`
-   - For Gemini: `outputs/validation_v2/valutazione_gemini.csv`
-   - For ChatGPT: `outputs/validation_v2/valutazione_chat.csv`
+   - For Claude: `outputs/validation_carlo/valutazione_claude.csv`
+   - For Gemini: `outputs/validation_carlo/valutazione_gemini.csv`
+   - For ChatGPT: `outputs/validation_carlo/valutazione_chat.csv`
