@@ -20,3 +20,10 @@ General pipeline, tested on the course gold standard. The brand key is the first
 ```
 
 Same pipeline as the gold notebook, with sector steps around it. Output: `harm_id_final` and `harmonized_name_final` for every organisation; individuals are kept with empty names.
+
+file finali: 
+gold standard no output solo metriche 
+prod è input per harm di settore 
+genero prima qc_applicants_harmonised -> modifice di settore qc_appolants_harmoized_final
+Haroization_output è quello che prende analisi in lettura e unisce con qc PROD le altre colonne 
+
